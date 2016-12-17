@@ -16,10 +16,9 @@
 
 
 
-
     <h2 class="text-white text-center">
 
-    Mundi Limos Copyright goes here 
+    Mundi Limos Copyright goes here
 
     </h2>
 
