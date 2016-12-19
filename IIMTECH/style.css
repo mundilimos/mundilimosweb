@@ -1,0 +1,27 @@
+.body{
+
+
+    background: #000000;
+    margin: auto;
+
+
+}
+
+
+html, body{
+
+    overflow-x: hidden;
+
+}
+
+
+#bigbg{
+
+
+    background-image: url(/wp-content/themes/IIMTECH/images/aboutus.jpg);
+    min-height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
