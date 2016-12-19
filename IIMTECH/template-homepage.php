@@ -25,6 +25,7 @@
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/clock.png" />
             <h3> ALWAYS ON TIME</h3>
+            <br />
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
