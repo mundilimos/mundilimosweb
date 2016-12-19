@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/header.php" afterPath="$PROJECT_DIR$/IIMTECH/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-homepage.php" afterPath="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
     </list>
     <ignored path="mundimain.iws" />
@@ -28,14 +26,14 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="720">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -45,12 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#49#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
         <option value="$PROJECT_DIR$/IIMTECH/footer.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
         <option value="$PROJECT_DIR$/IIMTECH/style.css" />
+        <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
       <updated>1481936507856</updated>
       <workItem from="1481936509045" duration="1448000" />
       <workItem from="1481941021439" duration="3132000" />
-      <workItem from="1482100783148" duration="3232000" />
+      <workItem from="1482100783148" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7812000" />
+    <option name="totallyTimeSpent" value="7954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1360" height="684" extended-state="6" />
@@ -355,7 +355,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#6#49#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -379,7 +381,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#6#49#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -427,27 +431,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
+    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="720">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+    <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#49#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
