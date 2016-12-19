@@ -71,3 +71,15 @@ img.android {
     height: auto;
     display: block;
 }
+
+.sub.section4{
+
+
+    background-image: url(/wp-content/themes/IIMTECH/images/Subscribe.jpg);
+    min-height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
