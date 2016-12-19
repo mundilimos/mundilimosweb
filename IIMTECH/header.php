@@ -43,7 +43,10 @@ if ( wp_is_mobile() ) { ?>
 	<link rel="alternate" href="https://mundilimos.com/" hreflang="en-gb"/>
 
 	</head>
-	<body <?php body_class(); ?>
+	<body <?php body_class(); ?> >
+
+
+
 	<section id="bigbg">
 <div class="container">
 		<div class="row">
