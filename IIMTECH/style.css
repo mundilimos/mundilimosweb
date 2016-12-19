@@ -1,7 +1,7 @@
 .body{
 
 
-    background: #000000;
+    background: #000000 !important;
     margin: auto;
 
 
@@ -19,9 +19,9 @@ html, body{
 
 
     background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg);
-    min-height: 800px;
+    min-height: 1000px;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
+background-position: center;
 }
