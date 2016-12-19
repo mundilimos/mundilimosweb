@@ -83,3 +83,23 @@ img.android {
     background-position: center;
 
 }
+
+
+section.sub.section4 {
+    padding-top: 14%;
+}
+
+.centerp{
+
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+    line-height: 2;
+
+}
+
+hr.smallhr {
+    width: 100px;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
