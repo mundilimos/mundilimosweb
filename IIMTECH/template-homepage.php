@@ -43,16 +43,16 @@
     <p>
         <a href="/video">Play presentation video</a>
         <a href="/onlineb">Play presentation video</a>
-        <a href="/downloadapp">Play presentation video</a> 
+        <a href="/downloadapp">Play presentation video</a>
     </p>
     <div class="container">
         <div class="row">
             <div class="col80">
             <div class="col-md-6">
-                <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.jpg"/>
+                <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.png"/>
             </div>
             <div class="col-md-6">
-                <img class="android" src="/wp-content/themes/IIMTECH/images/android.jpg"/>
+                <img class="android" src="/wp-content/themes/IIMTECH/images/android.png"/>
             </div>
             </div>
         </div>
