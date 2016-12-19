@@ -41,9 +41,9 @@
 <section class="section3">
     <img src="/wp-content/themes/IIMTECH/images/laptops.jpg"/>
     <p>
-        <a href="/video">Play presentation video</a> <br/>
-        <a href="/onlineb">Play presentation video</a>  <br/>
-        <a href="/downloadapp">Play presentation video</a>  <br/>
+        <a href="/video">Play presentation video</a>
+        <a href="/onlineb">Play presentation video</a>
+        <a href="/downloadapp">Play presentation video</a> 
     </p>
     <div class="container">
         <div class="row">
