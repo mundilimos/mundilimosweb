@@ -10,25 +10,25 @@
 
 <section class="section2">
     <div class="container">
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />
             <h3> ALL - INCLUSIVE RATES</h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/wheel.png" />
             <h3> PROFESSIONAL CHAUFFEURS</h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/clock.png" />
             <h3> ALWAYS ON TIME</h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/phone.png"/>
             <h3> 24 HOUR CUSTOMER SUPPORT </h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
