@@ -9,6 +9,15 @@
 
 
 <section class="section2">
+
+    <p class="text-center"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+
+        <br />
+        <br />
+
+    </p>
+
     <div class="container">
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />

@@ -61,6 +61,11 @@ if ( wp_is_mobile() ) { ?>
 <!-- nav goes here -->
 	</nav>
 </div>
+
+
+		<h2>WELCOME TRAVELER </h2>
+
+		<a href="/booking" class="booking">  BOOK A RIDE </a>
 </section>
 
 
