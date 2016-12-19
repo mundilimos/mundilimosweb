@@ -136,3 +136,11 @@ a.booking {
 section.section3 {
     padding: 10px;
 }
+
+
+.section2 p {
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    padding-bottom: 20px;
+}
