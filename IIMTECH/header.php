@@ -84,12 +84,37 @@ if ( wp_is_mobile() ) { ?>
 		</div>
 </div>
 		</div>
-	<nav>
 
 
 
+		<!-- Nav goes here -->
 
-	</nav>
+
+
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="col-md-4">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="logo pull-left" href="https://www.mundilimos.com"> <img class="logoimg" src="/wp-content/uploads/2016/07/mundilogo.png"> </a>
+				</div>
+			</div>
+			<div class="col-md-8">
+				<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-primary-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-9007 active"><a title="Home" href="/">Home</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9010"><a title="Fleet" href="https://www.mundilimos.com/fleet/">Fleet</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9008"><a title="Services" href="/service">Services</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9011"><a title="Blog" href="https://www.mundilimos.com/news-2/">Blog</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/contact-us/">Contact Us</a></li>
+					</ul></div>		</div>
+		</div>
+
+
+		<!--nav ends -->
 
 
 
