@@ -144,3 +144,16 @@ section.section3 {
     margin: auto;
     padding-bottom: 20px;
 }
+
+
+#sectiondiscover{
+    background-image: url(/wp-content/themes/IIMTECH/images/Fleet.jpg);
+    min-height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+
+
+}

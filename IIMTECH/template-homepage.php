@@ -117,6 +117,19 @@
 <br /><br />
 -->
 
+
+
+<section id="sectiondiscover">
+
+    <h2> SEDAN - SUV - STRETCH - LIMOUSINE - VAN - COACH </h2>
+
+    <a href="/booking" class="booking">  DISCOVER MORE </a>
+
+</section>
+
+
+
+
         <?php get_footer(); ?>
 
 
