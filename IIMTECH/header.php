@@ -101,7 +101,7 @@ if ( wp_is_mobile() ) { ?>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="logo pull-left" href="https://www.mundilimos.com"> <img class="logoimg" src="/wp-content/uploads/2016/07/mundilogo.png"> </a>
+					<a class="logo pull-left" href="https://www.mundilimos.com"> <img class="logoimg" src="https://www.mundilimos.com/wp-content/uploads/2016/07/mundilogo.png"> </a>
 				</div>
 			</div>
 			<div class="col-md-8">
