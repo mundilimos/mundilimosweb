@@ -48,13 +48,17 @@ if ( wp_is_mobile() ) { ?>
 
 
 	<section id="bigbg">
+
+
+
+		<div class="blackbg">
 <div class="container">
 		<div class="row">
 	<div class="col-md-4"></div>
 			<div class="col-md-8">
 				<div class="col-md-3"> <a href="mailto:info@mundilimos.com"> info@mundilimos.com</a> </div>
 				<div class="col-md-3"> <a href="tel:8003177087">  800.317.7087 </a> </div>
-				<div class="col-md-3">
+				<div class="col-md-5">
 
 
 
@@ -74,11 +78,19 @@ if ( wp_is_mobile() ) { ?>
 
 				</div>
 			</div>
+
+
+
+		</div>
+</div>
 		</div>
 	<nav>
-<!-- nav goes here -->
+
+
+
+
 	</nav>
-</div>
+
 
 
 		<h2>WELCOME TRAVELER </h2>
