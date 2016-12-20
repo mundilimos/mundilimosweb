@@ -42,8 +42,83 @@ if ( wp_is_mobile() ) { ?>
 	<link rel="alternate" href="https://mundilimos.com/" hreflang="en-us"/>
 	<link rel="alternate" href="https://mundilimos.com/" hreflang="en-gb"/>
 
+
+
+
+
+		<?php
+		if ( wp_is_mobile() ) { ?>
+			<link rel="stylesheet"  type="text/css" href="/wp-content/themes/IIMTECH/mobilemenu.css">
+		<?php } ?>
+
+
+
 	</head>
 	<body <?php body_class(); ?> >
+
+
+
+
+
+
+	<?php
+	if ( wp_is_mobile() ) { ?>
+		<div id="sticky" class="mobile-menu-slide">
+			<ul class="menu-slide-menu">
+				<li style="list-style: none; display: inline"><a href="#">
+						<div class="icon-btn menu-closer">
+							<h2 class="closemenuicon"><i class="fa fa-times" aria-hidden="true"></i></h2>
+						</div>
+					</a>
+				</li>
+				<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone"></i> Call Now!</a></li>
+				<li><a href="mailto:<?php echo $wemail ?>"> <i class="fa fa-envelope"></i> Email Us</a>
+				</li>
+			</ul>
+			<div class="mmx">
+				<?php wp_nav_menu(); ?>
+			</div>
+		</div>
+		<div class="mobile-contact-sticky">
+			<div class="sticky-menu">
+				<ul>
+					<li><a href="#">
+							<div class="icon-btn menu-trigger">
+								<i class="fa fa-bars fa-2x"></i>
+							</div>
+						</a></li>
+					<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone fa-2x"></i></a></li>
+					<li><a href="mailto:<?php echo $wemail ?>"> <i class="fa fa-envelope-o fa-2x"></i> </a></li>
+				</ul>
+			</div>
+		</div>
+	<?php } ?>
+
+<?php
+	if ( wp_is_mobile() ) { ?>
+	<header class="mobile" id="mobile-header">
+		<div id="splash" class="mobile-contact-panel">
+			<ul>
+				<li id="the-custom-logo">
+					<img src="<?php echo $logosrc; ?>" class="imgsplash"> </li>
+				<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone"></i> Call Now</a></li>
+				<li><span style="height: 4px;"></span></li>
+				<li><a href="<?php echo $booknow ?>"><i class="fa fa-car" aria-hidden="true"></i>
+						Book Now </a>
+				</li>
+			</ul>
+
+
+				<h1 class="site-title text-center" style="font-size: 30px; text-transform:none !important;">
+					Worldwide Chauffeured <br>
+					Services </h1>
+		</div>
+	</header>
+
+
+	<?php } ?>
+
+	<?php include 'options.php'; ?>
 
 
 
@@ -122,6 +197,8 @@ if ( wp_is_mobile() ) { ?>
 
 		<a href="/booking" class="booking">  BOOK A RIDE </a>
 </section>
+
+
 
 
 
