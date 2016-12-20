@@ -1,29 +1,9 @@
 //jQuery(document).ready(function($) {
 
-	//nav bar scroll top and not
-/*
-	$(window).on("scroll", function() {
-		var scrollPos = $(window).scrollTop();
-		if (scrollPos <= 0) {
-
-			$('nav.navbar.navbar-default').removeClass('nav-fixed');
-			$('div.blackbg').removeClass('nav-fixed');
-			$('nav.navbar.navbar-default').attr('style', 'top: inherit !important');
 
 
 
-		} else {
 
-			$('div.blackbg').addClass('nav-fixed');
-			$('nav.navbar.navbar-default').addClass('nav-fixed');
-			$('nav.navbar.navbar-default').attr('style', 'top: 3em !important');
-
-
-		}
-	});
-*/
-
- /*
  	$(function() {
 		$('.cr1').mouseenter(function() {
 			$('.m1p').fadeIn(500);
@@ -54,8 +34,8 @@
 
 		});
 	});
-*/
-/*
+
+
 	function priceSlider() {
 
 		$("#lider section:gt(0)").hide();
@@ -70,7 +50,7 @@
 	}
 	if ($('#lider').length) {
 		priceSlider();
-	} */
+	}
 
 	(function slideMenu() {
 		var $trigger = 'menu-trigger'; // the triger class
