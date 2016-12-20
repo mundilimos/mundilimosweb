@@ -211,3 +211,48 @@ section#sectionm3 p {
     font-size:17px;
     padding-top:10px;
 }
+
+section#sectionm2 ul {
+
+    padding-left: 0;
+}
+
+
+.bss strong {
+    color: #07cef2;
+    text-align: center;
+    display: block;
+}
+
+.bss i {
+
+
+    display: block;
+    width: 110px;
+    height: 110px;
+    margin: auto;
+    font-size: 4em;
+    background: transparent;
+    color: #ffffff;
+    border-radius: 50%;
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+
+h2{
+    letter-spacing: 5px;
+    font-weight: 200;
+
+}
+
+section#sectionm3, #sectionm2 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+section#sectiondiscover h2 {
+    text-align: center;
+    padding-top: 20%;
+}
