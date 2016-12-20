@@ -157,3 +157,57 @@ section.section3 {
 
 
 }
+
+
+
+section#sectionm2 ul {
+    list-style-type: none;
+    display: block;
+}
+
+
+
+
+section#sectionm1 {
+    max-width:100% !important;
+
+
+}
+
+
+section#sectionm1 p {
+    font-size:17px;
+    padding-top:10px;
+
+
+}
+
+hr.sixtyhr{
+
+    width:100px;margin: auto; display: block;
+
+}
+
+ul.nostyle.s2li li {
+    color: #23688c;
+    font-weight: 400;
+    padding: 2px;
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+}
+
+ul.nostyle.s2li li {
+    font-size: 1.6em !important;
+}
+
+
+section#sectionm3 {
+    max-width:100% !important;
+
+}
+
+section#sectionm3 p {
+    font-size:17px;
+    padding-top:10px;
+}

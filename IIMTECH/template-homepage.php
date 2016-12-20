@@ -130,6 +130,134 @@
 
 
 
+<br /><br/>
+<br /><br/>
+
+<section id="sectionm1" style="width: 100%; max-width: 80%; margin: auto;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center" style="letter-spacing: 2px;">
+                    SERVICES </h1>
+
+                <br />
+                <br />
+                <hr class="sixtyhr" style="width:100px;margin: auto; display: block;">
+                <br />
+                <br />
+
+                <h2 class="text-center" style="font-weight: 100;">   YOUR EXPERIENCE, OUR EXPERIENCE
+
+                </h2>
+
+                <br />
+                <br />
+                <p class="text-center" style="max-width: 800px; margin: auto;">
+
+                    Our services are designated to offer the prime experience in chauffeured ground transportation, overwhelming our clients – however corporate or private; large or small. We integrate the industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success.
+
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+</section>
+
+<br /><br/>
+<br /><br/>
+
+
+<section id="sectionm2">
+    <div class="container">
+        <div class="row">
+             <div class="col-md-12">
+                <br /><br/>
+
+                <ul class="nostyle s2li">
+
+                    <li> Corporate Transportation </li>
+                    <li> Airport Transportation </li>
+                    <li> Seaport Transportation </li>
+                    <li> City Tours </li>
+                    <li> Celebrations </li>
+                    <li> Ceremonies </li>
+                    <li> Bars / Restaurants </li>
+                    <li> Nightlife </li>
+                    <li> Sporting Events</li>
+                    <li> Road Shows </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section id="sectionm3"  style="width: 100%; max-width: 80%; margin: auto;">
+    <div class="container">
+        <div class="row">
+            <h2 class="text-center"> TECHNOLUXURY </h2>
+            <br />
+            <p class="text-center">
+                Here at Mundi Limos we appreciate Fort Lauderdale and we do everything we can to guarantee that all of our rides provides you the best experience you've ever had in your lifetime. Mundi Limousine service offers you and your family the ability to be driven by a professional chauffeur to and from anywhere in Fort Lauderdale. Enjoy a ride in  South Florida in a limousine of choice. From Stretch Limos, Party Buses, Hummer Limousines, Mercedes Limousine and more we got it all.
+            </p>
+        </div> </div> </section>
+
+
+
+<section id="sectionm5"  style="width: 100%; max-width: 80%; margin: auto;">
+    <div class="container">
+        <div class="row">
+            <div class=" col-md-3 bss">
+                <i class="fa fa-wifi" aria-hidden="true"></i>
+                <strong> ONBOARD WI-FI </strong>
+                <p>
+                    Our passengers are afforded the convenience of being connected at high speed during their transfers.
+                </p>
+            </div>
+            <div class=" col-md-3 boxdes2 bss">
+                <i class="fa fa-tablet" aria-hidden="true"></i>
+                <strong>ONBOARD TABLET</strong>
+                <p>
+                    Anticipating the needs of our clients is what we do best. Every vehicle is equipped with a tablet and Wi-fi.
+                </p>
+            </div>
+            <div class=" col-md-3 bss">
+                <i class="fa fa-desktop" aria-hidden="true"></i>
+                <strong> GPS VEHICLE TRACKING </strong>
+                <p>
+                    Our vehicles are equipped with GPS technology so our clients wellbeing can be monitored in real time.
+                </p>
+            </div>
+            <div class=" col-md-3 bss">
+                <i class="fa fa-plane" aria-hidden="true"></i>
+                <strong> FLIGHT TRACKING </strong>
+                <p>
+                    Always on time. We use flight tracking technology to be continuously knowledgeable about flight status.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<br /><br/>
+<br /><br/>
+
+
+
+
+
         <?php get_footer(); ?>
 
 
