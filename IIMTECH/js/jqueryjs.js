@@ -71,7 +71,7 @@
 	if ($('#lider').length) {
 		priceSlider();
 	} */
-/*
+
 	(function slideMenu() {
 		var $trigger = 'menu-trigger'; // the triger class
 		var $showslide = 'menu-active'; // the active class
@@ -92,4 +92,4 @@
 
 	}).call(this);
 
-}); */
+});
