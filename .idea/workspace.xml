@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" afterPath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
-    </list>
+    <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="" />
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -72,8 +70,8 @@
       <file leaf-file-name="jqueryjs.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="317">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -696,12 +694,12 @@
       <updated>1481936507856</updated>
       <workItem from="1481936509045" duration="1448000" />
       <workItem from="1481941021439" duration="3132000" />
-      <workItem from="1482100783148" duration="18043000" />
+      <workItem from="1482100783148" duration="18128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22623000" />
+    <option name="totallyTimeSpent" value="22708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1360" height="684" extended-state="0" />
@@ -927,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state relative-caret-position="317">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
           <folding />
         </state>
       </provider>
