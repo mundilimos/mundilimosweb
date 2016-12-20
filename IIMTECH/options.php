@@ -9,7 +9,7 @@
 $wphone = '8003177087';
 
 //logo
-$logosrc = '/wp-content/uploads/2016/07/mundilogo.png';
+$logosrc = 'https://mundilimos.com/wp-content/uploads/2016/07/mundilogo.png';
 
 //email
 $wemail = 'info@mundilimos.com';
