@@ -304,11 +304,30 @@ a.cta{
 
 }
 
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: transparent !important;
+}
+
+
+ul#menu-primary-1 {
+    margin: 15px auto;
+    margin-left: 10%;
+    font-size: 16px;
+}
+
 .blackbg{
 
     background-color: #000;
     opacity: 0.7;
 
+}
+
+img.logoimg {
+    display: block;
+    width: 88%;
+    height: auto;
 }
 
 
