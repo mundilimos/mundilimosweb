@@ -52,9 +52,27 @@ if ( wp_is_mobile() ) { ?>
 		<div class="row">
 	<div class="col-md-4"></div>
 			<div class="col-md-8">
-				<div class="col-md-3"> email</div>
-				<div class="col-md-3"> phone </div>
-				<div class="col-md-3"> Social Icons </div>
+				<div class="col-md-3"> <a href="mailto:info@mundilimos.com"> info@mundilimos.com</a> </div>
+				<div class="col-md-3"> <a href="tel:8003177087">  800.317.7087 </a> </div>
+				<div class="col-md-3">
+
+
+
+					<ul class="footersocial">
+						<li><a href="https://www.facebook.com/mundilimos" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i>
+							</a></li>
+						<li><a href="https://twitter.com/mundilimos" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>
+							</a></li>
+						<li><a href="https://www.linkedin.com/company/mundi-limos" target="_blank"> <i class="fa fa-linkedin" aria-hidden="true"></i>
+							</a></li>
+						<li><a href="https://plus.google.com/+mundiLimos" target="_blank"> <i class="fa fa-google-plus-official" aria-hidden="true"></i>
+							</a></li>
+						<li><a href="https://www.youtube.com/channel/UClHIHKPbVOfFFCr4BYGvVfw" target="_blank"> <i class="fa fa-youtube" aria-hidden="true"></i>
+							</a></li>
+					</ul>
+
+
+				</div>
 			</div>
 		</div>
 	<nav>
