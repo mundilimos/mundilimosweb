@@ -118,7 +118,7 @@ if ( wp_is_mobile() ) { ?>
 
 	<?php } ?>
 
-	<?php include 'options.php'; ?>
+
 
 
 
@@ -200,7 +200,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-
+	<?php include 'options.php'; ?>
 
 
 

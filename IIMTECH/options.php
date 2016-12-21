@@ -1,6 +1,20 @@
-<?php 
+<?php
 
 
+
+
+
+$testimonialP = 'Our services are designated to offer the prime experience ';
+$testimonialN = 'the who who';
+$testimonialPos  = 'who that';
+
+$testimonialP1  = 'Our services are designated to offer the prime experience Our services are designated to offer the prime experience ';
+$testimonialN1   = 'Mr who';
+$testimonialPos1  = 'oi oi oi';
+
+$testimonialP2  = '  Offer the prime experience Our services are designated to offer the prime experience ';
+$testimonialN2   = ' Hello There';
+$testimonialPos2  = ' The hello';
 
 
 

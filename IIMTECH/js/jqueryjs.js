@@ -38,11 +38,11 @@ jQuery(document).ready(function($) {
 
 	function priceSlider() {
 
-		$("#lider section:gt(0)").hide();
+		$("#lider div:gt(0)").hide();
 
 		//running every 3 seconds fading out and in and appending
 		setInterval(function() {
-			$('#lider section:first').fadeOut(500, function() {
+			$('#lider div:first').fadeOut(500, function() {
 				$(this).next().fadeIn(1000).end().appendTo('#lider');
 			});
 		}, 5000);

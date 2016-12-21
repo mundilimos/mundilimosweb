@@ -255,7 +255,41 @@
 <br /><br/>
 
 
+<div id="lider">
 
+
+    <div class="testimonial">
+
+        <p class="text-center"> <?php echo $testimonialP ?> </p>
+        <h3 class="text-center"> <?php echo $testimonialN ?> </h3>
+        <p class="small text-center"><?php echo $testimonialPos ?> </p>
+
+    </div>
+
+    <div class="testimonial">
+
+        <p class="text-center"> <?php echo $testimonialP1 ?> </p>
+        <h3 class="text-center"> <?php echo $testimonialN1 ?> </h3>
+        <p class="small text-center"><?php echo $testimonialPos1 ?> </p>
+
+    </div>
+    <div class="testimonial">
+
+        <p class="text-center"> <?php echo $testimonialP2 ?> </p>
+        <h3 class="text-center"> <?php echo $testimonialN2 ?> </h3>
+        <p class="small text-center"><?php echo $testimonialPos2 ?> </p>
+
+    </div>
+
+    <div class="testimonial">
+
+
+
+    </div>
+
+
+
+</div>
 
 
         <?php get_footer(); ?>
