@@ -53,6 +53,8 @@ body {
 
 .section2 h3 {
     text-align: center;
+    font-size: 19px;
+    letter-spacing: 3px;
 }
 
 .section2 p {
@@ -141,6 +143,9 @@ h2, h3, h4, h5, h6, p, a, strong, span, h1, div,{
 section.section2 {
     margin-top: 5em;
 }
+
+
+
 
 
 a{
