@@ -36,6 +36,12 @@ font-size: 10px;
 
 }
 
+a.cta{
+
+    letter-spacing: 1px;
+    font-size: 11px;
+
+}
 
 body {
        color: #fff !important;
