@@ -21,7 +21,7 @@
     <div class="container icons">
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />
-            <h3> ALL - INCLUSIVE RATES</h3>
+            <h3> ALL - INCLUSIVE <br /> RATES</h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not </p>
         </div>
@@ -33,14 +33,14 @@
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/clock.png" />
-            <h3> ALWAYS ON TIME</h3>
-            <br />
+            <h3> ALWAYS ON <br /> TIME</h3>
+
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/phone.png"/>
-            <h3> 24 HOUR CUSTOMER SUPPORT </h3>
+            <h3> 24 HOUR CUSTOMER <br /> SUPPORT </h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
