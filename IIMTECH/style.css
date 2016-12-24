@@ -104,6 +104,10 @@ hr.smallhr {
     margin-bottom: 3em;
 }
 
+body{
+font-family:font-family: 'Lato', sans-serif !important; 
+
+}
 
 section.section2 {
     margin-top: 5em;
@@ -126,13 +130,24 @@ a.booking {
     padding: 10px;
     border: solid 2px #2ca6bd;
     width: 100%;
+    text-decoration: none !important;
     letter-spacing: 2px;
     max-width: 280px;
     border-radius: 2px;
-    color: #fff;
+    color: #fff !important;
     background-color: #2ca6bd;
     margin: 30px auto;
 }
+
+a.booking:hover{
+
+background-color: #19bad8;
+border: solid 2px #19bad8;
+transition: background-color, border, ease-in-out 0.3s; 
+
+
+}
+
 
 section.section3 {
     padding: 10px;
