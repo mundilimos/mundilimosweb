@@ -48,6 +48,8 @@ body {
     margin: auto;
     text-align: center;
     height: auto;
+    margin-bottom: 7px;
+    max-width: 153px;
 }
 
 
@@ -55,6 +57,7 @@ body {
     text-align: center;
     font-size: 17px;
     letter-spacing: 3px;
+    line-height: 1.2;
 }
 
 .section2 p {
