@@ -43,6 +43,14 @@ a.cta{
 
 }
 
+.footersocial i{
+
+    font-size: 10px;
+
+}
+
+
+
 body {
        color: #fff !important;
     background-color: #000 !important;
@@ -131,10 +139,28 @@ section.sub.section4 {
 
 .centerp{
 
-    max-width: 800px;
+    max-width: 900px;
     text-align: center;
     margin: auto;
     line-height: 2;
+letter-spacing: 1px;
+    font-size: 10px;
+
+}
+
+
+.section5 h2 {
+    padding-bottom: 27px;
+    padding-top: 27px;
+    letter-spacing: 5px;
+}
+.section5 h3{
+
+
+    padding-bottom: 27px;
+    letter-spacing: 5px;
+    font-size: 17px;
+    padding-top: 27px;
 
 }
 
