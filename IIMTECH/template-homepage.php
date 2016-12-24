@@ -60,8 +60,8 @@
         <br /><br />
 
         <a href="/video">Play presentation video</a>
-        <a href="/onlineb">Play presentation video</a>
-        <a href="/downloadapp">Play presentation video</a>
+        <a href="/onlineb">View online brochure</a>
+        <a href="/downloadapp"> Download mobile app below </a>
 
         <br /><br />
 
