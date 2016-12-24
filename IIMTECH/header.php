@@ -133,8 +133,8 @@ if ( wp_is_mobile() ) { ?>
 		<div class="row">
 	<div class="col-md-4"></div>
 			<div class="col-md-8">
-				<div class="col-md-3"> <a href="mailto:info@mundilimos.com" class="cta"> <i class="fa fa-envelope" aria-hidden="true"> </i> info@mundilimos.com</a> </div>
-				<div class="col-md-3"> <a href="tel:8003177087" class="cta">  <i class="fa fa-phone" aria-hidden="true"></i>  800.317.7087 </a> </div>
+				<div class="col-md-3"> <a href="mailto:info@mundilimos.com" class="cta"> <i class="fa fa-envelope" aria-hidden="true"> </i> &nbsp;  &nbsp; info@mundilimos.com</a> </div>
+				<div class="col-md-3"> <a href="tel:8003177087" class="cta">  <i class="fa fa-phone" aria-hidden="true"></i>   &nbsp;  &nbsp; 800.317.7087 </a> </div>
 				<div class="col-md-5">
 
 
