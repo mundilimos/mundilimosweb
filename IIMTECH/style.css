@@ -110,7 +110,13 @@ font-family: 'Lato', sans-serif !important;
 
 }
 
+h2, h3, h4, h5, h6, p, a, strong, span, h1, div,{
 
+
+    font-family: 'Lato', sans-serif !important;
+
+
+}
 
 section.section2 {
     margin-top: 5em;
