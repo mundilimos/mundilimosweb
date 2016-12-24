@@ -172,8 +172,9 @@ a.booking {
     border: solid 2px #2ca6bd;
     width: 100%;
     text-decoration: none !important;
-    letter-spacing: 2px;
-    max-width: 280px;
+    letter-spacing: 3px;
+    max-width: 220px;
+    font-size: 12px;
     border-radius: 2px;
     color: #fff !important;
     background-color: #2ca6bd;
