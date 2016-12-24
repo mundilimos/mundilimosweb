@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-homepage.php" afterPath="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,8 +78,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+            <state relative-caret-position="261">
+              <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -137,8 +137,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
         <option value="$PROJECT_DIR$/IIMTECH/options.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
       </list>
     </option>
   </component>
@@ -693,12 +693,12 @@
       <workItem from="1481936509045" duration="1448000" />
       <workItem from="1481941021439" duration="3132000" />
       <workItem from="1482100783148" duration="21723000" />
-      <workItem from="1482595696726" duration="687000" />
+      <workItem from="1482595696726" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26990000" />
+    <option name="totallyTimeSpent" value="27326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1360" height="820" extended-state="0" />
@@ -967,8 +967,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+        <state relative-caret-position="261">
+          <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
           <folding />
         </state>
       </provider>
