@@ -18,7 +18,7 @@
 
     </p>
 
-    <div class="container">
+    <div class="container icons">
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />
             <h3> ALL - INCLUSIVE RATES</h3>

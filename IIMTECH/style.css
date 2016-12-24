@@ -59,6 +59,7 @@ body {
 
 .section2 p {
     text-align: center;
+    letter-spacing: 1px;
 
 }
 
@@ -386,7 +387,9 @@ img.logoimg {
     display: block;
     width: 88%;
     height: auto;
+    margin-top: 2px;
 }
+
 
 
 ul.footersocial {
