@@ -189,7 +189,7 @@ if ( wp_is_mobile() ) { ?>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9011"><a title="Blog" href="https://www.mundilimos.com/news-2/">Blog</a></li>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/about-us/">About</a></li>
 
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/contact-us/">Contact Us</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/contact-us/">Contact</a></li>
 
 					</ul></div>		</div>
 		</div>
