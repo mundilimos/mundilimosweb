@@ -159,13 +159,13 @@ letter-spacing: 1px;
 
     padding-bottom: 27px;
     letter-spacing: 5px;
-    font-size: 17px;
+    font-size: 16px;
     padding-top: 27px;
 
 }
 
 hr.smallhr {
-    width: 100px;
+    width: 70px;
     margin-top: 3em;
     margin-bottom: 3em;
 }
