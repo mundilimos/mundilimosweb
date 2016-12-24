@@ -185,8 +185,12 @@ if ( wp_is_mobile() ) { ?>
 				<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-primary-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-9007 active"><a title="Home" href="/">Home</a></li>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9010"><a title="Fleet" href="https://www.mundilimos.com/fleet/">Fleet</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9008"><a title="Services" href="/service">Services</a></li>
+
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9011"><a title="Blog" href="https://www.mundilimos.com/news-2/">Blog</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/about-us/">About</a></li>
+
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9009"><a title="Contact Us" href="https://www.mundilimos.com/contact-us/">Contact Us</a></li>
+
 					</ul></div>		</div>
 		</div>
 
