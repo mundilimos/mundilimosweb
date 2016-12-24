@@ -88,8 +88,8 @@
       <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+            <state relative-caret-position="145">
+              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
               </folding>
@@ -692,12 +692,12 @@
       <workItem from="1481936509045" duration="1448000" />
       <workItem from="1481941021439" duration="3132000" />
       <workItem from="1482100783148" duration="21723000" />
-      <workItem from="1482595696726" duration="1955000" />
+      <workItem from="1482595696726" duration="1986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28258000" />
+    <option name="totallyTimeSpent" value="28289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -964,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+        <state relative-caret-position="145">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="true" />
           </folding>

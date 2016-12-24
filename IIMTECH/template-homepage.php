@@ -62,13 +62,13 @@
         <a href="/video">Play presentation video</a>
         <a href="/onlineb">View online brochure</a>
 
-
+        <br />
 
 
         <hr class="smallhr">
 
 
-    <br />
+
     <br />
 
         <a href="/downloadapp"> Download mobile app below </a>
