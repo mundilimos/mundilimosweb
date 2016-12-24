@@ -17,6 +17,26 @@ background-position: center;
 }
 
 
+i.fa {
+color:#2ca6bd;
+
+}
+
+.footersocial i {
+
+color: #fff !important;
+}
+
+ul#menu-primary-1 li a{
+
+letter-spacing: 2px;
+text-transform: uppercase;
+font-size: 11px;
+ 
+
+}
+
+
 body {
        color: #fff !important;
     background-color: #000 !important;
