@@ -86,6 +86,8 @@
 
 <section class="sub section4">
     <h2 class="text-white text-center">   SUBSCRIBE FOR SPECIAL OFFERS</h2>
+
+    <a href="mailto:info@mundilimos.com?subject=Subscribe To Mundi Limousine" class="subscription booking"> SUBSCRIBE TO MUNDI LIMOUSINE </a>
     <!-- sub goes here -->
 </section>
 
