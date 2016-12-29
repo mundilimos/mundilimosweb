@@ -145,7 +145,7 @@
 <br /><br/>
 <br /><br/>
 
-<section id="sectionm1" style="width: 100%; max-width: 80%; margin: auto;">
+<section id="sectionm1 section5" style="width: 100%; max-width: 80%; margin: auto;">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -215,7 +215,7 @@
 
 
 
-<section id="sectionm3"  style="width: 100%; max-width: 80%; margin: auto;">
+<section id="sectionm3 section5"  style="width: 100%; max-width: 80%; margin: auto;">
     <div class="container">
         <div class="row">
             <h2 class="text-center"> TECHNOLUXURY </h2>
