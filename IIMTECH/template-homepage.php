@@ -10,7 +10,7 @@
 
 <section class="section2">
 
-    <p class="text-center">
+    <p class="text-center" style="margin-bottom: 20px;">
 
         What that entails for our boundless client base across six continents is a company that can offer unparalleled luxury transportation services anytime, anywhere. Mundi Limousine was born to exceed.
 
@@ -24,7 +24,7 @@
     <div class="container icons">
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />
-            <h3> ALL - INCLUSIVE <br /> RATES</h3>
+            <h3> ALL-INCLUSIVE <br /> RATES</h3>
             <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
             <p> Contrary to popular belief, Lorem Ipsum is not </p>
         </div>
