@@ -12,11 +12,8 @@ get_header();
 
 
 
-<section class="container">
-
-
     <div class="text-center">
-
+        
 
         <h3>THE PERFECT SEAT FOR ANY JOURNEY
 
@@ -279,8 +276,7 @@ get_header();
 
 
 
-</section>
+
 
 
 <?php get_footer(); ?>
-
