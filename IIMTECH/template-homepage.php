@@ -152,17 +152,15 @@
                 <h2 class="text-center text-white" style="letter-spacing: 2px;">
                     SERVICES </h2>
 
-                <br />
-                <br />
+
                 <hr class="smallhr">
-                <br />
-                <br />
+
 
                 <h3 class="text-center text-white" style="font-weight: 100;">   YOUR EXPERIENCE, OUR EXPERIENCE
 
                 </h3>
 
-                <br />
+                9
                 <br />
                 <p class="text-center centerp" style="max-width: 800px; margin: auto;">
 
@@ -267,6 +265,7 @@
 <br /><br/>
 
 
+<!--
 <div id="lider">
 
 
@@ -301,7 +300,7 @@
 
 
 
-</div>
+</div> -->
 
 
         <?php get_footer(); ?>
