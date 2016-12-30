@@ -197,17 +197,20 @@ if ( wp_is_mobile() ) { ?>
 					</ul></div>		</div>
 		</div>
 
+
+	<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?>  <h2 class="text-center text-white"><?php the_title(); ?> </h2> <?php } ?>
+
+
 		</div>
 
 		<!--nav ends -->
 
 
-		<?php if( is_page_template("template-homepage.php") ){ ?> <h2>WELCOME TRAVELER </h2> <?php } else {?>
+		<?php if( is_page_template("template-homepage.php") ){ ?> <h2>WELCOME TRAVELER </h2> <?php } ?>
 
 
 
 
-		<h2 class="text-center text-white"> <?php the_title(); ?> </h2> <?php } ?>
 
 		<a href="/booking" class="booking">  BOOK A RIDE </a>
 </section>
