@@ -117,10 +117,10 @@
         <div class="row">
             <div class="col80">
             <div class="col-md-6">
-                <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.png"/>
+                <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.svg"/>
             </div>
             <div class="col-md-6">
-                <img class="android" src="/wp-content/themes/IIMTECH/images/android.png"/>
+                <img class="android" src="/wp-content/themes/IIMTECH/images/android.svg"/>
             </div>
             </div>
         </div>
