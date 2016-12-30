@@ -184,15 +184,12 @@
 
 </section>
 
-<br /><br/>
-<br /><br/>
 
 
 <section id="sectionm2">
     <div class="container">
         <div class="row">
              <div class="col-md-12">
-                <br /><br/>
 
                 <ul class="nostyle s2li">
 

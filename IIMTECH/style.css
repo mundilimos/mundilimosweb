@@ -151,10 +151,23 @@ section.sub.section4 {
     margin: auto;
     line-height: 2;
 letter-spacing: 1px;
+    font-weight:300;
     font-size: 10px;
 
 }
 
+ul.nostyle.s2li li {
+    font-weight: 300;
+}
+
+
+ul.nostyle.s2li li {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 3.5;
+    font-size: 10px !important;
+}
 
 .section5 h2 {
     padding-bottom: 27px;
@@ -167,6 +180,7 @@ letter-spacing: 1px;
     padding-bottom: 27px;
     letter-spacing: 5px;
     font-size: 16px;
+    font-weight:300;
     padding-top: 27px;
 
 }
@@ -181,6 +195,7 @@ hr.smallhr {
 .section5{
 
     padding-bottom: 4%;
+
 
 }
 
@@ -238,6 +253,7 @@ a.booking {
     color: #fff !important;
     background-color: #2ca6bd;
     margin: 30px auto;
+    font-weight: 300;
 }
 
 a.booking:hover{
@@ -259,6 +275,7 @@ section.section3 {
     text-align: center;
     max-width: 800px;
     margin: auto;
+    font-weight:300;
     padding-bottom: 20px;
 }
 
@@ -275,6 +292,15 @@ section.section3 {
 
 }
 
+
+section.section3 a {
+    font-weight: 300 !important;
+    line-height: 2;
+}
+
+.icons p {
+    font-weight: 300 !important;
+}
 
 
 section#sectionm2 ul {

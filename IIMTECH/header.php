@@ -51,8 +51,7 @@ if ( wp_is_mobile() ) { ?>
 			<link rel="stylesheet"  type="text/css" href="/wp-content/themes/IIMTECH/mobilemenu.css">
 		<?php } ?>
 
-		<link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
-
+		<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
 	</head>
 	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff !important; color:#000  !important; <?php } ?>">
