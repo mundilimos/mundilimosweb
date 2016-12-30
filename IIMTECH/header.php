@@ -212,7 +212,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-		<a href="/booking" class="booking">  BOOK A RIDE </a>
+		<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
 
 
 		<?php } ?>

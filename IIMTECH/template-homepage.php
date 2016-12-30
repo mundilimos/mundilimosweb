@@ -10,7 +10,10 @@
 
 <section class="section2">
 
-    <p class="text-center"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <p class="text-center">
+
+        What that entails for our boundless client base across six continents is a company that can offer unparalleled luxury transportation services anytime, anywhere. Mundi Limousine was born to exceed.
+
 
 
         <br />
