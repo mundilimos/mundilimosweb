@@ -97,12 +97,11 @@
 
     <img src="/wp-content/themes/IIMTECH/images/laptops.jpg"/>
     <p class="contraryp">
-        <br /><br />
 
         <a href="/video">Play presentation video</a>
         <a href="/onlineb">View online brochure</a>
 
-        <span class="text-center text-white contraryp"> Download mobile app below </span>
+        <span class="text-center text-white contraryp"> Download mobile app </span>
 
 
 

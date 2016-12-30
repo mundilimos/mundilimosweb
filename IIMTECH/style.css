@@ -99,7 +99,8 @@ span.bluestar {
     padding-bottom: 20px;
     letter-spacing: 2px;
     font-size: 11px;
-    line-height: 2;
+    line-height: 3;
+    margin-top: -3px;
 
 }
 
@@ -342,7 +343,7 @@ section.section3 {
 
 
 section.section3 a {
-     line-height: 2;
+     line-height: 3;
 }
 
 .icons p {
