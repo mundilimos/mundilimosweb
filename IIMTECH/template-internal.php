@@ -16,9 +16,6 @@ get_header();
 
 
     <div class="text-center">
-        <h2> FLEET </h2>
-
-        <br><br>
 
 
         <h3>THE PERFECT SEAT FOR ANY JOURNEY

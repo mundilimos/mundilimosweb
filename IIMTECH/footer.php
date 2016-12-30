@@ -37,6 +37,8 @@
 
 
 <?php wp_footer(); ?>
+
+
 <script src="/wp-content/themes/IIMTECH/js/jqueryjs.js"></script>
 <script src="/wp-content/themes/IIMTECH/js/functions.js"></script>
 

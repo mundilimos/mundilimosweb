@@ -18,8 +18,7 @@
  
  
  <div class="text-center">
-<h2> SERVICES</h2>
-<br><br>
+
 <h3>YOUR EXPERIENCE, OUR EXPERIENCE
 </h3><br><br>
 <p>Our services are designated to offer the prime experience in chauffeured ground transportation, overwhelming our clients – however corporate or private; large or small. We integrate the industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success.
