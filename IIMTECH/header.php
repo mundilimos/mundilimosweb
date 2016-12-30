@@ -122,7 +122,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-	<section id="bigbg">
+	<section id="<?php if( is_page_template("template-homepage.php") ){ ?> bigbg <?php }?>">
 
 
 
