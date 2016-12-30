@@ -129,7 +129,9 @@ if ( wp_is_mobile() ) { ?>
 
 
 		<div class="blackbg">
-<div class="container">
+
+
+			<div class="container">
 		<div class="row">
 	<div class="col-md-4"></div>
 			<div class="col-md-8">
@@ -167,7 +169,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<!-- Nav goes here -->
 
-
+<div style="<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -195,6 +197,7 @@ if ( wp_is_mobile() ) { ?>
 					</ul></div>		</div>
 		</div>
 
+		</div>
 
 		<!--nav ends -->
 
