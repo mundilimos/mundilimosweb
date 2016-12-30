@@ -70,7 +70,7 @@ body {
     text-align: center;
     height: auto;
     margin-bottom: 7px;
-    max-width: 153px;
+    max-width: 72px;
 }
 
 
@@ -87,8 +87,39 @@ span.bluestar {
     color: #2ca6bd;
     margin-right: 6px;
     margin-left: 6px;
-    font-size: 9px;
+    font-size: 8px;
 }
+
+
+.contraryp{
+
+    text-align: center;
+     margin: auto;
+    font-weight: 100;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+    font-size: 11px;
+
+}
+
+
+.contraryp a{
+
+    text-align: center;
+    margin: auto;
+    font-weight: 100;
+     letter-spacing: 2px;
+    font-size: 11px;
+
+}
+
+
+
+.contraryp a:hover{
+    color: #2ca6bd;
+    
+}
+
 
 
 .starwrapper {
