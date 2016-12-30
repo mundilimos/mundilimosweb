@@ -324,15 +324,15 @@ hr.sixtyhr{
 }
 
 ul.nostyle.s2li li {
-    color: #23688c;
-    font-weight: 400;
+    color: #2ca6bd;
+    font-weight: 300;
     padding: 2px;
     margin: auto;
     text-align: center;
     font-size: 15px;
 }
 
- 
+
 
 
 section#sectionm3 {
@@ -348,7 +348,7 @@ section#sectionm2 ul {
 
 
 .bss strong {
-    color: #07cef2;
+    color: #2ca6bd;
     text-align: center;
     display: block;
 }

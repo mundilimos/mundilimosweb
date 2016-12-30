@@ -230,28 +230,28 @@
         <div class="row">
             <div class=" col-md-3 bss">
                 <i class="fa fa-wifi" aria-hidden="true"></i>
-                <strong> ONBOARD WI-FI </strong>
+                ONBOARD WI-FI 
                 <p>
                     Our passengers are afforded the convenience of being connected at high speed during their transfers.
                 </p>
             </div>
             <div class=" col-md-3 boxdes2 bss">
                 <i class="fa fa-tablet" aria-hidden="true"></i>
-                <strong>ONBOARD TABLET</strong>
+                ONBOARD TABLET
                 <p>
                     Anticipating the needs of our clients is what we do best. Every vehicle is equipped with a tablet and Wi-fi.
                 </p>
             </div>
             <div class=" col-md-3 bss">
                 <i class="fa fa-desktop" aria-hidden="true"></i>
-                <strong> GPS VEHICLE TRACKING </strong>
+                 GPS VEHICLE TRACKING
                 <p>
                     Our vehicles are equipped with GPS technology so our clients wellbeing can be monitored in real time.
                 </p>
             </div>
             <div class=" col-md-3 bss">
                 <i class="fa fa-plane" aria-hidden="true"></i>
-                <strong> FLIGHT TRACKING </strong>
+                FLIGHT TRACKING
                 <p>
                     Always on time. We use flight tracking technology to be continuously knowledgeable about flight status.
                 </p>
