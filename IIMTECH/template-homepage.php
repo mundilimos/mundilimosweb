@@ -95,7 +95,19 @@
 
     <br /><br />
 
-    <img src="/wp-content/themes/IIMTECH/images/laptops.jpg"/>
+
+    <div class="playbuttondiv">
+
+    <img src="/wp-content/themes/IIMTECH/images/laptops.jpg" class="laptopimg"/>
+
+        <div class="clickplaywrapper">
+
+        <i class="fa fa-play clickplay" aria-hidden="true"></i>
+        </div>
+
+
+    </div>
+
     <p class="contraryp">
 
         <a href="/video">Play presentation video</a>
