@@ -23,7 +23,7 @@
 
     <div class="container icons">
         <div class="col-md-3">
-            <img src="/wp-content/themes/IIMTECH/images/hands.png" />
+            <img src="/wp-content/themes/IIMTECH/images/hands.svg" />
             <h3> ALL-INCLUSIVE <br /> RATES</h3>
 
 <div class="starwrapper">
@@ -39,7 +39,7 @@
             <p> Contrary to popular belief, Lorem Ipsum is not </p>
         </div>
         <div class="col-md-3">
-            <img src="/wp-content/themes/IIMTECH/images/wheel.png" />
+            <img src="/wp-content/themes/IIMTECH/images/wheel.svg" />
             <h3> PROFESSIONAL CHAUFFEURS</h3>
 
             <div class="starwrapper">
@@ -55,7 +55,7 @@
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
         <div class="col-md-3">
-            <img src="/wp-content/themes/IIMTECH/images/clock.png" />
+            <img src="/wp-content/themes/IIMTECH/images/clock.svg" />
             <h3> ALWAYS ON <br /> TIME</h3>
 
 
@@ -72,7 +72,7 @@
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
         <div class="col-md-3">
-            <img src="/wp-content/themes/IIMTECH/images/phone.png"/>
+            <img src="/wp-content/themes/IIMTECH/images/phone.svg"/>
             <h3> 24H CUSTOMER <br /> SUPPORT </h3>
             <div class="starwrapper">
 
