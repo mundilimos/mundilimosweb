@@ -117,10 +117,15 @@
         <div class="row">
             <div class="col80">
             <div class="col-md-6">
+                <a href="https://itunes.apple.com/us/app/mundi-limousine/id1145976069?mt=8">
                 <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.svg"/>
+                </a>
             </div>
             <div class="col-md-6">
+
+                <a href="https://play.google.com/store/apps/details?id=com.limoanywhere.laca.mundilimo&hl=en">
                 <img class="android" src="/wp-content/themes/IIMTECH/images/android.svg"/>
+                </a>
             </div>
             </div>
         </div>

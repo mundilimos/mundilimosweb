@@ -165,12 +165,14 @@ img.apple {
     width: 132px;
     float: right;
     margin: 10px auto;
+    margin-right: 13px;
 }
 img.android {
     float: left;
-    width: 132px;
-    margin: 12px auto;
+    width: 157px;
+    margin: 6px auto;
     height: auto;
+    margin-left: 13px;
     display: block;
 }
 
