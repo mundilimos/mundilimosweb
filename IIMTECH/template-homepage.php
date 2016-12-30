@@ -73,7 +73,7 @@
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/phone.png"/>
-            <h3> 24 HOUR CUSTOMER <br /> SUPPORT </h3>
+            <h3> 24H CUSTOMER <br /> SUPPORT </h3>
             <div class="starwrapper">
 
                 <span class="bluestar"> ★ </span>

@@ -82,6 +82,21 @@ body {
     line-height: 1.2;
 }
 
+
+span.bluestar {
+    color: #2ca6bd;
+    margin-right: 6px;
+    margin-left: 6px;
+    font-size: 9px;
+}
+
+
+.starwrapper {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 22px;
+}
+
 .section2 p {
     text-align: center;
     letter-spacing: 1px;
@@ -300,7 +315,7 @@ section.section3 a {
 }
 
 .icons p {
-    font-weight: 300 !important;
+    font-weight: 100 !important;
 }
 
 
