@@ -100,10 +100,16 @@
 
     <img src="/wp-content/themes/IIMTECH/images/laptops.jpg" class="laptopimg"/>
 
+
+        <div class="mainwrapperplay">
+
         <div class="clickplaywrapper">
 
         <i class="fa fa-play clickplay" aria-hidden="true"></i>
         </div>
+
+        </div>
+
 
 
     </div>

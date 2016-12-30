@@ -176,6 +176,25 @@ img.android {
     display: block;
 }
 
+
+
+.playbuttondiv {
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.clickplaywrapper {
+    height: 80px !important;
+    width: 80px !important;
+    border: solid white 2px;
+    border-radius: 50%;
+    position: relative !important;
+    text-align: center;
+    padding: 23px;
+
+}
+
 .sub.section4{
 
 
