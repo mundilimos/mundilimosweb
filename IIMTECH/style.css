@@ -93,8 +93,8 @@ span.bluestar {
 
 .starwrapper {
     text-align: center;
-    padding-top: 15px;
-    padding-bottom: 22px;
+    padding-top: 9px;
+    padding-bottom: 19px;
 }
 
 .section2 p {
@@ -283,6 +283,7 @@ transition: background-color, border, ease-in-out 0.3s;
 
 section.section3 {
     padding: 10px;
+    padding-top: 31px;
 }
 
 
