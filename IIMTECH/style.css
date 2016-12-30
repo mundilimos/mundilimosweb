@@ -9,12 +9,24 @@ html, body{
 
 
     background-image: url(/wp-content/themes/IIMTECH/images/first.jpg);
-    min-height: 1400px;
+    height:100vh !important;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 background-position: center;
+
 }
+
+
+
+html>body #bigbg {
+
+  height:auto;
+
+}
+
+
+
 
 
 i.fa {
@@ -209,7 +221,8 @@ a{
 #bigbg h2{
 
     text-align: center;
-    margin-top: 15%;
+    margin-top: 25vh;
+   display:block;
     letter-spacing: 11px;
     padding: 10px;
 
