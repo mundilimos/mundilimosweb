@@ -51,6 +51,7 @@ if ( wp_is_mobile() ) { ?>
 			<link rel="stylesheet"  type="text/css" href="/wp-content/themes/IIMTECH/mobilemenu.css">
 		<?php } ?>
 
+		<link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
 
 
 	</head>
