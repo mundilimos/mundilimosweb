@@ -102,7 +102,7 @@
         <a href="/video">Play presentation video</a>
         <a href="/onlineb">View online brochure</a>
 
-        <h4 class="text-center text-white"> Download mobile app below </h4>
+        <span class="text-center text-white contraryp"> Download mobile app below </span>
 
 
 
