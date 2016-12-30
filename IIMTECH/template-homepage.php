@@ -25,26 +25,65 @@
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/hands.png" />
             <h3> ALL-INCLUSIVE <br /> RATES</h3>
-            <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
+
+<div class="starwrapper">
+
+            <span class="bluestar"> ★ </span>
+            <span class="bluestar"> ★ </span>
+            <span class="bluestar"> ★ </span>
+            <span class="bluestar"> ★ </span>
+            <span class="bluestar"> ★ </span>
+
+</div>
+            
             <p> Contrary to popular belief, Lorem Ipsum is not </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/wheel.png" />
             <h3> PROFESSIONAL CHAUFFEURS</h3>
-            <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
+
+            <div class="starwrapper">
+
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+
+            </div>
+
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/clock.png" />
             <h3> ALWAYS ON <br /> TIME</h3>
 
-            <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
+
+            <div class="starwrapper">
+
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+
+            </div>
+
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/phone.png"/>
             <h3> 24 HOUR CUSTOMER <br /> SUPPORT </h3>
-            <img src="/wp-content/themes/IIMTECH/images/stars.png" class="stars" />
+            <div class="starwrapper">
+
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+                <span class="bluestar"> ★ </span>
+
+            </div>
+
             <p> Contrary to popular belief, Lorem Ipsum is not  </p>
         </div>
     </div>
