@@ -95,7 +95,7 @@ span.bluestar {
 
     text-align: center;
      margin: auto;
-    font-weight: 100;
+    font-weight: 300;
     padding-bottom: 20px;
     letter-spacing: 2px;
     font-size: 11px;
@@ -109,7 +109,7 @@ span.bluestar {
 
     text-align: center;
     margin: auto;
-    font-weight: 100;
+    font-weight: 300;
      letter-spacing: 2px;
     font-size: 11px;
 
@@ -240,18 +240,18 @@ section.sub.section4 {
     margin: auto;
     line-height: 2;
 letter-spacing: 1px;
-    font-weight:100;
+    font-weight:300;
     font-size: 10px;
 
 }
 
 ul.nostyle.s2li li {
-    font-weight: 100;
+    font-weight: 300;
 }
 
 
 ul.nostyle.s2li li {
-    font-weight: 100;
+    font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 3px;
     line-height: 3.5;
@@ -269,7 +269,7 @@ ul.nostyle.s2li li {
     padding-bottom: 27px;
     letter-spacing: 5px;
     font-size: 16px;
-    font-weight:100;
+    font-weight:300;
     padding-top: 27px;
 
 }
@@ -342,7 +342,7 @@ a.booking {
     color: #fff !important;
     background-color: #2ca6bd;
     margin: 30px auto;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 a.booking:hover{
@@ -365,7 +365,7 @@ section.section3 {
     text-align: center;
     max-width: 800px;
     margin: auto;
-    font-weight:100;
+    font-weight:300;
     padding-bottom: 20px;
     letter-spacing: 2px;
 }
