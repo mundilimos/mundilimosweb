@@ -198,7 +198,7 @@ if ( wp_is_mobile() ) { ?>
 		</div>
 
 
-	<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?>  <h2 class="text-center text-white"><?php the_title(); ?> </h2> <?php } ?>
+	<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?>  <h2 class="text-center text-white" style="padding-bottom: 27px;"><?php the_title(); ?> </h2> <?php } ?>
 
 
 		</div>
