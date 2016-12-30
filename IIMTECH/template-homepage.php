@@ -36,7 +36,9 @@
 
 </div>
             
-            <p> Contrary to popular belief, Lorem Ipsum is not </p>
+            <p> Detailed upfront trip cost estimates no hidden fees or surcharges.
+
+            </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/wheel.svg" />
@@ -52,7 +54,9 @@
 
             </div>
 
-            <p> Contrary to popular belief, Lorem Ipsum is not  </p>
+            <p> Our chauffeurs are licensed and renowned for their skills and manners.
+
+            </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/clock.svg" />
@@ -69,7 +73,9 @@
 
             </div>
 
-            <p> Contrary to popular belief, Lorem Ipsum is not  </p>
+            <p> Our perfect timing guarantees you will never be late to your commitments.
+
+            </p>
         </div>
         <div class="col-md-3">
             <img src="/wp-content/themes/IIMTECH/images/phone.svg"/>
@@ -84,7 +90,9 @@
 
             </div>
 
-            <p> Contrary to popular belief, Lorem Ipsum is not  </p>
+            <p> Our customer service is ready to assist you 24 hours a day, 7 days a week.
+
+            </p>
         </div>
     </div>
 
