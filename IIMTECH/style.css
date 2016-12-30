@@ -284,13 +284,6 @@ section#sectionm1 {
 }
 
 
-section#sectionm1 p {
-    font-size:17px;
-    padding-top:10px;
-
-
-}
-
 hr.sixtyhr{
 
     width:100px;margin: auto; display: block;
@@ -315,11 +308,7 @@ section#sectionm3 {
     max-width:100% !important;
 
 }
-
-section#sectionm3 p {
-    font-size:17px;
-    padding-top:10px;
-}
+ 
 
 section#sectionm2 ul {
 
