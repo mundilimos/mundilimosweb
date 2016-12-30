@@ -143,7 +143,6 @@ img.android {
 section.sub.section4 {
     padding-top: 14%;
 }
-
 .centerp{
 
     max-width: 900px;
@@ -157,12 +156,12 @@ letter-spacing: 1px;
 }
 
 ul.nostyle.s2li li {
-    font-weight: 300;
+    font-weight: 100;
 }
 
 
 ul.nostyle.s2li li {
-    font-weight: 300;
+    font-weight: 100;
     text-transform: uppercase;
     letter-spacing: 3px;
     line-height: 3.5;
@@ -253,7 +252,7 @@ a.booking {
     color: #fff !important;
     background-color: #2ca6bd;
     margin: 30px auto;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 a.booking:hover{
