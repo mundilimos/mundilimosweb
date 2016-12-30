@@ -162,14 +162,13 @@ span.bluestar {
 
 img.apple {
     display: block;
-    width: 250px;
+    width: 132px;
     float: right;
     margin: 10px auto;
 }
-
 img.android {
     float: left;
-    width: 250px;
+    width: 132px;
     margin: 12px auto;
     height: auto;
     display: block;
