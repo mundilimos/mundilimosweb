@@ -10,7 +10,7 @@
 
 <section class="section2">
 
-    <p class="text-center" style="margin-bottom: 20px;">
+    <p class="text-center" style="margin-bottom: 20px; font-size: 16px;">
 
         What that entails for our boundless client base across six continents is a company that can offer unparalleled luxury transportation services anytime, anywhere. Mundi Limousine was born to exceed.
 
