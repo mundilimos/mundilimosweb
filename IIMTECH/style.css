@@ -459,3 +459,8 @@ body.blog.sidebar {
     background: #fff !important;
     color: #000 !Important;
 }
+
+section.biggy a {
+    color: white;
+    text-decoration: none !important;
+}
