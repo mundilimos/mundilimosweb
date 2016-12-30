@@ -54,7 +54,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 	</head>
-	<body <?php body_class(); ?> >
+	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff !important; color:#000  !important; <?php } ?>">
 
 
 
