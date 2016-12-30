@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/footer.php" afterPath="$PROJECT_DIR$/IIMTECH/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-internal.php" afterPath="$PROJECT_DIR$/IIMTECH/template-internal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-worldwide.php" afterPath="$PROJECT_DIR$/IIMTECH/template-worldwide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/header.php" afterPath="$PROJECT_DIR$/IIMTECH/header.php" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,17 +23,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="200" column="145" selection-start-line="200" selection-start-column="145" selection-end-line="200" selection-end-column="145" />
+            <state relative-caret-position="283">
+              <caret line="217" column="18" selection-start-line="217" selection-start-column="18" selection-end-line="217" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-                <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+                <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+                <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
               </folding>
             </state>
           </provider>
@@ -94,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
@@ -154,10 +152,10 @@
         <option value="$PROJECT_DIR$/IIMTECH/options.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
         <option value="$PROJECT_DIR$/IIMTECH/style.css" />
-        <option value="$PROJECT_DIR$/IIMTECH/header.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-worldwide.php" />
         <option value="$PROJECT_DIR$/IIMTECH/footer.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/header.php" />
       </list>
     </option>
   </component>
@@ -712,12 +710,12 @@
       <workItem from="1481941021439" duration="3132000" />
       <workItem from="1482100783148" duration="21723000" />
       <workItem from="1482595696726" duration="5756000" />
-      <workItem from="1482988215673" duration="6297000" />
+      <workItem from="1482988215673" duration="6415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38356000" />
+    <option name="totallyTimeSpent" value="38474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -773,8 +771,8 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-            <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -856,8 +854,8 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-            <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -939,8 +937,8 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-            <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -972,8 +970,8 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-            <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -1070,20 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="200" column="145" selection-start-line="200" selection-start-column="145" selection-end-line="200" selection-end-column="145" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483082090000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
-            <marker date="1483082090000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1156,6 +1140,20 @@
         <state relative-caret-position="454">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="217" column="18" selection-start-line="217" selection-start-column="18" selection-end-line="217" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1483083432000" expanded="true" signature="4476:4482" ph="&amp;nbsp;" />
+            <marker date="1483083432000" expanded="true" signature="4637:4643" ph="&amp;nbsp;" />
+          </folding>
         </state>
       </provider>
     </entry>

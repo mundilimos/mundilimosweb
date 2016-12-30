@@ -206,13 +206,16 @@ if ( wp_is_mobile() ) { ?>
 		<!--nav ends -->
 
 
-		<?php if( is_page_template("template-homepage.php") ){ ?> <h2>WELCOME TRAVELER </h2> <?php } ?>
+		<?php if( is_page_template("template-homepage.php") ){ ?> <h2>WELCOME TRAVELER </h2>
 
 
 
 
 
 		<a href="/booking" class="booking">  BOOK A RIDE </a>
+
+
+		<?php } ?>
 </section>
 
 
