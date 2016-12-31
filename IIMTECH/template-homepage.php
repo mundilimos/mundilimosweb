@@ -175,8 +175,7 @@
     <br />
     <p class="centerp">
 
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
+        Held to the highest standards of safety, maintenance, and presentation, our extensive fleet features only the market’s latest model luxury vehicles, allowing us to offer the right selection to suit the specifics needs of our clients. You can choose from a variety of top class sedans, SUVs, stretch limousines, vans and coaches. All vehicles are black on black colored, with full leather interiors and tinted windows to ensure comfort and privacy. While being transferred by one of our professional chauffeurs, you are empowered to relax, enjoy the finest on-the-go amenities and take full advantage of the industry’s most advanced technologies that provides non-stop productivity for private and corporate travelers. Whether your transportation requirements are for airport transfer, corporate events or entertainment, Mundi Limousine delivers the perfect seat for any journey.
     </p>
 </section>
 
