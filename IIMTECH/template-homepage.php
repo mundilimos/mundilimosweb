@@ -214,7 +214,7 @@
 
     </h2>
 
-    <a href="/booking" class="booking">  DISCOVER MORE </a>
+    <a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  DISCOVER MORE </a>
 
 </section>
 
