@@ -71,8 +71,8 @@ if ( wp_is_mobile() ) { ?>
 						</div>
 					</a>
 				</li>
-				<li><a href="tel:<?php echo $wphone; ?>"><i class="fa fa-phone"></i> Call Now!</a></li>
-				<li><a href="mailto:<?php echo $wemail;?>"> <i class="fa fa-envelope"></i> Email Us</a>
+				<li><a href="tel:8003177087"><i class="fa fa-phone"></i> Call Now!</a></li>
+				<li><a href="mailto:info@mundilimos.com"> <i class="fa fa-envelope"></i> Email Us</a>
 				</li>
 			</ul>
 			<div class="mmx">
@@ -87,7 +87,7 @@ if ( wp_is_mobile() ) { ?>
 								<i class="fa fa-bars fa-2x"></i>
 							</div>
 						</a></li>
-					<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone fa-2x"></i></a></li>
+					<li><a href="tel:8003177087"><i class="fa fa-phone fa-2x"></i></a></li>
 					<li><a href="mailto:<?php echo $wemail ?>"> <i class="fa fa-envelope-o fa-2x"></i> </a></li>
 				</ul>
 			</div>
@@ -100,10 +100,10 @@ if ( wp_is_mobile() ) { ?>
 		<div id="splash" class="mobile-contact-panel">
 			<ul>
 				<li id="the-custom-logo">
-					<img src="<?php echo $logosrc; ?>" class="imgsplash"> </li>
-				<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone"></i> Call Now</a></li>
+					<img src="https://mundilimos.com/wp-content/uploads/2016/07/mundilogo.png" class="imgsplash"> </li>
+				<li><a href="tel:8003177087"><i class="fa fa-phone"></i> Call Now</a></li>
 				<li><span style="height: 4px;"></span></li>
-				<li><a href="<?php echo $booknow ?>"><i class="fa fa-car" aria-hidden="true"></i>
+				<li><a href="https://book.mylimobiz.com/v4/mundilimo"><i class="fa fa-car" aria-hidden="true"></i>
 						Book Now </a>
 				</li>
 			</ul>
