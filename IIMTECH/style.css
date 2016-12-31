@@ -756,6 +756,9 @@ footer{
     width: 90%;
 }
 
+footer#footer {
+    border-top: #6cc1d1 solid 2px;
+}
 
 footer#footer li {
     list-style-type: none;
