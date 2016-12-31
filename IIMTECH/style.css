@@ -695,5 +695,46 @@ a.boxh3a {
     }
 
 
+    h2.widgettitle {
+        font-size: 14px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    footer#footer ul li a {
+        color: #e4e4e4;
+        text-align: center;
+    }
+
 }
 
+
+
+
+footer#footer ul li {
+    list-style-type: none;
+}
+
+footer#footer ul {
+    list-style-type: none;
+}
+
+footer#footer ul li a {
+    color: #e4e4e4;
+}
+
+
+
+#footer img {
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    height: auto;
+    width: 90%;
+}
+
+
+h2.widgettitle {
+    font-size: 14px;
+    text-transform: uppercase;
+ }
