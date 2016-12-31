@@ -779,3 +779,41 @@ h2.widgettitle {
 h2.widgettitle {
     color: #fff;
 }
+
+div#content {
+    background: #fff;
+}
+
+.newcategory img {
+    display: block;
+    width: 150px;
+    max-height: 100px;
+    clear: both;
+}
+
+footer {
+    clear: both;
+    padding-top: 20px;
+}
+
+
+#content img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+.newcategory img {
+    display: block;
+    width: 200px !important;
+    min-height: 114px !important;
+    clear: both;
+}
+
+.newcategory a {
+    text-align: center;
+    display: block;
+    padding-bottom: 20px;
+}
