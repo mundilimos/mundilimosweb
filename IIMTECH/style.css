@@ -714,11 +714,11 @@ a.boxh3a {
 
 
     .mobile-menu-slide ul li a {
-        color: #fff;
-        font-size: 24px;
-        line-height: 2;
-        display: block;
-        padding-right: 10px;
+        color: #fff !important;
+        font-size: 24px !important;
+        line-height: 2 !important;
+        display: block !important;
+        padding-right: 10px !important;
     }
 
     .contactpageform form {
