@@ -279,10 +279,17 @@ get_header();
 </div>
 
 
+    <div style="clear: both;">
+    </div>
+
+    <div style="clear: both;">
+    </div>
+
+    <div style="clear: both;">
+    </div>
+
 
 <div style="clear: both;">
-
-    
 </div>
 
 <?php get_footer(); ?>
