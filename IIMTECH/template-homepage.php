@@ -279,7 +279,7 @@
 <section id="sectionm3" class="section5"  style="width: 100%; max-width: 80%; margin: auto;">
     <div class="container">
         <div class="row">
-            <h2 class="text-center text-white"> TECHNOLUXURY </h2>
+            <h2 class="text-center text-white" style="font-size: 16px;"> TECHNOLUXURY </h2>
             <br />
             <p class="text-center centerp">
                 Here at Mundi Limos we appreciate Fort Lauderdale and we do everything we can to guarantee that all of our rides provides you the best experience you've ever had in your lifetime. Mundi Limousine service offers you and your family the ability to be driven by a professional chauffeur to and from anywhere in Fort Lauderdale. Enjoy a ride in  South Florida in a limousine of choice. From Stretch Limos, Party Buses, Hummer Limousines, Mercedes Limousine and more we got it all.
