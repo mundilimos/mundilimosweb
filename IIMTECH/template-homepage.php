@@ -198,7 +198,7 @@
 
 <section id="sectiondiscover">
 
-    <h2> SEDAN  •  SUV  •  STRETCH LIMOUSINE  •  VAN  •  COACH
+    <h2> SEDAN  &nbsp;•&nbsp;  SUV  &nbsp;•&nbsp;  STRETCH LIMOUSINE  &nbsp;•&nbsp;  VAN  &nbsp;•&nbsp;  COACH
 
     </h2>
 
