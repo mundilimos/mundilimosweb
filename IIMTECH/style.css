@@ -637,3 +637,51 @@ a.boxh3a {
 
 
 
+
+@media only screen and (max-width: 768px)  {
+
+
+    #bigbg{
+
+        display: none;
+    }
+
+
+    .section2 p{
+
+        width:90%;
+        margin: auto;
+
+    }
+
+    .playbuttondiv{
+
+        display: none;
+
+    }
+
+    section.sub.section4 {
+         display: none;
+    }
+
+    section#sectiondiscover h2 {
+
+        width: 90%;
+
+        margin: auto;
+
+
+    }
+
+.centerp{
+    
+    font-size: 18px;
+    width: 90%;
+    margin: auto;
+
+}
+
+
+
+}
+
