@@ -34,7 +34,7 @@ color:#2ca6bd;
 color: #fff !important;
 }
 
-ul#menu-primary-1 li a{
+ul#menu-primary li a{
 
 letter-spacing: 2px;
 text-transform: uppercase;
@@ -556,7 +556,7 @@ a.cta{
 }
 
 
-ul#menu-primary-1 {
+ul#menu-primary {
     margin: 15px auto;
     margin-left: 10%;
     font-size: 16px;
