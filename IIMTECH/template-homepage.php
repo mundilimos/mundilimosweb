@@ -222,7 +222,7 @@
                 <hr class="smallhr">
 
 
-                <h3 class="text-center text-white" style="font-weight: 100;">   YOUR EXPERIENCE, OUR EXPERIENCE
+                <h3 class="text-center text-white" style="font-weight: 500;">   YOUR EXPERIENCE, OUR EXPERIENCE
 
                 </h3>
 

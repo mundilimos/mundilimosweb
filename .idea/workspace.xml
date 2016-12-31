@@ -43,8 +43,8 @@
       <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="224" column="62" selection-start-line="224" selection-start-column="58" selection-end-line="224" selection-end-column="62" />
+            <state relative-caret-position="258">
+              <caret line="224" column="72" selection-start-line="224" selection-start-column="72" selection-end-line="224" selection-end-column="72" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#!!top" expanded="true" />
@@ -87,8 +87,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="252" column="17" selection-start-line="252" selection-start-column="17" selection-end-line="252" selection-end-column="17" />
+            <state relative-caret-position="183">
+              <caret line="274" column="19" selection-start-line="274" selection-start-column="19" selection-end-line="274" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -713,12 +713,12 @@
       <workItem from="1481941021439" duration="3132000" />
       <workItem from="1482100783148" duration="21723000" />
       <workItem from="1482595696726" duration="5756000" />
-      <workItem from="1482988215673" duration="19655000" />
+      <workItem from="1482988215673" duration="19931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51714000" />
+    <option name="totallyTimeSpent" value="51990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="23" width="1360" height="689" extended-state="0" />
@@ -1147,8 +1147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="224" column="62" selection-start-line="224" selection-start-column="58" selection-end-line="224" selection-end-column="62" />
+        <state relative-caret-position="258">
+          <caret line="224" column="72" selection-start-line="224" selection-start-column="72" selection-end-line="224" selection-end-column="72" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#!!top" expanded="true" />
@@ -1159,8 +1159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="252" column="17" selection-start-line="252" selection-start-column="17" selection-end-line="252" selection-end-column="17" />
+        <state relative-caret-position="183">
+          <caret line="274" column="19" selection-start-line="274" selection-start-column="19" selection-end-line="274" selection-end-column="19" />
           <folding />
         </state>
       </provider>

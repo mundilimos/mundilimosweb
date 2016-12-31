@@ -251,6 +251,7 @@ section.sub.section4 {
 letter-spacing: 1px;
     font-weight:500;
     font-size: 11px;
+    font-size: 11px;
 
 }
 
@@ -271,6 +272,7 @@ ul.nostyle.s2li li {
     padding-bottom: 27px;
     padding-top: 27px;
     letter-spacing: 8px;
+    font-size: 22px;
 }
 .section5 h3{
 
@@ -492,7 +494,7 @@ section#sectiondiscover h2 {
     font-size: 22px;
     padding-bottom: 40px;
     letter-spacing: 4px;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 
