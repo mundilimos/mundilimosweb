@@ -215,7 +215,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-center text-white" style="letter-spacing: 2px;">
+                <h2 class="text-center text-white" style="letter-spacing: 8px;">
                     SERVICES </h2>
 
 
