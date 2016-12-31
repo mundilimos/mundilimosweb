@@ -88,7 +88,7 @@ if ( wp_is_mobile() ) { ?>
 							</div>
 						</a></li>
 					<li><a href="tel:8003177087"><i class="fa fa-phone fa-2x"></i></a></li>
-					<li><a href="mailto:<?php echo $wemail ?>"> <i class="fa fa-envelope-o fa-2x"></i> </a></li>
+					<li><a href="mailto:info@mundilimos.com"> <i class="fa fa-envelope-o fa-2x"></i> </a></li>
 				</ul>
 			</div>
 		</div>
@@ -107,7 +107,6 @@ if ( wp_is_mobile() ) { ?>
 						Book Now </a>
 				</li>
 			</ul>
-
 
 				<h1 class="site-title text-center" style="font-size: 30px; text-transform:none !important;">
 					Worldwide Chauffeured <br>
