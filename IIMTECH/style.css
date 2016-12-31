@@ -836,6 +836,8 @@ div#tertiary form input, div#tertiary form textarea{
     width: 100%;
     max-width: 302px;
     margin: auto;
+    float: left;
+    clear: both;
 
 }
 
