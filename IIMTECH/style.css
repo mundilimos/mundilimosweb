@@ -734,6 +734,16 @@ footer#footer ul li a {
 }
 
 
+footer#footer li {
+    list-style-type: none;
+}
+
+footer#footer ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 15px;
+}
+
 h2.widgettitle {
     font-size: 14px;
     text-transform: uppercase;
