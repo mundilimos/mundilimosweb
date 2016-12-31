@@ -36,7 +36,27 @@
 
 
 <div class="container">
-<br /> <br /> <br />
+
+    <div class="text-center">
+
+<div style="max-width: 800px; margin: auto; width: 100%">
+    
+        <div class="col-md-6"> <a href="tel:8003177087" class="cta">  <i class="fa fa-phone" aria-hidden="true"></i>   &nbsp; 800.317.7087 </a> </div>
+        <div class="col-md-6"> <a href="mailto:info@mundilimos.com" class="cta"> <i class="fa fa-envelope" aria-hidden="true"> </i>  &nbsp; info@mundilimos.com</a> </div>
+
+</div>
+
+    </div>
+
+
+    <h4 class="text-white text-center">
+
+        Allow our team of seasoned travel and transportation professionals to assist you. Around the corner or around the globe, our operators are standing by 24 hours a day.
+
+    </h4>
+
+
+    <br /> <br /> <br />
 
     <div class="contactpageform">
 <?php

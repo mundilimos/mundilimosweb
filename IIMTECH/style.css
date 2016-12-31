@@ -860,3 +860,11 @@ input#submitbtnn:hover {
     max-width: 800px;
     margin: auto;
 }
+
+
+.col90img img {
+    display: block;
+    width: 90%;
+    margin: auto;
+    max-height: 200px;
+}
