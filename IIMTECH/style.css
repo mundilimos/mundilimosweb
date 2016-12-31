@@ -861,6 +861,12 @@ input#submitbtnn:hover {
     margin: auto;
 }
 
+.contactpagelinks a {
+    font-size: 22px;
+    color: white;
+    padding-top: 46px;
+}
+
 
 .col90img img {
     display: block;
