@@ -33,24 +33,23 @@
 
 
 
+
+
+<div class="container">
+
+
+    <div class="contactpageform">
 <?php
-
-if (! wp_is_mobile() ) { ?>
- 
-<a href="https://book.mylimobiz.com/v4/mundilimo" data-ores-widget="website" data-ores-alias="mundilimo">Online Reservations</a>
-<script type="text/javascript" src="https://book.mylimobiz.com/v4/widgets/widget-loader.js"></script>
- 
-<?php } ?>
-
-
-<?php if ( wp_is_mobile() ) { 
-
-echo do_shortcode( '[contact-form-7 id="8017" title="Page Forms"]' );
-
-
-
-}
+echo do_shortcode( '[contact-form-7 id="6342" title="contact"]' );
 ?>
+
+
+    </div>
+
+</div>
+
+
+
 
 
  <div id="quote"><a name="quote"></a></div>
