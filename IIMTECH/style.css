@@ -723,7 +723,10 @@ footer#footer ul li a {
     color: #e4e4e4;
 }
 
+footer{
+    background: #000 !important;
 
+}
 
 #footer img {
     display: block;
