@@ -228,10 +228,9 @@
 
 
                 <br />
-                <p class="text-center centerp" style="max-width: 800px; margin: auto;">
+                <p class="text-center centerp" style="max-width: 900px; margin: auto;">
 
-                    Our services are designated to offer the prime experience in chauffeured ground transportation, overwhelming our clients – however corporate or private; large or small. We integrate the industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success.
-
+                    Our services are designed to offer the prime experience in chauffeured ground transportation, delighting our clients – however corporate or private; large or small. We integrate industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success.
                 </p>
             </div>
         </div>
