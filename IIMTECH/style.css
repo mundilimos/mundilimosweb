@@ -196,6 +196,14 @@ img.android {
     padding-left: 27px;
 }
 
+
+.mainwrapperplay:hover{
+
+    background-color: #2ca6bd;
+    transition: background ease-in-out 0.4s;
+cursor: pointer;
+}
+
 i.fa.fa-play.clickplay {
     color: #fff;
     font-size: 31px;
