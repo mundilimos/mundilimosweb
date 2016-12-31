@@ -266,7 +266,7 @@
                     <li> Nightlife </li>
                     <li> Sporting Events</li>
                     <li> Road Shows </li>
-
+<li> HOTELS / CASINOS</li>
                 </ul>
             </div>
         </div>
