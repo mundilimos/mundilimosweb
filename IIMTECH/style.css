@@ -828,6 +828,14 @@ footer {
 }
 
 
+
+.tab-content img {
+    display: block;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
 div#tertiary form input, div#tertiary form textarea{
 
 
