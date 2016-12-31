@@ -107,7 +107,7 @@
 
 
 
- 
+
     <div class="playbuttondiv">
 
 
@@ -137,8 +137,8 @@
 
     <p class="contraryp">
 
-        <a href="/video">Play presentation video</a>
-        <a href="/onlineb">View online brochure</a>
+        <a href="https://youtu.be/xaPNgca6UNo" target="_blank">Play presentation video</a>
+        <a href="/onlineb" target="_blank">View online brochure</a>
 
         <span class="text-center text-white contraryp"> Download mobile app </span>
 

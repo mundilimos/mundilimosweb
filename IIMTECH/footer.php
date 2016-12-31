@@ -16,13 +16,12 @@
 
 
 
-    <h2 class="text-white text-center">
 
-    Mundi Limos Copyright goes here
+    <div class="container">
 
-    </h2>
+        <?php get_sidebar( 'main' ); ?>
 
-
+    </div>
 
 </footer>
 
@@ -33,7 +32,7 @@
 
 
 
-
+ 
 
 
 <?php wp_footer(); ?>
