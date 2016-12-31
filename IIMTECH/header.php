@@ -71,8 +71,8 @@ if ( wp_is_mobile() ) { ?>
 						</div>
 					</a>
 				</li>
-				<li><a href="tel:<?php echo $wphone ?>"><i class="fa fa-phone"></i> Call Now!</a></li>
-				<li><a href="mailto:<?php echo $wemail ?>"> <i class="fa fa-envelope"></i> Email Us</a>
+				<li><a href="tel:<?php echo $wphone; ?>"><i class="fa fa-phone"></i> Call Now!</a></li>
+				<li><a href="mailto:<?php echo $wemail;?>"> <i class="fa fa-envelope"></i> Email Us</a>
 				</li>
 			</ul>
 			<div class="mmx">
