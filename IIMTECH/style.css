@@ -452,11 +452,20 @@ section#sectionm2 ul {
     color: #2ca6bd;
     text-align: center;
     display: block;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 3.5;
+    font-size: 10px !important;
 }
 
 .bss p {
+    padding-top: 16px;
     text-align: center;
-    padding-top: 15px;
+    margin: auto;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 11px;
 }
 
 .bss i {
