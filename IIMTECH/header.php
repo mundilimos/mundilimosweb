@@ -171,7 +171,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<!-- Nav goes here -->
 
-<div style="<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
+<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -226,14 +226,16 @@ if ( wp_is_mobile() ) { ?>
 
 		<?php if( is_page_template("template-homepage.php") ){ ?> <h2>WELCOME TRAVELER </h2>
 
+		<?php } ?>
+
+		<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") ){ ?>
 
 
-
-
-		<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
-
+			<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
 
 		<?php } ?>
+
+
 </section>
 
 
