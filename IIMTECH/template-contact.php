@@ -36,7 +36,7 @@
 
 
 <div class="container">
-
+<br /> <br /> <br />
 
     <div class="contactpageform">
 <?php
@@ -45,6 +45,9 @@ echo do_shortcode( '[contact-form-7 id="6342" title="contact"]' );
 
 
     </div>
+
+
+    <br /> <br /> <br />
 
 </div>
 
