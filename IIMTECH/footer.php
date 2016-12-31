@@ -12,7 +12,7 @@
 <?php include 'options.php'; ?>
 
 
- 
+
 
 <footer id="footer" class="footer">
 

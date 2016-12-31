@@ -774,3 +774,8 @@ h2.widgettitle {
     font-size: 14px;
     text-transform: uppercase;
  }
+
+
+h2.widgettitle {
+    color: #fff;
+}
