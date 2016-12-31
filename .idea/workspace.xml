@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-homepage.php" afterPath="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -86,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="468" column="1" selection-start-line="468" selection-start-column="1" selection-end-line="468" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="484" column="24" selection-start-line="484" selection-start-column="24" selection-end-line="484" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -158,8 +157,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/footer.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
       </list>
     </option>
   </component>
@@ -715,12 +714,12 @@
       <workItem from="1481941021439" duration="3132000" />
       <workItem from="1482100783148" duration="21723000" />
       <workItem from="1482595696726" duration="5756000" />
-      <workItem from="1482988215673" duration="20513000" />
+      <workItem from="1482988215673" duration="20733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52572000" />
+    <option name="totallyTimeSpent" value="52792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="23" width="1360" height="689" extended-state="0" />
@@ -1155,14 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="468" column="1" selection-start-line="468" selection-start-column="1" selection-end-line="468" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1174,6 +1165,14 @@
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#7;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="484" column="24" selection-start-line="484" selection-start-column="24" selection-end-line="484" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

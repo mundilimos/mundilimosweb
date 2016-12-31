@@ -470,10 +470,11 @@ section#sectionm2 ul {
 
 .bss i {
 
-
+    font-size: 3em;
+    height: 109px;
     display: block;
-    width: 110px;
-    height: 110px;
+    height: 80px;
+    font-size: 3em !important;
     margin: auto;
     font-size: 4em;
     background: transparent;
