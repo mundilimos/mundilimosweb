@@ -674,13 +674,25 @@ a.boxh3a {
     }
 
 .centerp{
-    
+
     font-size: 18px;
     width: 90%;
     margin: auto;
 
 }
 
+
+    #sectiondiscover{
+
+        min-height: 400px;
+
+    }
+
+    img.android, img.apple{
+
+        margin-top: 14%;
+
+    }
 
 
 }
