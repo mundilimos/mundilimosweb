@@ -12,10 +12,7 @@
 <?php include 'options.php'; ?>
 
 
-<hr>
-
-
-<br />
+ 
 
 <footer id="footer" class="footer">
 
