@@ -828,6 +828,26 @@ footer {
 }
 
 
+div#tertiary form input, div#tertiary form textarea{
+
+
+    text-align: center;
+    padding:10px;
+    width: 100%;
+    max-width: 302px;
+    margin: auto;
+
+}
+
+
+div#tertiary #submitbtnn {
+    max-width: 302px;
+    width: 100%;
+    border: none;
+    padding: 10px;
+}
+
+
 .contactpageform input, .contactpageform textarea {
     text-align: center;
     width: 100%;
