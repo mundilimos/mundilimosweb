@@ -81,7 +81,7 @@ get_header();
 
         <!-- Tab panes -->
 
-        <div class="tab-content">
+        <div class="tab-content" style="padding-bottom: 30px;">
 
 
 
