@@ -121,7 +121,10 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-	<section id="<?php if( is_page_template("template-homepage.php") ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") ){ ?> biggy <?php }?>">
+	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")   ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") || is_page_template("template-contact.php") ){ ?> biggy <?php }?>"  style="<?php if( is_page_template("template-contact.php") ){ ?> background-image: url(/wp-content/uploads/2016/07/mundipenimage.jpg); <?php }?> "
+	>
+
+
 
 
 
