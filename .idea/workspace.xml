@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/header.php" afterPath="$PROJECT_DIR$/IIMTECH/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/mobilemenu.css" afterPath="$PROJECT_DIR$/IIMTECH/mobilemenu.css" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+            <state relative-caret-position="193">
+              <caret line="151" column="37" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobilemenu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/mobilemenu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,16 +51,6 @@
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,6 @@
       <list>
         <option value="$PROJECT_DIR$/IIMTECH/desktop.css" />
         <option value="$PROJECT_DIR$/IIMTECH/tablet.css" />
-        <option value="$PROJECT_DIR$/IIMTECH/mobilemenu.css" />
         <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
         <option value="$PROJECT_DIR$/IIMTECH/template-worldwide.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
@@ -149,6 +148,7 @@
         <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/options.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/mobilemenu.css" />
       </list>
     </option>
   </component>
@@ -706,12 +706,12 @@
       <workItem from="1482595696726" duration="5756000" />
       <workItem from="1482988215673" duration="22119000" />
       <workItem from="1483198327431" duration="522000" />
-      <workItem from="1483203415452" duration="2846000" />
+      <workItem from="1483203415452" duration="3229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57546000" />
+    <option name="totallyTimeSpent" value="57929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1360" y="0" width="1360" height="768" extended-state="0" />
@@ -1034,13 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/mobilemenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1153,8 +1146,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+        <state relative-caret-position="193">
+          <caret line="151" column="37" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/mobilemenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
