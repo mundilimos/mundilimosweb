@@ -8,7 +8,7 @@ html, body{
 #bigbg{
 
     height:100vh !important;
-    background-size: cover;
+    background-size: cover !important;
     background: url(/wp-content/themes/IIMTECH/images/first.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
