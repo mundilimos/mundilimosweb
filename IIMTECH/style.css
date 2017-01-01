@@ -379,7 +379,7 @@ section.section3 {
 
 #sectiondiscover{
     min-height: 1000px;
-    background-size: cover;
+    background-size: cover !important;
     background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg);
     background-repeat: no-repeat;
     background-position: center;
