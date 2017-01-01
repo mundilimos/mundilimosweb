@@ -228,9 +228,11 @@ i.fa.fa-play.clickplay {
 .sub.section4{
 
     min-height: 1000px;
-    background-size: cover;
-    background: url(/wp-content/themes/IIMTECH/images/Subscribe.jpg) no-repeat fixed center;
-
+    background-size: cover !important;
+    background: url(/wp-content/themes/IIMTECH/images/Subscribe.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 
@@ -378,7 +380,10 @@ section.section3 {
 #sectiondiscover{
     min-height: 1000px;
     background-size: cover;
-    background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg) no-repeat fixed center;
+    background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 
 }
 
@@ -586,7 +591,7 @@ ul.footersocial {
 
     background-image: url(/wp-content/themes/IIMTECH/images/Subscribe.jpg);
     min-height: 1000px;
-    background-size: cover;
+    background-size: cover !important;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
