@@ -171,7 +171,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<!-- Nav goes here -->
 
-<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
+<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  || is_page_template("template-aboutus.php")  ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
