@@ -28,7 +28,7 @@ get_header();
 
             <div class="col-md-4">
                  <div class="aboutusbox">
-                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.jpg" class="iconicon"/>
+                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.svg" class="iconicon"/>
                     <span class="text-center text-white" style="text-transform: uppercase; display: block;"> Hello </span>
                     <br/>
                     <p class="text-center centerp">
@@ -39,7 +39,7 @@ get_header();
             </div>
             <div class="col-md-4">
                 <div class="aboutusbox">
-                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.jpg" class="iconicon"/>
+                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.svg" class="iconicon"/>
                     <span class="text-center text-white" style="text-transform: uppercase; display: block;"> Hello </span>
                     <br/>
                     <p class="text-center centerp">
@@ -50,7 +50,7 @@ get_header();
             </div>
             <div class="col-md-4">
                 <div class="aboutusbox">
-                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.jpg" class="iconicon"/>
+                    <img src="/wp-content/themes/IIMTECH/images/Mundicrown.svg" class="iconicon"/>
                     <span class="text-center text-white" style="text-transform: uppercase; display: block;"> Hello </span>
                     <br/>
                     <p class="text-center centerp">
