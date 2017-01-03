@@ -436,11 +436,16 @@ section.section5.bgglobe .container {
 }
 
 
+.bgglobee .aboutusbox span {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
 section.section5.bgglobee .container {
     position: absolute;
     right: 0;
     left: 0;
-    top: 25vh;
+    top: 42vh;
     bottom: 0;
 }
 
