@@ -9,38 +9,59 @@ get_header();
 
 
 
-<div class="container">
+
+
+    <section class="section5">
+
+        <div class="container">
+
+            <div class="col-md-4">
+
+
+
+            </div>
+            <div class="col-md-4">
+
+
+            </div>
+            <div class="col-md-4">
+
+
+
+            </div>
+
+
+
+        </div>
+
+    </section>
+
+
+
+    <section class="iconsbg">
+
+
+
+
+    </section>
+
+
+    <section class="section5">
+
+
+    </section>
+
+
+
+<section class="sectionnumbers">
+
+
+
+
+</section>
 
 
 
 
 
-    <?php while ( have_posts() ) : the_post(); ?>
-
-
-    <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-
-
-
-
-
-        <?php the_content(); ?>
-
-
-</article>
-
-</div>
-
-
-
-
-
-
-
-<?php get_footer(); ?>
-
-
-
-
-
-
+    <?php get_footer(); ?>
