@@ -391,15 +391,68 @@ section.section3 {
 
 
 .bgglobe{
-    height: 80vh;
+
+
+    height: 100vh;
     background-size: cover !important;
     background: url(/wp-content/themes/IIMTECH/images/globe.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    vertical-align: middle;
+
 
 }
 
+
+section.section5.bgglobe .container {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 25vh;
+    bottom: 0;
+}
+
+
+
+.bgglobee{
+
+
+    height: 100vh;
+    background-size: cover !important;
+    background: url(/wp-content/themes/IIMTECH/images/bridge.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    vertical-align: middle;
+
+
+}
+
+
+section.section5.bgglobee .container {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 25vh;
+    bottom: 0;
+}
+
+
+
+img.iconicon {
+    display: block;
+    width: 50px;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
 
 section.section3 a {
      line-height: 2.5;
