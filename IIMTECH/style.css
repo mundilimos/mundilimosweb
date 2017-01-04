@@ -330,6 +330,7 @@ a{
    display:block;
     letter-spacing: 11px;
     padding: 10px;
+    text-transform: uppercase;
 
 }
 
@@ -412,9 +413,17 @@ section.section5.bgglobe .container {
     position: absolute;
     right: 0;
     left: 0;
-    top: 25vh;
+    top: 30vh;
     bottom: 0;
 }
+
+
+
+.page-template-template-aboutus .section5 {
+    padding-bottom: 5%;
+    padding-top: 4%;
+}
+
 
 
 
@@ -437,8 +446,8 @@ section.section5.bgglobe .container {
 
 
 .bgglobee .aboutusbox span {
-    font-weight: bold;
-    font-size: 1.2em;
+    font-weight: 400;
+    font-size: 2.2em;
 }
 
 section.section5.bgglobee .container {
