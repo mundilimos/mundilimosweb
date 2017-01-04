@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IIMTECH/template-bigbig.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/header.php" afterPath="$PROJECT_DIR$/IIMTECH/header.php" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,18 +23,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
+            <state relative-caret-position="148">
+              <caret line="124" column="193" selection-start-line="124" selection-start-column="193" selection-end-line="124" selection-end-column="193" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-                <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+                <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+                <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
               </folding>
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1147">
+            <state relative-caret-position="1672">
               <caret line="216" column="19" selection-start-line="216" selection-start-column="19" selection-end-line="216" selection-end-column="19" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
@@ -120,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-bigbig.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template-bigbig.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-bigbig.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#6#47#0#PHP" expanded="true" />
               </folding>
@@ -167,8 +167,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-aboutus.php" />
         <option value="$PROJECT_DIR$/IIMTECH/style.css" />
-        <option value="$PROJECT_DIR$/IIMTECH/header.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-bigbig.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/header.php" />
       </list>
     </option>
   </component>
@@ -727,12 +727,12 @@
       <workItem from="1482988215673" duration="22119000" />
       <workItem from="1483198327431" duration="522000" />
       <workItem from="1483203415452" duration="9836000" />
-      <workItem from="1483401268018" duration="7047000" />
+      <workItem from="1483401268018" duration="7677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71583000" />
+    <option name="totallyTimeSpent" value="72213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1360" y="0" width="1360" height="768" extended-state="0" />
@@ -813,8 +813,8 @@
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -828,8 +828,8 @@
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -904,8 +904,8 @@
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -980,8 +980,8 @@
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -1013,8 +1013,8 @@
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>
@@ -1156,16 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1147">
-          <caret line="216" column="19" selection-start-line="216" selection-start-column="19" selection-end-line="216" selection-end-column="19" />
-          <folding>
-            <element signature="e#6#49#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-lander-2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1190,21 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1483504283000" expanded="true" signature="5173:5179" ph="&amp;nbsp;" />
-            <marker date="1483504283000" expanded="true" signature="5334:5340" ph="&amp;nbsp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-aboutus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1223,10 +1198,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-bigbig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#6#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="216" column="19" selection-start-line="216" selection-start-column="19" selection-end-line="216" selection-end-column="19" />
+          <folding>
+            <element signature="e#6#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="124" column="193" selection-start-line="124" selection-start-column="193" selection-end-line="124" selection-end-column="193" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1483507233000" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1483507233000" expanded="true" signature="5479:5485" ph="&amp;nbsp;" />
           </folding>
         </state>
       </provider>

@@ -122,8 +122,8 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") ){ ?>
-			 biggy <?php }?>" style="<?php if( is_page_template("template-contact.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/contactus.jpg); <?php }?><?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?>">
+	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php"); ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") ){ ?>
+			 biggy <?php }?>" style="<?php if( is_page_template("template-contact.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/contactus.jpg); <?php }?><?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?>   <?php if( is_page_template("template-bigbig.php") ){ ?> <?php the_field('bigbg'); <?php } ?>">
 
 
 
@@ -131,7 +131,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-		<div class="blackbg">
+        <div class="blackbg">
 
 
 			<div class="container">
@@ -217,7 +217,7 @@ if ( wp_is_mobile() ) { ?>
 		</div>
 
 
-	<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?>  <h2 class="text-center text-white" style="padding-bottom: 27px;"><?php the_title(); ?> </h2> <?php } ?>
+	<?php if( is_page_template("template-homepage.php") ){ ?>  <?php } else { ?>  <h2 class="text-center text-white" style="padding-bottom: 27px;text-transform: uppercase;"><?php the_title(); ?> </h2> <?php } ?>
 
 
 		</div>
@@ -229,7 +229,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<?php } ?>
 
-		<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") ){ ?>
+		<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php")  ){ ?>
 
 
 			<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
