@@ -275,7 +275,7 @@ ul.nostyle.s2li li {
     padding-bottom: 27px;
     letter-spacing: 5px;
     font-size: 18px;
-    font-weight:300;
+    font-weight:300 !important;
     padding-top: 27px;
 
 }
