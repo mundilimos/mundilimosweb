@@ -9,12 +9,12 @@ get_header();
 
 
 
-    <section class="section5 centerp" id="fleet">
-
-
+    <section class="section5" id="fleet">
 
         <?php the_content(); ?>
 
+
+        </div>
 
     </section>
 
