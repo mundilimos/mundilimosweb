@@ -246,8 +246,8 @@ section.sub.section4 {
     margin: auto;
     line-height: 2;
 letter-spacing: 1px;
-    font-weight:500;
-     font-size: 12px;
+    font-weight:300;
+     font-size: 14px;
 
 }
 
@@ -267,15 +267,15 @@ ul.nostyle.s2li li {
 .section5 h2 {
     padding-bottom: 27px;
      letter-spacing: 8px;
-    font-size: 22px;
+    font-size: 32px;
 }
 .section5 h3{
 
 
     padding-bottom: 27px;
     letter-spacing: 5px;
-    font-size: 16px;
-    font-weight:500;
+    font-size: 18px;
+    font-weight:300;
     padding-top: 27px;
 
 }
@@ -749,7 +749,7 @@ a.boxh3a {
 
 .centerp{
 
-    font-size: 18px;
+    font-size: 14px;
     width: 90%;
     margin: auto;
 
