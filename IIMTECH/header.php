@@ -123,7 +123,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php"); ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-aboutus.php") ){ ?>
-			 biggy <?php }?>" style="<?php if( is_page_template("template-contact.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/contactus.jpg); <?php }?><?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?>   <?php if( is_page_template("template-bigbig.php") ){ ?> <?php the_field('bigbg'); <?php } ?>">
+			 biggy <?php }?>" style="<?php if( is_page_template("template-contact.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/contactus.jpg); <?php }?><?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?>   <?php if( is_page_template("template-bigbig.php") ){ ?> <?php the_field('bigbg') ?> <?php } ?>">
 
 
 
