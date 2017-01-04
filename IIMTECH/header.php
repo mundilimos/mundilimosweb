@@ -54,7 +54,7 @@ if ( wp_is_mobile() ) { ?>
 		<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
 	</head>
-	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  || is_page_template("template-aboutus.php")   ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff !important; color:#000  !important; <?php } ?>">
+	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php") || is_page_template("template-bigbig.php")  || is_page_template("template-aboutus.php")   ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff !important; color:#000  !important; <?php } ?>">
 
 
 
@@ -172,7 +172,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<!-- Nav goes here -->
 
-<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  || is_page_template("template-aboutus.php")  ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
+<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-contact.php")  || is_page_template("template-aboutus.php")   || is_page_template("template-bigbig.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
