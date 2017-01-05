@@ -718,6 +718,10 @@ a.boxh3a {
 }
 
 
+.page-template-template-internal-php footer {
+    min-height: 1000px !important;
+}
+
 .blog img {
     display: block;
     width: 90%;
