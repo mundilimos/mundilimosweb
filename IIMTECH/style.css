@@ -718,7 +718,26 @@ a.boxh3a {
 }
 
 
+.blog img {
+    display: block;
+    width: 90%;
+    height: auto;
+}
 
+.faqs h2 {
+    font-size: 22px;
+    font-weight:400px;
+}
+
+
+
+.faqs  {
+
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+
+ }
 
 
 @media only screen and (max-width: 768px)  {
