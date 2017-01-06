@@ -1069,6 +1069,7 @@ div.wpcf7-validation-errors{
     text-align: center;
     padding: 10px;
     max-width: 300px;
+    margin-top: 8px;
     border-color: #f7e700;
 
 }
@@ -1077,6 +1078,8 @@ div.wpcf7-validation-errors{
 span.wpcf7-not-valid-tip{
 
     text-align: center;
+    padding-top: 8px;
+    text-decoration: underline;
 
 }
 
@@ -1087,5 +1090,6 @@ div.wpcf7-mail-sent-ok {
     text-align: center;
     padding: 10px;
     max-width: 300px;
+    margin-top: 8px;
     border-color: #00fb3e;
 }
