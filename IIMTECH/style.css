@@ -1027,3 +1027,35 @@ input#submitbtnn:hover {
     margin: auto;
     max-height: 200px;
 }
+
+
+/* form */
+
+
+#subnow input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    background: transparent;
+    text-align: center;
+    border: solid 1px #2ca6bd;
+    border-radius: 3px;
+    padding: 7px;
+    width: 100%;
+    max-width: 300px; 
+    margin: auto !Important;
+    display: block;
+}
+
+
+#subnow input.wpcf7-form-control.wpcf7-submit {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    padding: 10px;
+    background: #2ca6bd;
+    border: none;
+    border-radius: 3px;
+    font-size: 1.3em;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 400;
+}

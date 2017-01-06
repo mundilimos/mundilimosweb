@@ -178,7 +178,7 @@
 
 <?php
 
-  echo do_shortcode('  [contact-form-7 id="10060" title="Subscribe"]') 
+  echo do_shortcode('  [contact-form-7 id="10060" title="Subscribe"]')
 
 ?>
 
