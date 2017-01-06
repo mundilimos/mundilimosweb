@@ -1039,7 +1039,7 @@ input#submitbtnn:hover {
     border-radius: 3px;
     padding: 7px;
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     margin: auto !Important;
     display: block;
 }
@@ -1048,7 +1048,7 @@ input#submitbtnn:hover {
 #subnow input.wpcf7-form-control.wpcf7-submit {
     display: block;
     width: 100%;
-    max-width: 300px;
+    max-width: 200px;
     margin: auto;
     padding: 10px;
     background: #2ca6bd;
