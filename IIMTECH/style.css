@@ -1041,7 +1041,7 @@ input#submitbtnn:hover {
     padding: 11px;
     border-right: 0;
     width: 100%;
-    max-width: 400px;
+    max-width: 500px;
     margin: auto !Important;
     display: block;
     outline: none !important;
@@ -1051,7 +1051,7 @@ input#submitbtnn:hover {
 #subnow input.wpcf7-form-control.wpcf7-submit {
     display: block;
     width: 100%;
-    max-width: 200px;
+    max-width: 300px;
     margin: auto;
     padding: 14px;
     background: #2ca6bd;
