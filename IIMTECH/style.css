@@ -1034,8 +1034,9 @@ input#submitbtnn:hover {
 
 #subnow input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
     background: transparent;
-    text-align: center;
-    border: solid 1px #2ca6bd;
+    text-align: left;
+    text-indent: 9px;
+    border: solid 1px #ffffff;
     border-radius: 3px;
     padding: 7px;
     border-right: 0;
