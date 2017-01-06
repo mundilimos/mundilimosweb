@@ -1038,7 +1038,7 @@ input#submitbtnn:hover {
     text-indent: 9px;
     border: solid 1px #ffffff;
     border-radius: 3px;
-    padding: 7px;
+    padding: 11px;
     border-right: 0;
     width: 100%;
     max-width: 400px;
@@ -1053,7 +1053,7 @@ input#submitbtnn:hover {
     width: 100%;
     max-width: 200px;
     margin: auto;
-    padding: 10px;
+    padding: 14px;
     background: #2ca6bd;
     border: none;
     border-radius: 0;
