@@ -1062,7 +1062,7 @@ input#submitbtnn:hover {
 }
 
 
-.sub .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
     width: 90%;
     margin: auto;
     text-align: center;
