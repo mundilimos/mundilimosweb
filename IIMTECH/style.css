@@ -1039,7 +1039,7 @@ input#submitbtnn:hover {
     border-radius: 3px;
     padding: 7px;
     width: 100%;
-    max-width: 300px; 
+    max-width: 300px;
     margin: auto !Important;
     display: block;
 }
@@ -1058,4 +1058,15 @@ input#submitbtnn:hover {
     letter-spacing: 4px;
     text-transform: uppercase;
     font-weight: 400;
+    margin-top: 22px !important;
+}
+
+
+.sub .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    max-width: 300px;
+    border-color: #00fb3e;
 }

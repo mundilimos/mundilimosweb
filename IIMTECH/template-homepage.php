@@ -174,7 +174,7 @@
 
 <section class="sub section4">
     <h2 class="text-white text-center" style="font-size: 22px;">   SUBSCRIBE FOR SPECIAL OFFERS</h2>
-
+<br /><br />
 
 <?php
 
