@@ -1062,7 +1062,26 @@ input#submitbtnn:hover {
 }
 
 
-.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+div.wpcf7-validation-errors{
+
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    max-width: 300px;
+    border-color: #f7e700;
+
+}
+
+
+span.wpcf7-not-valid-tip{
+
+    text-align: center;
+
+}
+
+
+div.wpcf7-mail-sent-ok {
     width: 90%;
     margin: auto;
     text-align: center;
