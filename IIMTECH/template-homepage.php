@@ -176,11 +176,11 @@
     <h2 class="text-white text-center" style="font-size: 22px;">   SUBSCRIBE FOR SPECIAL OFFERS</h2>
 
 
+<?php
 
+  echo do_shortcode('  [contact-form-7 id="10060" title="Subscribe"]') 
 
-    [contact-form-7 id="10060" title="Subscribe"]
-
-
+?>
 
 
 
