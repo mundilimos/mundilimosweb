@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/functions.js" afterPath="$PROJECT_DIR$/IIMTECH/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" afterPath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-internal.php" afterPath="$PROJECT_DIR$/IIMTECH/template-internal.php" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,65 +25,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="1047" column="1" selection-start-line="1047" selection-start-column="1" selection-end-line="1047" selection-end-column="1" />
+            <state relative-caret-position="1110">
+              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
+      <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="176" column="12" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
+            <state relative-caret-position="413">
+              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
               <folding>
-                <element signature="e#6#49#0#PHP" expanded="true" />
-                <marker date="1483724809000" expanded="true" signature="4551:5651" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="4743:5640" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="5672:5836" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="5872:6066" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="5882:5995" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="5891:5897" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5898:5904" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5911:5917" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5918:5924" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5945:5951" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5952:5958" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5965:5971" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="5972:5978" ph="&amp;nbsp;" />
-                <marker date="1483724809000" expanded="true" signature="6188:7252" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6216:7232" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6242:7221" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6278:7206" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6359:6394" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6513:6570" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="6683:7187" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="7280:7991" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="7308:7980" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="7334:7969" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="7371:7954" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="7414:7935" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="8089:8947" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="8117:8936" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="8143:8929" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="8298:8914" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9027:10461" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9055:10450" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9081:10439" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9121:9409" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9248:9390" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9457:9754" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9585:9735" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9794:10092" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="9930:10073" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="10132:10424" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="10260:10405" ph="..." />
-                <marker date="1483724809000" expanded="true" signature="10495:11318" ph="..." />
+                <element signature="e#6#49#0#PHP" expanded="false" />
+                <element signature="e#2312#2341#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html5.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/js/html5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jqueryjs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="1047" column="1" selection-start-line="1047" selection-start-column="1" selection-end-line="1047" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +113,6 @@
       <list>
         <option value="$PROJECT_DIR$/IIMTECH/desktop.css" />
         <option value="$PROJECT_DIR$/IIMTECH/tablet.css" />
-        <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
         <option value="$PROJECT_DIR$/IIMTECH/template-worldwide.php" />
         <option value="$PROJECT_DIR$/IIMTECH/options.php" />
         <option value="$PROJECT_DIR$/IIMTECH/mobilemenu.css" />
@@ -110,10 +121,12 @@
         <option value="$PROJECT_DIR$/IIMTECH/template-aboutus.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-bigbig.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-affiliate.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
         <option value="$PROJECT_DIR$/IIMTECH/style.css" />
+        <option value="$PROJECT_DIR$/IIMTECH/js/functions.js" />
+        <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
+        <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
       </list>
     </option>
   </component>
@@ -674,12 +687,12 @@
       <workItem from="1483401268018" duration="8914000" />
       <workItem from="1483570966032" duration="1067000" />
       <workItem from="1483592562777" duration="2837000" />
-      <workItem from="1483723773717" duration="3719000" />
+      <workItem from="1483723773717" duration="4635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81073000" />
+    <option name="totallyTimeSpent" value="81989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -1132,27 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/js/html5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-worldwide.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -1179,14 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,22 +1239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4170">
-          <caret line="280" column="0" selection-start-line="280" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -1327,6 +1295,57 @@
         <state relative-caret-position="356">
           <caret line="1047" column="1" selection-start-line="1047" selection-start-column="1" selection-end-line="1047" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/js/html5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#49#0#PHP" expanded="false" />
+            <element signature="e#2312#2341#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

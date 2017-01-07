@@ -1,9 +1,5 @@
 jQuery(document).ready(function($) {
 
-
-
-
-
  	$(function() {
 		$('.cr1').mouseenter(function() {
 			$('.m1p').fadeIn(500);
@@ -71,5 +67,10 @@ jQuery(document).ready(function($) {
 		});
 
 	}).call(this);
+
+
+	//newjsforsliderfleet
+
+
 
 });
