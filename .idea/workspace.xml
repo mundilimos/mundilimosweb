@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/functions.js" afterPath="$PROJECT_DIR$/IIMTECH/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" afterPath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-internal.php" afterPath="$PROJECT_DIR$/IIMTECH/template-internal.php" />
     </list>
@@ -38,11 +38,11 @@
       <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+            <state relative-caret-position="75">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="false" />
-                <element signature="e#2312#2341#0#HTML" expanded="true" />
+                <element signature="e#208#237#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,8 +51,8 @@
       <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+            <state relative-caret-position="392">
+              <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
       <file leaf-file-name="jqueryjs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="410">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -687,12 +687,12 @@
       <workItem from="1483401268018" duration="8914000" />
       <workItem from="1483570966032" duration="1067000" />
       <workItem from="1483592562777" duration="2837000" />
-      <workItem from="1483723773717" duration="4635000" />
+      <workItem from="1483723773717" duration="5967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81989000" />
+    <option name="totallyTimeSpent" value="83321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -1314,14 +1314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/js/html5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1330,21 +1322,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="410">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+        <state relative-caret-position="75">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="false" />
-            <element signature="e#2312#2341#0#HTML" expanded="true" />
+            <element signature="e#208#237#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
