@@ -72,8 +72,8 @@ jQuery(document).ready(function($) {
 	//newjsforsliderfleet
 
 	$('#fleetS').slick({
-		nextArrow: '<i class="fa fa-arrow-right"></i>',
-		prevArrow: '<i class="fa fa-arrow-left"></i>',
+		nextArrow: '<i class="fa fa-arrow-play playright"></i>',
+		prevArrow: '<i class="fa fa-arrow-play playleft"></i>',
 		dots: false,
 		infinite: true,
 		speed: 300,
