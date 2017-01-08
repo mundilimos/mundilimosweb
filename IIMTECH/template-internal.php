@@ -11,15 +11,16 @@ get_header();
             <!-- slider starts here -->
 
 
- 
+
 
 
             <ul id="fleetS" class="tab-content" style="padding-bottom: 30px;">
 
 
-                <button type="button" class="slick-prev">
-                    <i class=" fa fa-play playleft " aria-hidden="true"></i>
-                </button>
+
+
+
+                   <a href="#" class="slick-prev"> <i class=" fa fa-play playleft " aria-hidden="true"></i> </a>
 
 
                 <li class="fleetSinner active" id="one">
@@ -196,12 +197,11 @@ get_header();
                     </div>
                 </li>
 
-                <button type="button" class="slick-next">
-
+                <a href="#" class="slick-next">
 
                     <i class="fa fa-play playright" aria-hidden="true"></i>
 
-                </button>
+                </a>
 
                 
             </ul>
