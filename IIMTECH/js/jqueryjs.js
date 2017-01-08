@@ -71,17 +71,20 @@ jQuery(document).ready(function($) {
 
 	//newjsforsliderfleet
 
+
+
+
+
+
 	$('#fleetS').slick({
-		nextArrow: '<i class="fa fa-arrow-play playright"></i>',
-		prevArrow: '<i class="fa fa-arrow-play playleft"></i>',
+		nextArrow: '<i class="fa fa-play playright"></i>',
+		prevArrow: '<i class="fa fa-play playleft"></i>',
+// add the rest of your options here
 		dots: false,
 		infinite: true,
 		speed: 300,
-		slidesToShow: 1,
-		adaptiveHeight: true
-
-// add the rest of your options here
-	});
+		slidesToShow: 1
+ 	});
 
 });
 
