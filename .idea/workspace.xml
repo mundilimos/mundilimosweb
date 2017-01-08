@@ -36,11 +36,11 @@
       <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+            <state relative-caret-position="251">
+              <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="false" />
-                <element signature="e#200#229#0#HTML" expanded="true" />
+                <element signature="e#298#327#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -685,12 +685,12 @@
       <workItem from="1483401268018" duration="8914000" />
       <workItem from="1483570966032" duration="1067000" />
       <workItem from="1483592562777" duration="2837000" />
-      <workItem from="1483723773717" duration="9071000" />
+      <workItem from="1483723773717" duration="9147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86425000" />
+    <option name="totallyTimeSpent" value="86501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -1338,11 +1338,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+        <state relative-caret-position="251">
+          <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="false" />
-            <element signature="e#200#229#0#HTML" expanded="true" />
+            <element signature="e#298#327#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
