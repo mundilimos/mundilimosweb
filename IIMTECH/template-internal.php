@@ -9,11 +9,17 @@ get_header();
             
             
             <!-- slider starts here -->
-            
+
+
+<section style="position:relative;">
+
+    <button type="button" class="slick-prev">
+        <i class=" fa fa-play playleft " aria-hidden="true"></i>
+    </button>
+
             <ul id="fleetS" class="tab-content" style="padding-bottom: 30px;">
 
-                <button type="button" class="slick-prev">                    <i class="fa fa-play playleft" aria-hidden="true"></i>
-                </button>
+
 
 
 
@@ -25,9 +31,9 @@ get_header();
                         <p class="text-center">
                             <?php the_field('paraa'); ?>
                         </p>
-                        <i class="fa fa-play playleft" aria-hidden="true"></i><?php the_field('counta'); ?>
+                        <i class="fa fa-male" aria-hidden="true"></i><?php the_field('counta'); ?>
                         <br>
-                        <i class="fa fa-play" aria-hidden="true"></i><?php the_field('counta2'); ?>
+                        <i class="fa fa-suitcase" aria-hidden="true"></i><?php the_field('counta2'); ?>
                     </div>
 
 
@@ -191,17 +197,22 @@ get_header();
                     </div>
                 </li>
 
-                <button type="button" class="slick-next">
-
-
-                    <i class="fa fa-play playright" aria-hidden="true"></i>
-
-                </button>
 
 
                 
             </ul>
-            
+
+
+    <button type="button" class="slick-next">
+
+
+        <i class="fa fa-play playright" aria-hidden="true"></i>
+
+    </button>
+
+
+</section>
+
             <!-- slider ends here -->
             
             
