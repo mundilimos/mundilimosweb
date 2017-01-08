@@ -11,7 +11,7 @@ get_header();
             <!-- slider starts here -->
 
 
-<section style="position:relative;">
+<div style="position:relative;">
 
     <button type="button" class="slick-prev">
         <i class=" fa fa-play playleft " aria-hidden="true"></i>
@@ -211,7 +211,7 @@ get_header();
     </button>
 
 
-</section>
+</div>
 
             <!-- slider ends here -->
             
