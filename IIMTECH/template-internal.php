@@ -47,7 +47,7 @@ get_header();
                         <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>
 					" />
                     </div>
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titleb'); ?>
                         </h3>
                         <p>
@@ -63,7 +63,7 @@ get_header();
 
 
                 <li class="fleetSinner" id="three">
-                    <div class="">
+                    <div >
                         <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>
 					" />
                     </div>
@@ -85,7 +85,7 @@ get_header();
                         <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>
 					" />
                     </div>
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titled'); ?>
                         </h3>
                         <p>
@@ -103,7 +103,7 @@ get_header();
                         <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>
 					" />
                     </div>
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titlee'); ?>
                         </h3>
                         <p>
@@ -123,7 +123,7 @@ get_header();
                         <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>
 					" />
                     </div>
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titlef'); ?>
                         </h3>
                         <p>
@@ -142,7 +142,7 @@ get_header();
                         <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>
 					" />
                     </div>
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titleg'); ?>
                         </h3>
                         <p>
@@ -182,7 +182,7 @@ get_header();
 					" />
                     </div>
 
-                    <div class="">
+                    <div >
                         <h3 class="fleeth3"><?php the_field('titlei'); ?>
                         </h3>
                         <p>
@@ -194,7 +194,7 @@ get_header();
                 </li>
 
 
-                <button type="button" class="slick-prev">Next</button>
+                <button type="button" class="slick-next">Next</button>
 
 
             </ul>
