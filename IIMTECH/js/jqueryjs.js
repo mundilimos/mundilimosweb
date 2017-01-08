@@ -78,17 +78,3 @@ jQuery(document).ready(function($) {
 
 });
 
-$(document).ready(function(){
-
-
-$('#fleet').slick({
-	dots: false,
-	infinite: true,
-	speed: 300,
-	arrows: false,
-	slidesToShow: 1
-});
-
-
-});
-

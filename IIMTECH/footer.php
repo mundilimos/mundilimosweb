@@ -40,6 +40,27 @@
 
 <?php wp_footer(); ?>
 
+<script type="text/javascript">
+
+
+$(document).ready(function(){
+
+
+$('#fleet').slick({
+nextArrow: '<i class="fa fa-play playright"></i>',
+prevArrow: '<i class="fa fa-play playleft"></i>',
+// add the rest of your options here
+dots: false,
+infinite: true,
+speed: 300,
+arrows: false,
+slidesToShow: 1
+});
+
+
+});
+</script>
+
 
 <script src="/wp-content/themes/IIMTECH/js/jqueryjs.js"></script>
 <script src="/wp-content/themes/IIMTECH/js/functions.js"></script>
@@ -55,6 +76,12 @@ ga('send','event','book button','click','book a ride')
 })
 })
 </script>
+
+
+
+
+
+
 <script type="text/javascript">
 var google_replace_number=" 800.317.7087 ";
 (function(a,e,c,f,g,h,b,d){var k={ak:"953090911",cl:"_g3pCNSfyWwQ34a8xgM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
