@@ -17,10 +17,10 @@ get_header();
             <ul id="fleetS" class="tab-content" style="padding-bottom: 30px;">
 
 
+<button class="slick-prev" role="button">
+                <i class="fa fa-arrow-play playleft"></i>
 
-                  <i class=" fa fa-play playleft " aria-hidden="true"></i>
-
-
+</button>
 
 
                 <li class="fleetSinner active" id="one">
@@ -198,12 +198,12 @@ get_header();
                 </li>
 
 
+                <button class="slick-next" role="button">
 
 
-                    <i class="fa fa-play playright" aria-hidden="true"></i>
+                <i class="fa fa-arrow-play playright"></i>
+</button>
 
-
-                
             </ul>
 
 
