@@ -16,8 +16,7 @@ get_header();
 
             <ul id="fleet" style="padding-bottom: 30px;">
 
-                <button type="button" class="slick-prev">Previous</button>
-
+ 
 
                 <li class="active" id="one">
 
@@ -194,7 +193,6 @@ get_header();
                 </li>
 
 
-                <button type="button" class="slick-next">Next</button>
 
 
             </ul>
