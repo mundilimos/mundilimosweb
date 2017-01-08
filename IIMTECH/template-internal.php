@@ -12,7 +12,8 @@ get_header();
             
             <ul id="fleetS" class="tab-content" style="padding-bottom: 30px;">
 
-                <button type="button" class="slick-prev">Previous</button>
+                <button type="button" class="slick-prev">                    <i class="fa fa-play playleft" aria-hidden="true"></i>
+                </button>
 
 
 
@@ -55,10 +56,10 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i><?php the_field('countb2'); ?>
                     </div>
                 </li>
-                
-                
-                
-                
+
+
+
+
                 <li class="fleetSinner" id="three">
                     <div class="">
                         <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>
@@ -75,8 +76,8 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i><?php the_field('countc2'); ?>
                     </div>
                 </li>
-                
-                
+
+
                 <li class="fleetSinner" id="four">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>
@@ -92,9 +93,9 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i> 6
                     </div>
                 </li>
-                
-                
-                
+
+
+
                 <li class="fleetSinner" id="five">
                     <div class="upperfleet">
                         <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>
@@ -110,11 +111,11 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i> 4
                     </div>
                 </li>
-                
-                
-                
-                
-                
+
+
+
+
+
                 <li class="fleetSinner" id="six">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>
@@ -130,10 +131,10 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i> 14
                     </div>
                 </li>
-                
-                
-                
-                
+
+
+
+
                 <li class="fleetSinner" id="seven">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>
@@ -149,10 +150,10 @@ get_header();
                         <i class="fa fa-suitcase" aria-hidden="true"></i> 37
                     </div>
                 </li>
-                
-                
-                
-                
+
+
+
+
                 <li class="fleetSinner" id="eight">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>
@@ -169,10 +170,10 @@ get_header();
                     </div>
                 </li>
 
-                
-                
-                
-                
+
+
+
+
                 <li class="fleetSinner" id="nine">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>
@@ -190,7 +191,12 @@ get_header();
                     </div>
                 </li>
 
-                <button type="button" class="slick-prev">Next</button>
+                <button type="button" class="slick-next">
+
+
+                    <i class="fa fa-play playright" aria-hidden="true"></i>
+
+                </button>
 
 
                 
