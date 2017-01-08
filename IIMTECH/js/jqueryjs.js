@@ -77,8 +77,11 @@ jQuery(document).ready(function($) {
 		dots: false,
 		infinite: true,
 		speed: 300,
-		slidesToShow: 1
- 	});
+		slidesToShow: 1,
+		adaptiveHeight: true
+
+// add the rest of your options here
+	});
 
 });
 
