@@ -140,7 +140,6 @@
         <a href="https://youtu.be/xaPNgca6UNo" target="_blank">Play presentation video</a>
         <a href="https://view.publitas.com/mundi-limousine/mundi-limousine-online-brochure/page/1" target="_blank">View online brochure</a>
 
-        <span class="text-center text-white contraryp"> Download mobile app </span>
 
 
 
@@ -149,28 +148,100 @@
 
 
     </p>
+</section>
+
+
+
+<section class="section5 bluebgsection">
+
 
 
 
     <div class="container">
         <div class="row">
             <div class="col80">
-            <div class="col-md-6">
-                <a href="https://itunes.apple.com/us/app/mundi-limousine/id1145976069?mt=8">
-                <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.svg"/>
-                </a>
-            </div>
-            <div class="col-md-6">
 
-                <a href="https://play.google.com/store/apps/details?id=com.limoanywhere.laca.mundilimo&hl=en">
-                <img class="android" src="/wp-content/themes/IIMTECH/images/android.svg"/>
-                </a>
-            </div>
+
+                         <span class="text-center text-white contraryp"> Download mobile app </span>
+
+
+
+
+                <div class="col-md-6">
+                    <a href="https://itunes.apple.com/us/app/mundi-limousine/id1145976069?mt=8">
+                        <img class="apple" src="/wp-content/themes/IIMTECH/images/apple.svg"/>
+                    </a>
+                </div>
+                <div class="col-md-6">
+
+                    <a href="https://play.google.com/store/apps/details?id=com.limoanywhere.laca.mundilimo&hl=en">
+                        <img class="android" src="/wp-content/themes/IIMTECH/images/android.svg"/>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
+
+
+
+
+
 </section>
-<br /><br />
+
+
+
+<section class="bernardo">
+
+
+    <div class="col-md-6 leftchecks checksblue">
+
+        <div class="col-md-12">
+            Book single or multiple reservations <i class="fa fa-check" aria-hidden="true"></i>
+
+        </div>
+        <div class="col-md-12">
+           Create, manage and update profiles <i class="fa fa-check" aria-hidden="true"></i>
+
+        </div>
+        <div class="col-md-12">
+            Preview rides and review past ones <i class="fa fa-check" aria-hidden="true"></i>
+
+        </div>
+        <div class="col-md-12">
+            Instant quotes <i class="fa fa-check" aria-hidden="true"></i>
+
+        </div>
+
+    </div>
+
+
+    <div class="col-md-6 rightchecks checksblue">
+
+        <div class="col-md-12">
+            <i class="fa fa-check" aria-hidden="true"></i> Ride real-time status updates via SMS and email
+        </div>
+        <div class="col-md-12">
+            <i class="fa fa-check" aria-hidden="true"></i> Chauffeur name, picture and cell # notification
+        </div>
+
+        <div class="col-md-12">
+            <i class="fa fa-check" aria-hidden="true"></i> Flight Tracking integrated into dispatch system
+        </div>
+        <div class="col-md-12">
+            <i class="fa fa-check" aria-hidden="true"></i> Retrieve ride receipts
+        </div>
+
+    </div>
+
+
+
+
+</section>
+
+
+
+
+
 
 <section class="sub section4">
     <h2 class="text-white text-center" style="font-size: 22px;">   SUBSCRIBE FOR SPECIAL OFFERS</h2>
@@ -200,19 +271,6 @@
 </section>
 
 <br /><br />
-
-<!--
-<section class="section6" id="discovermore">
-    <h2> Limo Limo Limo Limo Limo Limo Limo  </h2>
-    <br />
-    <button> HELLO </button>
-
-</section>
-
-
-<br /><br />
--->
-
 
 
 <section id="sectiondiscover">
