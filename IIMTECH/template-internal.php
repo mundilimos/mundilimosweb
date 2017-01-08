@@ -16,10 +16,7 @@ get_header();
 
             <ul id="fleetS" class="tab-content" style="padding-bottom: 30px;">
 
-
-<button class="slick-prev" role="button">
- 
-</button>
+                <button type="button" class="slick-prev">Previous</button>
 
 
                 <li class="fleetSinner active" id="one">
@@ -197,10 +194,8 @@ get_header();
                 </li>
 
 
-                <button class="slick-next" role="button">
+                <button type="button" class="slick-prev">Next</button>
 
-
- </button>
 
             </ul>
 
