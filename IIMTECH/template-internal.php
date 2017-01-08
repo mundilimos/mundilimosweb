@@ -17,30 +17,34 @@ get_header();
 
 
                 <li class="fleetSinner active" id="one">
-                    <div class="col-md-6">
+
+                    <div class="upperfleet">
+                        <h3 class="fleeth3"><?php the_field('titlea'); ?>
+                        </h3>
+                        <p class="text-center">
+                            <?php the_field('paraa'); ?>
+                        </p>
+                        <i class="fa fa-play playleft" aria-hidden="true"></i><?php the_field('counta'); ?>
+                        <br>
+                        <i class="fa fa-play" aria-hidden="true"></i><?php the_field('counta2'); ?>
+                    </div>
+
+
+                    <div class="imgdivfleet">
                         <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
-                        <h3 class="fleeth3"><?php the_field('titlea'); ?>
-                        </h3>
-                        <p>
-                            <?php the_field('paraa'); ?>
-                        </p>
-                        <i class="fa fa-male" aria-hidden="true"></i><?php the_field('counta'); ?>
-                        <br>
-                        <i class="fa fa-suitcase" aria-hidden="true"></i><?php the_field('counta2'); ?>
-                    </div>
+
                 </li>
                 
                 
                 
                 <li class="fleetSinner" id="two">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titleb'); ?>
                         </h3>
                         <p>
@@ -56,11 +60,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="three">
-                    <div class="col-md-6">
+                    <div class="">
                         <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <h3 class="fleeth3"><?php the_field('titlec'); ?>
                         </h3>
                         <p>
@@ -74,11 +78,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="four">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titled'); ?>
                         </h3>
                         <p>
@@ -92,11 +96,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="five">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titlee'); ?>
                         </h3>
                         <p>
@@ -112,11 +116,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="six">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titlef'); ?>
                         </h3>
                         <p>
@@ -131,11 +135,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="seven">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titleg'); ?>
                         </h3>
                         <p>
@@ -150,11 +154,11 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="eight">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>
 					" />
                     </div>
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <h3 class="fleeth3"><?php the_field('titleh'); ?>
                         </h3>
                         <p>
@@ -170,12 +174,12 @@ get_header();
                 
                 
                 <li class="fleetSinner" id="nine">
-                    <div class="col-md-6">
+                    <div class="upperfleet">
                         <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>
 					" />
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="">
                         <h3 class="fleeth3"><?php the_field('titlei'); ?>
                         </h3>
                         <p>

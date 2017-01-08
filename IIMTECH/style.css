@@ -1048,6 +1048,37 @@ input#submitbtnn:hover {
 }
 
 
+
+
+i.fa.fa-arrow-left.slick-arrow {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    bottom: 0;
+    font-size: 2em;
+}
+
+
+.playleft{
+
+    -webkit-transform: scale(-1, 1);
+    -moz-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+    
+}
+
+
+i.fa.fa-arrow-right.slick-arrow {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    bottom: 0;
+    font-size: 2em;
+}
+
+
 #subnow input.wpcf7-form-control.wpcf7-submit {
     display: block;
     width: 100%;
