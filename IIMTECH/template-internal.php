@@ -18,7 +18,7 @@ get_header();
 
 
 
-                <a href="#" class="slick-prev"> <i class=" fa fa-play playleft " aria-hidden="true"></i> </a>
+                  <i class=" fa fa-play playleft " aria-hidden="true"></i>
 
 
 
@@ -199,12 +199,10 @@ get_header();
 
 
 
-                <a href="#" class="slick-next">
 
                     <i class="fa fa-play playright" aria-hidden="true"></i>
 
-                </a>
-
+ 
                 
             </ul>
 
