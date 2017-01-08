@@ -1050,7 +1050,7 @@ input#submitbtnn:hover {
 
 
 
-i.fa.fa-play.playleft {
+a.slick-prev {
     position: absolute;
     left: 20px;
     top: 50%;
@@ -1070,7 +1070,7 @@ i.fa.fa-play.playleft {
 }
 
 
-i.fa.fa-play {
+a.slick-next {
     position: absolute;
     right: 20px;
     top: 50%;
