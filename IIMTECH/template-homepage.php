@@ -190,7 +190,11 @@
 
 
 
+
+
 <section class="bernardo">
+
+<div class="container">
 
 
     <div class="col-md-6 leftchecks checksblue">
@@ -200,7 +204,7 @@
 
         </div>
         <div class="col-md-12">
-           Create, manage and update profiles <i class="fa fa-check" aria-hidden="true"></i>
+            Create, manage and update profiles <i class="fa fa-check" aria-hidden="true"></i>
 
         </div>
         <div class="col-md-12">
@@ -213,6 +217,9 @@
         </div>
 
     </div>
+
+
+
 
 
     <div class="col-md-6 rightchecks checksblue">
@@ -234,12 +241,13 @@
     </div>
 
 
-
+</div>
 
 </section>
 
 
 
+<div style="clear: both;"></div>
 
 
 
