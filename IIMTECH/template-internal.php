@@ -18,8 +18,7 @@ get_header();
 
 
 <button class="slick-prev" role="button">
-                <i class="fa fa-arrow-play playleft"></i>
-
+ 
 </button>
 
 
@@ -201,8 +200,7 @@ get_header();
                 <button class="slick-next" role="button">
 
 
-                <i class="fa fa-arrow-play playright"></i>
-</button>
+ </button>
 
             </ul>
 
