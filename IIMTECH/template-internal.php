@@ -14,7 +14,7 @@ get_header();
 
 
 
-            <ul id="fleetS" style="padding-bottom: 30px;">
+            <ul id="fleet" style="padding-bottom: 30px;">
 
                 <button type="button" class="slick-prev">Previous</button>
 

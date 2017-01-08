@@ -81,7 +81,7 @@ jQuery(document).ready(function($) {
 $(document).ready(function(){
 
 
-$('#fleetS').slick({
+$('#fleet').slick({
 	nextArrow: '<i class="fa fa-play playright"></i>',
 	prevArrow: '<i class="fa fa-play playleft"></i>',
 // add the rest of your options here
