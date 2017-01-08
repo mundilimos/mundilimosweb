@@ -78,6 +78,7 @@ jQuery(document).ready(function($) {
 
 });
 
+$(document).ready(function(){
 
 
 $('#fleetS').slick({
@@ -89,3 +90,7 @@ $('#fleetS').slick({
 	speed: 300,
 	slidesToShow: 1
 });
+
+
+});
+
