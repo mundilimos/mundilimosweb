@@ -76,16 +76,16 @@ jQuery(document).ready(function($) {
 
 
 
-	$('#fleetS').slick({
-		nextArrow: '<i class="fa fa-play playright"></i>',
-		prevArrow: '<i class="fa fa-play playleft"></i>',
-// add the rest of your options here
-		dots: false,
-		infinite: true,
-		speed: 300,
-		slidesToShow: 1
- 	});
-
 });
 
 
+
+$('#fleetS').slick({
+	nextArrow: '<i class="fa fa-play playright"></i>',
+	prevArrow: '<i class="fa fa-play playleft"></i>',
+// add the rest of your options here
+	dots: false,
+	infinite: true,
+	speed: 300,
+	slidesToShow: 1
+});
