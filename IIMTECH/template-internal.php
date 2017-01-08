@@ -19,7 +19,7 @@ get_header();
                 <button type="button" class="slick-prev">Previous</button>
 
 
-                <li class="fleetSinner active" id="one">
+                <li class="active" id="one">
 
                     <div class="upperfleet">
                         <h3 class="fleeth3"><?php the_field('titlea'); ?>
@@ -42,7 +42,7 @@ get_header();
                 
                 
                 
-                <li class="fleetSinner" id="two">
+                <li  id="two">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>
 					" />
@@ -62,7 +62,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="three">
+                <li  id="three">
                     <div >
                         <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>
 					" />
@@ -80,7 +80,7 @@ get_header();
                 </li>
 
 
-                <li class="fleetSinner" id="four">
+                <li  id="four">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>
 					" />
@@ -98,7 +98,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="five">
+                <li  id="five">
                     <div class="upperfleet">
                         <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>
 					" />
@@ -118,7 +118,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="six">
+                <li  id="six">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>
 					" />
@@ -137,7 +137,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="seven">
+                <li  id="seven">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>
 					" />
@@ -156,7 +156,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="eight">
+                <li  id="eight">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>
 					" />
@@ -176,7 +176,7 @@ get_header();
 
 
 
-                <li class="fleetSinner" id="nine">
+                <li  id="nine">
                     <div class="upperfleet">
                         <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>
 					" />
