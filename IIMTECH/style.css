@@ -1050,7 +1050,7 @@ input#submitbtnn:hover {
 
 
 
-i.fa.fa-arrow-left.slick-arrow {
+i.fa.fa-play.playleft {
     position: absolute;
     left: 20px;
     top: 50%;
@@ -1070,7 +1070,7 @@ i.fa.fa-arrow-left.slick-arrow {
 }
 
 
-i.fa.fa-arrow-right.slick-arrow {
+i.fa.fa-play.slick-arrow {
     position: absolute;
     right: 20px;
     top: 50%;
