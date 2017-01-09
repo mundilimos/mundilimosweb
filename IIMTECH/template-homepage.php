@@ -40,7 +40,7 @@
 
 </div>
             
-            <p> Detailed upfront trip cost estimates no hidden fees or surcharges.
+            <p>  No hidden fees or surcharges.
 
             </p>
         </div>
@@ -58,7 +58,7 @@
 
             </div>
 
-            <p> Our chauffeurs are licensed and renowned for their skills and manners.
+            <p> Fully licensed and background checked.
 
             </p>
         </div>
@@ -77,7 +77,7 @@
 
             </div>
 
-            <p> Our perfect timing guarantees you will never be late to your commitments.
+            <p> On time or your ride is free.
 
             </p>
         </div>
@@ -94,7 +94,7 @@
 
             </div>
 
-            <p> Our customer service is ready to assist you 24 hours a day, 7 days a week.
+            <p> Live customer service 24/7/365.
 
             </p>
         </div>
