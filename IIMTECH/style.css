@@ -177,6 +177,11 @@ img.android {
     padding-bottom: 23px;
 }
 
+section.bernardo .col-md-12 {
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
 
 
 .playbuttondiv {

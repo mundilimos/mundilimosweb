@@ -162,8 +162,10 @@
             <div class="col80">
 
 
-                         <h3 class="text-center text-white"> Download mobile app </h3>
-
+                <h3 class="text-center text-white" style="
+                    text-transform: uppercase;
+                    font-weight: 600 !important;
+                    "> Download mobile app </h3>
 
 
 
@@ -197,7 +199,10 @@
 <div class="container">
 
     <section class="section5">
-    <h3 class="text-center text-white"> ONLINE RESERVATION </h3>
+    <h3 class="text-center text-white" style="
+                    text-transform: uppercase;
+                    font-weight: 600 !important;
+                    "> ONLINE RESERVATION </h3>
     </section>
 
     <div class="col-md-6 leftchecks checksblue text-right">
