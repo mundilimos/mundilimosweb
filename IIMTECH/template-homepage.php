@@ -162,7 +162,7 @@
             <div class="col80">
 
 
-                         <span class="text-center text-white contraryp"> Download mobile app </span>
+                         <h3 class="text-center text-white"> Download mobile app </h3>
 
 
 
@@ -196,8 +196,11 @@
 
 <div class="container">
 
+    <section class="section5">
+    <h3 class="text-center text-white"> ONLINE RESERVATION </h3>
+    </section>
 
-    <div class="col-md-6 leftchecks checksblue">
+    <div class="col-md-6 leftchecks checksblue text-right">
 
         <div class="col-md-12">
             Book single or multiple reservations <i class="fa fa-check" aria-hidden="true"></i>

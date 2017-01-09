@@ -158,14 +158,15 @@ span.bluestar {
      text-decoration: none;
 }
 
-
 img.apple {
     display: block;
     width: 104px;
     float: right;
-    margin: 10px auto;
+    margin: 8px auto;
     margin-right: 13px;
 }
+
+
 img.android {
     float: left;
     width: 128px;
@@ -1047,6 +1048,19 @@ input#submitbtnn:hover {
     outline: none !important;
 }
 
+section.section5.bluebgsection {
+    background: #20bdda;
+    clear: both;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    margin-bottom: 2%;
+}
+
+
+section.bernardo {
+    padding: 2% 0 5% 0;
+    margin: auto;
+}
 
 #subnow input.wpcf7-form-control.wpcf7-submit {
     display: block;
