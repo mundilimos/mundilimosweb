@@ -198,7 +198,7 @@
 
 <div class="container">
 
-    <section class="section5">
+    <section class="section5" style="padding-bottom: 0px;">
     <h3 class="text-center text-white" style="
                     text-transform: uppercase;
                     font-weight: 600 !important;
