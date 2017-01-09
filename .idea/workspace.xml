@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-homepage.php" afterPath="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+            <state relative-caret-position="208">
+              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="823">
               <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
@@ -77,8 +77,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/template-affiliate.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
       </list>
     </option>
   </component>
@@ -640,12 +640,12 @@
       <workItem from="1483570966032" duration="1067000" />
       <workItem from="1483592562777" duration="2837000" />
       <workItem from="1483723773717" duration="3719000" />
-      <workItem from="1483918808019" duration="2641000" />
+      <workItem from="1483918808019" duration="2788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83714000" />
+    <option name="totallyTimeSpent" value="83861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -1097,17 +1097,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
+        <state relative-caret-position="823">
           <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="true" />
@@ -1118,6 +1110,14 @@
             <element signature="n#style#0;n#h3#0;n#section#0;n#div#0;n#section#4;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

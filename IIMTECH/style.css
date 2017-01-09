@@ -69,13 +69,13 @@ body {
     text-align: center;
     height: auto;
     margin-bottom: 7px;
-    max-width: 74px;
+    max-width: 70px;
 }
 
 
 .section2 h3 {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 3px;
     font-weight: 500 !Important;
     line-height: 1.2;
@@ -86,7 +86,7 @@ span.bluestar {
     color: #2ca6bd;
     margin-right: 6px;
     margin-left: 6px;
-    font-size: 11px;
+    font-size: 9px;
 }
 
 
@@ -144,7 +144,7 @@ span.bluestar {
 
 .icons p{
 
-    font-size:  14px;
+    font-size:  10px;
 
 }
 
