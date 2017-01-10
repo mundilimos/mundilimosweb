@@ -1153,7 +1153,7 @@ p.fleetp {
 }
 
 
-span.personcount {
+div.personcount {
     color: #fff;
     border: solid 1px;
     padding: 10px;
@@ -1169,7 +1169,7 @@ span.personcount {
 }
 
 
-span.suitecase {
+div.suitecase {
     color: #fff;
     border: solid 1px;
     padding: 10px;
