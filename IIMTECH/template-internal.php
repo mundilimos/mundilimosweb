@@ -86,7 +86,7 @@ get_header();
 
         <!-- Tab panes -->
 
-        <ul class="slickNow" style="padding-bottom: 30px;">
+        <ul class="slickow" style="padding-bottom: 30px;">
 
 
 
