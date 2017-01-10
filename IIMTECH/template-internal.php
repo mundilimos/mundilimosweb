@@ -9,7 +9,7 @@
 get_header();
 
 ?>
-<li class="container">
+<div class="container">
 
 
     <div class="text-center">
@@ -81,7 +81,7 @@ get_header();
 
         <!-- Tab panes -->
 
-        <ul class="slickNow">
+        <ul class="tab-content" style="padding-bottom: 30px;">
 
 
 
@@ -107,7 +107,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="two">
+            <li class="tab-pane" id="two">
 
 
 
@@ -128,7 +128,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="three">
+            <li class="tab-pane" id="three">
 
 
                 <div class="col-md-6">
@@ -148,7 +148,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="four">
+            <li class="tab-pane" id="four">
 
 
                 <div class="col-md-6">
@@ -169,7 +169,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="five">
+            <li class="tab-pane" id="five">
 
 
                 <div class="col-md-6">
@@ -189,7 +189,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="six">
+            <li class="tab-pane" id="six">
 
 
 
@@ -210,7 +210,7 @@ get_header();
 
 
 
-            <li class="slicksections" id="seven">
+            <li class="tab-pane" id="seven">
 
 
                 <div class="col-md-6">
@@ -227,7 +227,7 @@ get_header();
             </li>
 
 
-            <li class="slicksections" id="eight">
+            <li class="tab-pane" id="eight">
 
 
                 <div class="col-md-6">
@@ -244,7 +244,7 @@ get_header();
             </li>
 
 
-            <li class="slicksections" id="nine">
+            <li class="tab-pane" id="nine">
 
 
                 <div class="col-md-6">
@@ -270,7 +270,7 @@ get_header();
 
 
 
-        </div></div>
+        </ul></div>
 
 
 
