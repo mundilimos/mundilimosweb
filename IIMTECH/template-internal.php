@@ -94,17 +94,21 @@ get_header();
 
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('paraa'); ?> </p>
+                    <span class="personcount"> <?php the_field('counta'); ?> <br>
+
+                    <span class="suitecase"> <?php the_field('counta2'); ?>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
-                    <p> <?php the_field('paraa'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i> <?php the_field('counta'); ?> <br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> <?php the_field('counta2'); ?>
-                </div>
-
+                
+                
+                
             </li>
 
 
@@ -116,17 +120,20 @@ get_header();
 
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titleb'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parab'); ?> </p>
+                    <span class="personcount"> <?php the_field('countb'); ?> </span>
+
+                    <span class="suitecase"> <?php the_field('countb2'); ?> </span>
+                </div>
+
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titleb'); ?> </h3>
-                    <p> <?php the_field('parab'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i> <?php the_field('countb'); ?><br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> <?php the_field('countb2'); ?>
-                </div>
-
+                
             </li>
 
 
@@ -136,18 +143,20 @@ get_header();
             <li  id="three">
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titlec'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parac'); ?> </p>
+                    <span class="personcount"> <?php the_field('countc'); ?> </span>
+
+                    <span class="suitecase"> <?php the_field('countc2'); ?> </span>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titlec'); ?> </h3>
-                    <p> <?php the_field('parac'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i> <?php the_field('countc'); ?><br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> <?php the_field('countc2'); ?>
-                </div>
-
-
+                
+                
             </li>
 
 
@@ -156,18 +165,18 @@ get_header();
             <li  id="four">
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titled'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parad'); ?> </p>
+                    <span class="personcount">  6 </span>
+                    <br>
+                    <span class="suitecase"> 6 </span>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titled'); ?> </h3>
-                    <p> <?php the_field('parad'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i>  6
-                    <br>
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> 6
-                </div>
-
-
 
             </li>
 
@@ -177,18 +186,20 @@ get_header();
             <li  id="five">
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titlee'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parae'); ?> </p>
+                    <span class="personcount">  12 </span>
+
+                    <span class="suitecase"> 4 </span>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titlee'); ?> </h3>
-                    <p> <?php the_field('parae'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i>  12 <br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> 4
-                </div>
-
-
+                
+                
             </li>
 
 
@@ -198,17 +209,19 @@ get_header();
 
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titlef'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('paraf'); ?> </p>
+                    <span class="personcount">  14 </span>
+
+                    <span class="suitecase">  14 </span>
+                </div>
+
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titlef'); ?> </h3>
-                    <p> <?php the_field('paraf'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i>  14<br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i>  14
-                </div>
-
 
             </li>
 
@@ -218,51 +231,58 @@ get_header();
             <li  id="seven">
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titleg'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parag'); ?> </p>
+                    <span class="personcount">  27</span>
+
+                    <span class="suitecase"> 37</span>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titleg'); ?> </h3>
-                    <p> <?php the_field('parag'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i>  27<br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> 37
-                </div>
-
+                
             </li>
 
 
             <li  id="eight">
 
 
-                <div class="col-md-6">
+                 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titleh'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parah'); ?> </p>
+                    <span class="personcount"> 40</span>
+
+                    <span class="suitecase"> 50</span>
+                </div>
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titleh'); ?> </h3>
-                    <p> <?php the_field('parah'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i> 40<br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> 50
-                </div>
-
+                
             </li>
 
 
             <li  id="nine">
 
+ 
+                <div class="col-md-12 fleetinner">
+                    <h3 class="fleeth3"><?php the_field('titlei'); ?> </h3>
+                    <p class="fleetp"> <?php the_field('parai'); ?> </p>
+                    <span class="personcount"> 55 </span>
 
-                <div class="col-md-6">
+                    <span class="suitecase"> 65 </span>
+                </div>
+
+
+
+                <div class="col-md-12 fleetinner">
                     <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>" />
                 </div>
-                <div class="col-md-6">
-                    <h3 class="fleeth3"><?php the_field('titlei'); ?> </h3>
-                    <p> <?php the_field('parai'); ?> </p>
-                    <i class="fa fa-male" aria-hidden="true"></i> 55<br>
-
-                    <i class="fa fa-suitcase" aria-hidden="true"></i> 65
-                </div>
-
+                
             </li>
 
 
