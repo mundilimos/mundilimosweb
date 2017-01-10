@@ -98,9 +98,9 @@ get_header();
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraa'); ?> </p>
-                    <span class="personcount"> <?php the_field('counta'); ?> <br>
+                    <span class="personcount"> <?php the_field('counta'); ?> </span>
 
-                    <span class="suitecase"> <?php the_field('counta2'); ?>
+                    <span class="suitecase"> <?php the_field('counta2'); ?> </span>
                 </div>
 
                 <div class="col-md-12 fleetinner">
