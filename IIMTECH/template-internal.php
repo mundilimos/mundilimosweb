@@ -29,8 +29,10 @@ get_header();
     </div>
 
 
+    <!--
 
-    <ul class="nav nav-tabs"><!-- 'tabs-right' for right tabs -->
+    <ul class="nav nav-tabs">
+
 
         <li class="active"><a href="#one" data-toggle="tab" aria-expanded="false">SEDAN
 
@@ -75,17 +77,20 @@ get_header();
     </ul>
 
 
+    -->
+
+
 
 
     <div class="backgroundone">
 
         <!-- Tab panes -->
 
-        <ul class="slickNow tab-content" style="padding-bottom: 30px;">
+        <ul class="slickNow" style="padding-bottom: 30px;">
 
 
 
-            <li class="tab-pane active" id="one">
+            <li  id="one">
 
 
 
@@ -107,7 +112,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="two">
+            <li  id="two">
 
 
 
@@ -128,7 +133,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="three">
+            <li  id="three">
 
 
                 <div class="col-md-6">
@@ -148,7 +153,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="four">
+            <li  id="four">
 
 
                 <div class="col-md-6">
@@ -169,7 +174,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="five">
+            <li  id="five">
 
 
                 <div class="col-md-6">
@@ -189,7 +194,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="six">
+            <li  id="six">
 
 
 
@@ -210,7 +215,7 @@ get_header();
 
 
 
-            <li class="tab-pane" id="seven">
+            <li  id="seven">
 
 
                 <div class="col-md-6">
@@ -227,7 +232,7 @@ get_header();
             </li>
 
 
-            <li class="tab-pane" id="eight">
+            <li  id="eight">
 
 
                 <div class="col-md-6">
@@ -244,7 +249,7 @@ get_header();
             </li>
 
 
-            <li class="tab-pane" id="nine">
+            <li  id="nine">
 
 
                 <div class="col-md-6">
