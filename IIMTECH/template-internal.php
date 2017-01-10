@@ -9,7 +9,7 @@
 get_header();
 
 ?>
-<div class="container">
+<li class="container">
 
 
     <div class="text-center">
@@ -81,11 +81,11 @@ get_header();
 
         <!-- Tab panes -->
 
-        <div class="tab-content" style="padding-bottom: 30px;">
+        <ul class="slickNow">
 
 
 
-            <div class="tab-pane active" id="one">
+            <li class="tab-pane active" id="one">
 
 
 
@@ -100,14 +100,14 @@ get_header();
                     <i class="fa fa-suitcase" aria-hidden="true"></i> <?php the_field('counta2'); ?>
                 </div>
 
-            </div>
+            </li>
 
 
 
 
 
 
-            <div class="tab-pane" id="two">
+            <li class="slicksections" id="two">
 
 
 
@@ -122,13 +122,13 @@ get_header();
                     <i class="fa fa-suitcase" aria-hidden="true"></i> <?php the_field('countb2'); ?>
                 </div>
 
-            </div>
+            </li>
 
 
 
 
 
-            <div class="tab-pane" id="three">
+            <li class="slicksections" id="three">
 
 
                 <div class="col-md-6">
@@ -143,12 +143,12 @@ get_header();
                 </div>
 
 
-            </div>
+            </li>
 
 
 
 
-            <div class="tab-pane" id="four">
+            <li class="slicksections" id="four">
 
 
                 <div class="col-md-6">
@@ -164,12 +164,12 @@ get_header();
 
 
 
-            </div>
+            </li>
 
 
 
 
-            <div class="tab-pane" id="five">
+            <li class="slicksections" id="five">
 
 
                 <div class="col-md-6">
@@ -184,12 +184,12 @@ get_header();
                 </div>
 
 
-            </div>
+            </li>
 
 
 
 
-            <div class="tab-pane" id="six">
+            <li class="slicksections" id="six">
 
 
 
@@ -205,12 +205,12 @@ get_header();
                 </div>
 
 
-            </div>
+            </li>
 
 
 
 
-            <div class="tab-pane" id="seven">
+            <li class="slicksections" id="seven">
 
 
                 <div class="col-md-6">
@@ -224,10 +224,10 @@ get_header();
                     <i class="fa fa-suitcase" aria-hidden="true"></i> 37
                 </div>
 
-            </div>
+            </li>
 
 
-            <div class="tab-pane" id="eight">
+            <li class="slicksections" id="eight">
 
 
                 <div class="col-md-6">
@@ -241,10 +241,10 @@ get_header();
                     <i class="fa fa-suitcase" aria-hidden="true"></i> 50
                 </div>
 
-            </div>
+            </li>
 
 
-            <div class="tab-pane" id="nine">
+            <li class="slicksections" id="nine">
 
 
                 <div class="col-md-6">
@@ -258,7 +258,7 @@ get_header();
                     <i class="fa fa-suitcase" aria-hidden="true"></i> 65
                 </div>
 
-            </div>
+            </li>
 
 
 

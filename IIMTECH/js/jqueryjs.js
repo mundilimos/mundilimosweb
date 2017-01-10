@@ -72,4 +72,16 @@ jQuery(document).ready(function($) {
 
 	}).call(this);
 
+
+
+
+	$('.slickNow').slick({
+		nextArrow: '<i class="fa fa-arrow-right"></i>',
+		prevArrow: '<i class="fa fa-arrow-left"></i>',
+// add the rest of your options here
+	});
+
+
 });
+
+
