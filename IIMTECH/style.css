@@ -1143,43 +1143,4 @@ p.fleetp {
 .backgroundone {
     background-color: black;
 }
-
-.backgroundone img {
-    display: block;
-    width: 100%;
-    margin: auto;
-    height: auto;
-    max-width: 400px;
-}
-
-
-span.personcount {
-    color: #fff;
-    border: solid 1px;
-    padding: 10px;
-    border-radius: 30%;
-    display: block;
-    height: 50px;
-    width: 50px;
-    text-align: center;
-    font-weight: 200;
-    padding-top: 4px;
-    margin: 13px auto;
-    font-size: 2em;
-}
-
-
-span.suitecase {
-    color: #fff;
-    border: solid 1px;
-    padding: 10px;
-    border-radius: 30%;
-    display: block;
-    height: 50px;
-    width: 50px;
-    text-align: center;
-    font-weight: 200;
-    padding-top: 4px;
-    margin: 13px auto;
-    font-size: 2em;
-}
+ 
