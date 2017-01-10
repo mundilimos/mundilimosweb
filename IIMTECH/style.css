@@ -1118,29 +1118,4 @@ div.wpcf7-mail-sent-ok {
     border-color: #00fb3e;
 }
 
-
-/* fleet */
-
-
-h3.fleeth3 {
-    text-align: center;
-    color: white;
-    font-weight: 400;
-    letter-spacing: 3px;
-}
-
-
-p.fleetp {
-    text-align: center;
-    font-size: 12px;
-    width: 100%;
-    max-width: 700px;
-    margin: auto;
-    letter-spacing: 2px;
-    color: #fff;
-}
-
-.backgroundone {
-    background-color: black;
-}
  
