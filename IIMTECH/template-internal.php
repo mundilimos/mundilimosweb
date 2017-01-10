@@ -29,56 +29,7 @@ get_header();
     </div>
 
 
-    <!--
-
-    <ul class="nav nav-tabs">
-
-
-        <li class="active"><a href="#one" data-toggle="tab" aria-expanded="false">SEDAN
-
-            </a></li>
-
-        <li class=""><a href="#two" data-toggle="tab" aria-expanded="false">PREMIUM
-
-            </a></li>
-
-        <li class=""><a href="#three" data-toggle="tab" aria-expanded="true">MERCEDES S550
-
-            </a></li>
-
-        <li class=""><a href="#four" data-toggle="tab" aria-expanded="false">SUV
-
-            </a></li>
-
-        <li class=""><a href="#five" data-toggle="tab" aria-expanded="false">STRETCH LIMO
-
-            </a></li>
-
-        <li class=""><a href="#six" data-toggle="tab" aria-expanded="false"> SPRINTER VAN
-
-            </a></li>
-
-
-        <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINI BUS
-
-            </a></li>
-
-        <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINI COACH
-
-            </a></li>
-
-
-        <li class=""><a href="#nine" data-toggle="tab" aria-expanded="false">MOTOR COACH
-
-            </a></li>
-
-
-
-    </ul>
-
-
-    -->
-
+    </div>
 
 
 
@@ -301,9 +252,7 @@ get_header();
 
 
 
-</div>
 
 
-    </div>
 
 <?php get_footer(); ?>
