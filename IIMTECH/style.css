@@ -753,6 +753,16 @@ a.boxh3a {
 @media only screen and (max-width: 768px)  {
 
 
+    .col-md-6.leftchecks.checksblue.text-right {
+        text-align: center;
+        padding-bottom: 34px;
+    }
+
+    .col-md-6.rightchecks.checksblue {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
     #bigbg{
 
         display: none;
