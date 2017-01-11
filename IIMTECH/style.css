@@ -752,6 +752,10 @@ a.boxh3a {
 
 @media only screen and (max-width: 768px)  {
 
+    .slick-slide img {
+        margin-top: 10%;
+    }
+
 
     #bigbg{
 
@@ -1168,9 +1172,6 @@ i.fa.fa-play.goright.slick-arrow {
     z-index: 999999999;
 }
 
-.slick-slide img {
-     margin-top: 4%;
-}
 
 
 .backgroundone {
