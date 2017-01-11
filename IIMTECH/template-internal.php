@@ -49,9 +49,9 @@ get_header();
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraa'); ?> </p>
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6"> <?php the_field('counta'); ?> </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('counta'); ?> </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> <?php the_field('counta2'); ?> </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('counta2'); ?> </span>
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
@@ -63,9 +63,9 @@ get_header();
 
 
                 </div>
-                
-                
-                
+
+
+
             </li>
 
 
@@ -77,7 +77,7 @@ get_header();
 
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titleb'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parab'); ?> </p>
@@ -87,9 +87,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6"> <?php the_field('countb'); ?> </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countb'); ?> </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> <?php the_field('countb2'); ?> </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countb2'); ?> </span>
 
 </div>
 
@@ -102,7 +102,7 @@ get_header();
 
                     <br /><br /><br />
                 </div>
-                
+
             </li>
 
 
@@ -112,7 +112,7 @@ get_header();
             <li  id="three">
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlec'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parac'); ?> </p>
@@ -121,9 +121,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6"> <?php the_field('countc'); ?> </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countc'); ?> </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> <?php the_field('countc2'); ?> </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countc2'); ?> </span>
 
 </div>
 
@@ -134,8 +134,8 @@ get_header();
 
                     <br /><br /><br />
                 </div>
-                
-                
+
+
             </li>
 
 
@@ -144,18 +144,20 @@ get_header();
             <li  id="four">
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titled'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parad'); ?> </p>
 
 
-                    <div class="passengerwrap">
+                    <di>
+
+lass="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6">  6 </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  6 </span>
                     <br>
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> 6 </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 6 </span>
 
                         </div>
 
@@ -176,7 +178,7 @@ get_header();
             <li  id="five">
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlee'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parae'); ?> </p>
@@ -185,9 +187,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6">  12 </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  12 </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> 4 </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 4 </span>
 
                         </div>
 
@@ -200,8 +202,8 @@ get_header();
 
 
                 </div>
-                
-                
+
+
             </li>
 
 
@@ -211,7 +213,7 @@ get_header();
 
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlef'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraf'); ?> </p>
@@ -221,9 +223,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6">  14 </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  14 </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6">  14 </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee">  14 </span>
 </div>
 
 
@@ -245,16 +247,16 @@ get_header();
             <li  id="seven">
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titleg'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parag'); ?> </p>
 
                     <div class="passengerwrap">
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6">  27</div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  27</span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> 37</div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 37</span>
                         </div>
 
 
@@ -265,26 +267,26 @@ get_header();
                     <br /><br /><br />
 
                 </div>
-                
+
             </li>
 
 
             <li  id="eight">
 
 
-                 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titleh'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parah'); ?> </p>
-                    
-                    
-                    <div class="passengerwrap">
-                        
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6"> 40</div>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> 50</div>
+
+                    <div class="passengerwrap">
+
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 40</span>
+
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 50</span>
                 </div>
-                    
+
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
@@ -293,13 +295,13 @@ get_header();
                     <br /><br /><br />
 
                 </div>
-                
+
             </li>
 
 
             <li  id="nine">
 
- 
+
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlei'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parai'); ?> </p>
@@ -308,9 +310,9 @@ get_header();
 
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <div class="personcount col-md-6"> 55 </div>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 55 </span>
 
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <div class="suitecase col-md-6"> 65 </div>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 65 </span>
 
                         </div>
                 </div>

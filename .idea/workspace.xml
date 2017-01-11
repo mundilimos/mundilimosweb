@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-internal.php" afterPath="$PROJECT_DIR$/IIMTECH/template-internal.php" />
     </list>
     <ignored path="mundimain.iws" />
@@ -47,8 +46,8 @@
       <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+            <state relative-caret-position="108">
+              <caret line="314" column="76" selection-start-line="314" selection-start-column="76" selection-end-line="314" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -648,12 +647,12 @@
       <workItem from="1483592562777" duration="2837000" />
       <workItem from="1483723773717" duration="3719000" />
       <workItem from="1483918808019" duration="7514000" />
-      <workItem from="1484100310093" duration="2387000" />
+      <workItem from="1484100310093" duration="2889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90974000" />
+    <option name="totallyTimeSpent" value="91476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="768" extended-state="0" />
@@ -1089,8 +1088,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+        <state relative-caret-position="108">
+          <caret line="314" column="76" selection-start-line="314" selection-start-column="76" selection-end-line="314" selection-end-column="76" />
           <folding />
         </state>
       </provider>
