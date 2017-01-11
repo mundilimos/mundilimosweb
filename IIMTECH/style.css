@@ -1153,15 +1153,6 @@ p.fleetp {
 }
 
 
-.imagebg{
-
-
-    background-image: url(/wp-content/themes/IIMTECH/images/gradient.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-origin: content-box;
-
-}
 
 div.personcount {
     color: #fff;
