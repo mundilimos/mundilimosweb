@@ -9,30 +9,6 @@
 get_header();
 
 ?>
-<div class="container">
-
-
-    <div class="text-center">
-
-
-        <h3>THE PERFECT SEAT FOR ANY JOURNEY
-
-        </h3>
-
-        <br><br>
-        <p>
-            Held to the highest standards of safety, maintenance, and presentation, our extensive fleet features only the market’s latest model luxury vehicles, allowing us to offer the right selection to suit the specifics needs of our clients. You can choose from a variety of top class sedans, SUV’s, stretch limousines, vans and coaches. All vehicles are black on black colored, with full leather interiors and tinted windows to ensure comfort and privacy. While being transferred by one of our professional chauffeurs, you’re empowered to relax, enjoy the finest on-the-go amenities and take full advantage of the industry’s most advanced technologies that provides non-stop productivity for private and corporate travelers. Whether your transportation requirements are for airport transfer, corporate events or entertainment, Mundi Limousine delivers the perfect seat for any journey.
-        </p>
-        <br>
-        <br>
-
-    </div>
-
-
-    </div>
-
-
-
     <div class="backgroundone">
 
         <!-- Tab panes -->

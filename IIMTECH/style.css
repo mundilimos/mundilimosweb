@@ -1282,3 +1282,16 @@ span.uppercase {
 }
 
 
+
+
+.slick-slider {
+    background-size: 211px !important;
+    background-repeat-y: no-repeat !important;
+    background-position-y: 343px !important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2ca6bd+17,2ca6bd+17,2ca6bd+20,2ca6bd+20,2ca6bd+36,000000+100,000000+100,7db9e8+100,000000+100 */
+    background: #2ca6bd; /* Old browsers */
+    background: -moz-linear-gradient(top,  #2ca6bd 17%, #2ca6bd 17%, #2ca6bd 20%, #2ca6bd 20%, #2ca6bd 36%, #000000 100%, #000000 100%, #7db9e8 100%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #2ca6bd 17%,#2ca6bd 17%,#2ca6bd 20%,#2ca6bd 20%,#2ca6bd 36%,#000000 100%,#000000 100%,#7db9e8 100%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #2ca6bd 17%,#2ca6bd 17%,#2ca6bd 20%,#2ca6bd 20%,#2ca6bd 36%,#000000 100%,#000000 100%,#7db9e8 100%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2ca6bd', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
