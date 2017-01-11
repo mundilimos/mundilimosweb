@@ -54,8 +54,14 @@ get_header();
                     <div class="suitecase"> <?php the_field('counta2'); ?> </div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+
+
+
+                <br /><br /><br />
+
+
                 </div>
                 
                 
@@ -81,8 +87,11 @@ get_header();
                 </div>
 
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>" />
+
+
+                    <br /><br /><br />
                 </div>
                 
             </li>
@@ -103,8 +112,10 @@ get_header();
                     <div class="suitecase"> <?php the_field('countc2'); ?> </div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>" />
+
+                    <br /><br /><br />
                 </div>
                 
                 
@@ -125,8 +136,11 @@ get_header();
                     <div class="suitecase"> 6 </div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>" />
+
+
+                    <br /><br /><br />
                 </div>
 
             </li>
@@ -146,8 +160,12 @@ get_header();
                     <div class="suitecase"> 4 </div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
+
+                    <br /><br /><br />
+
+
                 </div>
                 
                 
@@ -167,11 +185,17 @@ get_header();
                     <div class="personcount">  14 </div>
 
                     <div class="suitecase">  14 </div>
+
+
+
                 </div>
 
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>" />
+
+                    <br /><br /><br />
+
                 </div>
 
             </li>
@@ -191,8 +215,10 @@ get_header();
                     <div class="suitecase"> 37</div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>" />
+                    <br /><br /><br />
+
                 </div>
                 
             </li>
@@ -210,8 +236,11 @@ get_header();
                     <div class="suitecase"> 50</div>
                 </div>
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>" />
+
+                    <br /><br /><br />
+
                 </div>
                 
             </li>
@@ -230,8 +259,11 @@ get_header();
 
 
 
-                <div class="col-md-12 fleetinner">
+                <div class="col-md-12 fleetinner imagebg">
                     <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>" />
+
+                    <br /><br /><br />
+
                 </div>
                 
             </li>
