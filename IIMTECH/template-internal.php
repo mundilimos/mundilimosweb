@@ -49,13 +49,22 @@ get_header();
                 <div class="col-md-12 fleetinner">
                     <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraa'); ?> </p>
+
+
+                    <div class="passengerwrap">
+
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('counta'); ?> </span>
                     <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('counta2'); ?> </span>
+
+              </div>
+
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+                    
+                    
+                    <br> <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
 
 
 
@@ -97,7 +106,7 @@ get_header();
 
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>" />
+                    <br> <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>" />
 
 
                     <br /><br /><br />
@@ -130,7 +139,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>" />
+                    <br> <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>" />
 
                     <br /><br /><br />
                 </div>
@@ -162,7 +171,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>" />
+                    <br> <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>" />
 
 
                     <br /><br /><br />
@@ -194,7 +203,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
+                    <br> <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
 
                     <br /><br /><br />
 
@@ -231,7 +240,7 @@ get_header();
 
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>" />
+                    <br> <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>" />
 
                     <br /><br /><br />
 
@@ -261,7 +270,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>" />
+                    <br> <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>" />
                     <br /><br /><br />
 
                 </div>
@@ -288,7 +297,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>" />
+                    <br> <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>" />
 
                     <br /><br /><br />
 
@@ -318,7 +327,7 @@ get_header();
 
 
                 <div class="col-md-12 fleetinner imagebg">
-                    <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>" />
+                    <br> <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>" />
 
                     <br /><br /><br />
 
