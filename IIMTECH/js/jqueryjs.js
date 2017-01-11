@@ -76,8 +76,8 @@ jQuery(document).ready(function($) {
 
 
 	$('.slickow').slick({
-		nextArrow: '<i class="fa fa-arrow-right"></i>',
-		prevArrow: '<i class="fa fa-arrow-left"></i>',
+		nextArrow: '<i class="fa fa-play goright"></i>',
+		prevArrow: '<i class="fa fa-play goleft"></i>',
 // add the rest of your options here
 	});
 
