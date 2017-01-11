@@ -763,6 +763,16 @@ body.page-template-template-internal {
         margin-top: 10%;
     }
 
+    .col-md-6.leftchecks.checksblue.text-right {
+        text-align: center;
+    }
+
+    .col-md-6.rightchecks.checksblue {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+
 .goright, .goleft{
 
 display: none;
