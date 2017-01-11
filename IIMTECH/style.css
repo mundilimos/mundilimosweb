@@ -1145,6 +1145,31 @@ p.fleetp {
 }
 
 
+
+
+
+i.fa.fa-play.goleft.slick-arrow {
+    transform: rotate(180deg);
+    position: absolute;
+    left: 16%;
+    font-size: 2em;
+    top: 40%;
+    z-index: 999999999;
+}
+
+
+
+
+i.fa.fa-play.goright.slick-arrow {
+    transform: rotate(180deg);
+    position: absolute;
+    left: 16%;
+    font-size: 2em;
+    top: 40%;
+    z-index: 999999999;
+}
+
+
 .backgroundone {
     background-color: black;
 }
