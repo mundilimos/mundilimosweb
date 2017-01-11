@@ -756,6 +756,14 @@ a.boxh3a {
         margin-top: 10%;
     }
 
+.goright, .goleft{
+
+display: none;
+    
+
+}
+
+
 
     #bigbg{
 
