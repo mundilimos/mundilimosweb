@@ -50,7 +50,7 @@ get_header();
                     <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraa'); ?> </p>
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('counta'); ?> </span>
-
+                    <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('counta2'); ?> </span>
                 </div>
 
@@ -88,7 +88,7 @@ get_header();
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countb'); ?> </span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countb2'); ?> </span>
 
 </div>
@@ -122,7 +122,7 @@ get_header();
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countc'); ?> </span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countc2'); ?> </span>
 
 </div>
@@ -154,7 +154,7 @@ get_header();
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  6 </span>
-                    <br>
+                        <br class="visible-xs"> <br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 6 </span>
 
                         </div>
@@ -186,7 +186,7 @@ get_header();
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  12 </span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 4 </span>
 
                         </div>
@@ -222,7 +222,7 @@ get_header();
                     <div class="passengerwrap">
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  14 </span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee">  14 </span>
 </div>
 
@@ -253,7 +253,7 @@ get_header();
                     <div class="passengerwrap">
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  27</span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 37</span>
                         </div>
 
@@ -281,7 +281,7 @@ get_header();
                     <div class="passengerwrap">
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 40</span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 50</span>
                 </div>
 
@@ -309,7 +309,7 @@ get_header();
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 55 </span>
-
+                        <br class="visible-xs"><br class="visible-xs">
                     <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 65 </span>
 
                         </div>
