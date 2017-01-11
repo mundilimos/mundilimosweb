@@ -150,9 +150,7 @@ get_header();
                     <p class="fleetp"> <?php the_field('parad'); ?> </p>
 
 
-                    <di>
-
-lass="passengerwrap">
+                    <div class="passengerwrap">
 
 
                     <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  6 </span>
