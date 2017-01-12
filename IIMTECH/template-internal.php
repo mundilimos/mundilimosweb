@@ -197,7 +197,7 @@ get_header();
 
 
 
-            <div   class="tab-pane active" id="five">
+            <div   class="tab-pane" id="five">
                 <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3">CADILLAC ESCALADE </h3>
                     <p class="fleetp">
@@ -226,7 +226,7 @@ get_header();
 
 
 
-            <div   class="tab-pane active" id="six">
+            <div   class="tab-pane" id="six">
                 <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3">ROLLS-ROYCE GHOST</h3>
                     <p class="fleetp">
