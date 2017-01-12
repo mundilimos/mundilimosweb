@@ -26,7 +26,7 @@ get_header();
         <br>
 
 
-        <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINI BUS </a></li>
+        <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINIBUS </a></li>
         <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINI COACH </a></li>
         <li class=""><a href="#nine" data-toggle="tab" aria-expanded="false">MOTOR COACH </a></li>
         <li class=""><a href="#ten" data-toggle="tab" aria-expanded="false">PARTY BUS </a></li>

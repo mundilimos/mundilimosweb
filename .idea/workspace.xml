@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/template-internal.php" afterPath="$PROJECT_DIR$/IIMTECH/template-internal.php" />
     </list>
     <ignored path="mundimain.iws" />
@@ -47,12 +46,12 @@
       <file leaf-file-name="template-internal.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="357" column="59" selection-start-line="357" selection-start-column="59" selection-end-line="357" selection-end-column="59" />
+            <state relative-caret-position="300">
+              <caret line="32" column="89" selection-start-line="32" selection-start-column="89" selection-end-line="32" selection-end-column="89" />
               <folding>
                 <element signature="e#780#800#0#HTML" expanded="true" />
-                <element signature="e#1440#1459#0#HTML" expanded="true" />
-                <element signature="e#1567#1596#0#HTML" expanded="true" />
+                <element signature="e#1439#1458#0#HTML" expanded="true" />
+                <element signature="e#1566#1595#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -666,12 +665,12 @@
       <workItem from="1483918808019" duration="7514000" />
       <workItem from="1484100310093" duration="5250000" />
       <workItem from="1484112451088" duration="2634000" />
-      <workItem from="1484179747086" duration="4384000" />
+      <workItem from="1484179747086" duration="4624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100855000" />
+    <option name="totallyTimeSpent" value="101095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1360" y="-104" width="1360" height="768" extended-state="0" />
@@ -1104,12 +1103,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="357" column="59" selection-start-line="357" selection-start-column="59" selection-end-line="357" selection-end-column="59" />
+        <state relative-caret-position="300">
+          <caret line="32" column="89" selection-start-line="32" selection-start-column="89" selection-end-line="32" selection-end-column="89" />
           <folding>
             <element signature="e#780#800#0#HTML" expanded="true" />
-            <element signature="e#1440#1459#0#HTML" expanded="true" />
-            <element signature="e#1567#1596#0#HTML" expanded="true" />
+            <element signature="e#1439#1458#0#HTML" expanded="true" />
+            <element signature="e#1566#1595#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
