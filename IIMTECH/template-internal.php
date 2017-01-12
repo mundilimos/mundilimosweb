@@ -21,9 +21,18 @@ get_header();
         <li class=""><a href="#four" data-toggle="tab" aria-expanded="false">SUV </a></li>
         <li class=""><a href="#five" data-toggle="tab" aria-expanded="false">STRETCH LIMO </a></li>
         <li class=""><a href="#six" data-toggle="tab" aria-expanded="false"> SPRINTER VAN </a></li>
+
+        <div style="clear: both;"></div>
+        <br>
+
+
         <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINI BUS </a></li>
         <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINI COACH </a></li>
         <li class=""><a href="#nine" data-toggle="tab" aria-expanded="false">MOTOR COACH </a></li>
+        <li class=""><a href="#ten" data-toggle="tab" aria-expanded="false">PARTY BUS </a></li>
+        <li class=""><a href="#eleven" data-toggle="tab" aria-expanded="false">ROLLS-ROYCE GHOST </a></li>
+        <li class=""><a href="#twelve" data-toggle="tab" aria-expanded="false">CADILLAC ESCALADE</a></li>
+
     </ul>
 
 
@@ -336,6 +345,69 @@ get_header();
 
                 </div>
                 
+            </div>
+
+
+
+
+            <div   class="tab-pane active" id="ten">
+                <div class="col-md-12 fleetinner ">
+                    <h3 class="fleeth3"> PARTY BUS </h3>
+                    <p class="fleetp">
+                        deal for celebrations, this amazing selection comes equipped with built-in bars, fiber optic lighting throughout, comfortable seating, a large 60” wide-screen LED TV with DVD/MP3/CD player, and an impeccable audio system.
+                    </p>
+                    <div class="passengerwrap">
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 30 </span>
+                        <br class="visible-xs"><br class="visible-xs">
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 30 </span>
+                    </div>
+                </div>
+                <div class="col-md-12 fleetinner  imagebg">
+                    <br> <img src="/wp-content/themes/IIMTECH/images/17.png" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+                    <br /><br /><br />
+                </div>
+            </div>
+
+
+
+            <div   class="tab-pane active" id="eleven">
+                <div class="col-md-12 fleetinner ">
+                    <h3 class="fleeth3">ROLLS-ROYCE GHOST</h3>
+                    <p class="fleetp">
+
+                        The definition of automotive design and technological perfection. This upermost selection is a timeless interpretation of the modern luxury car. With powerful and iconic proportions and state-of-the-art technology, it provides the ultimate transfer experience.
+                    </p>
+                    <div class="passengerwrap">
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 8 </span>
+                        <br class="visible-xs"><br class="visible-xs">
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 8 </span>
+                    </div>
+                </div>
+                <div class="col-md-12 fleetinner  imagebg">
+                    <br> <img src="/wp-content/themes/IIMTECH/images/16.png" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+                    <br /><br /><br />
+                </div>
+            </div>
+
+
+
+            <div   class="tab-pane active" id="twelve">
+                <div class="col-md-12 fleetinner ">
+                    <h3 class="fleeth3">CADILLAC ESCALADE </h3>
+                    <p class="fleetp">
+
+                        The epitome of the chauffeured transportation industry. Our fleet of late-model, jet-black Escalades are dressed in three rows of hand-crafted Italian black leather, with both heated and cooled seats, large accommodating doors, and ample room for our clients.
+                    </p>
+                    <div class="passengerwrap">
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 4 </span>
+                        <br class="visible-xs"><br class="visible-xs">
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 4 </span>
+                    </div>
+                </div>
+                <div class="col-md-12 fleetinner  imagebg">
+                    <br> <img src="/wp-content/themes/IIMTECH/images/17.png" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+                    <br /><br /><br />
+                </div>
             </div>
 
 
