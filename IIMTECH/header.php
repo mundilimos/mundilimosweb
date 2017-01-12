@@ -185,7 +185,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<!-- Nav goes here -->
 
-<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php")   || is_page_template("template-bigbig.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
+<div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php")   || is_page_template("template-bigbig.php") || is_page_template("template-internal.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
 		<div class="container">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -242,7 +242,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<?php } ?>
 
-		<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php")  ){ ?>
+		<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php") || is_page_template("template-internal.php") || is_page_template("template-bigbig.php")  ){ ?>
 
 
 			<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
