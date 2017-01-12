@@ -1323,6 +1323,17 @@ div.slick-slider {
 }
 
 
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+     color: white;
+    font-weight: 200 !important;
+    letter-spacing: 2px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     color: #1ba1bd !important;
     cursor: pointer !important;

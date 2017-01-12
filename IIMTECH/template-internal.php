@@ -44,7 +44,7 @@ get_header();
 
 
 
-            <div   class="tab-pane" id="one">
+            <div   class="tab-pane active" id="one">
 
 
 
