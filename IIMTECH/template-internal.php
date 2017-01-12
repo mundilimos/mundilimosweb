@@ -40,7 +40,7 @@ get_header();
 
         <!-- Tab panes -->
 
-        <div class="tab-content slick-slider" style="padding-bottom: 30px;">
+        <div class="tab-content" style="padding-bottom: 30px;">
 
 
 

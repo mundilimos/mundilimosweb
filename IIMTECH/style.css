@@ -1295,3 +1295,40 @@ div.slick-slider {
     background: linear-gradient(to bottom,  #2ca6bd 17%,#2ca6bd 17%,#2ca6bd 20%,#2ca6bd 20%,#2ca6bd 36%,#000000 100%,#000000 100%,#7db9e8 100%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2ca6bd', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
 }
+
+
+.col-md-12.fleetinner.imagebg {
+    background-image: url(/wp-content/themes/IIMTECH/images/gradient.jpg);
+    background-size: 602px;
+    background-repeat-y: no-repeat !important;
+    background-position-y: 151px;
+}
+
+
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: none !important;
+    border-radius: initial;
+}
+
+.nav-tabs {
+    border-bottom: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+}
+
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #1ba1bd !important;
+    cursor: pointer !important;
+    background-color: transparent !important;
+    border: none !important;
+    border-bottom-color: none !important;
+    text-align: center;
+    display: inline-block;
+}
