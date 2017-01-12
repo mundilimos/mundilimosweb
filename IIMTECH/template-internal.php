@@ -15,9 +15,9 @@ get_header();
 
     <ul class="nav nav-tabs">
         <!-- 'tabs-right' for right tabs -->
-        <li class="active"><a href="#one" data-toggle="tab" aria-expanded="false">SEDAN </a></li>
-        <li class=""><a href="#two" data-toggle="tab" aria-expanded="false">PREMIUM </a></li>
-        <li class=""><a href="#three" data-toggle="tab" aria-expanded="true">MERCEDES S550 </a></li>
+        <li class="active"><a href="#one" data-toggle="tab" aria-expanded="false">LUXURY SEDAN </a></li>
+        <li class=""><a href="#two" data-toggle="tab" aria-expanded="false">PREMIUM SEDAN </a></li>
+        <li class=""><a href="#three" data-toggle="tab" aria-expanded="true">MERCEDES - BENZ S550 </a></li>
         <li class=""><a href="#four" data-toggle="tab" aria-expanded="false">SUV </a></li>
         <li class=""><a href="#five" data-toggle="tab" aria-expanded="false">STRETCH LIMO </a></li>
         <li class=""><a href="#six" data-toggle="tab" aria-expanded="false"> SPRINTER VAN </a></li>
@@ -405,7 +405,7 @@ get_header();
                     </div>
                 </div>
                 <div class="col-md-12 fleetinner  imagebg">
-                    <br> <img src="/wp-content/themes/IIMTECH/images/17.png" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
+                    <br> <img src="/wp-content/themes/IIMTECH/images/22.png" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
                     <br /><br /><br />
                 </div>
             </div>
