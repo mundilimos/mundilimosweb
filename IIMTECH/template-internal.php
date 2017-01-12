@@ -9,20 +9,47 @@
 get_header();
 
 ?>
+
+
+
+
+    <ul class="nav nav-tabs">
+        <!-- 'tabs-right' for right tabs -->
+        <li class="active"><a href="#one" data-toggle="tab" aria-expanded="false">SEDAN </a></li>
+        <li class=""><a href="#two" data-toggle="tab" aria-expanded="false">PREMIUM </a></li>
+        <li class=""><a href="#three" data-toggle="tab" aria-expanded="true">MERCEDES S550 </a></li>
+        <li class=""><a href="#four" data-toggle="tab" aria-expanded="false">SUV </a></li>
+        <li class=""><a href="#five" data-toggle="tab" aria-expanded="false">STRETCH LIMO </a></li>
+        <li class=""><a href="#six" data-toggle="tab" aria-expanded="false"> SPRINTER VAN </a></li>
+        <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINI BUS </a></li>
+        <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINI COACH </a></li>
+        <li class=""><a href="#nine" data-toggle="tab" aria-expanded="false">MOTOR COACH </a></li>
+    </ul>
+
+
+
+
+<div style="clear:both;"></div>
+
+
+
+
+
+
     <div class="backgroundone">
 
         <!-- Tab panes -->
 
-        <ul class="slickow" style="padding-bottom: 30px;">
+        <div class="tab-content" style="padding-bottom: 30px;">
 
 
 
-            <li  id="one">
+            <div   class="tab-pane" id="one">
 
 
 
                  
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titlea'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraa'); ?> </p>
 
@@ -37,7 +64,7 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     
                     
                     <br> <img src="<?php the_field('imga'); ?>" class="fleetimg" alt="<?php the_field('titlea'); ?>" />
@@ -51,19 +78,19 @@ get_header();
 
 
 
-            </li>
+            </div>
 
 
 
 
 
 
-            <li  id="two">
+            <div   class="tab-pane" id="two">
 
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titleb'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parab'); ?> </p>
 
@@ -81,24 +108,24 @@ get_header();
                 </div>
 
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgb'); ?>" class="fleetimg" alt="<?php the_field('titleb'); ?>" />
 
 
                     <br /><br /><br />
                 </div>
 
-            </li>
+            </div>
 
 
 
 
 
-            <li  id="three">
+            <div   class="tab-pane" id="three">
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titlec'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parac'); ?> </p>
 
@@ -114,23 +141,23 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgc'); ?>" class="fleetimg" alt="<?php the_field('titlec'); ?>" />
 
                     <br /><br /><br />
                 </div>
 
 
-            </li>
+            </div>
 
 
 
 
-            <li  id="four">
+            <div   class="tab-pane" id="four">
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titled'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parad'); ?> </p>
 
@@ -146,23 +173,23 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgd'); ?>" class="fleetimg" alt="<?php the_field('titled'); ?>" />
 
 
                     <br /><br /><br />
                 </div>
 
-            </li>
+            </div>
 
 
 
 
-            <li  id="five">
+            <div   class="tab-pane" id="five">
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titlee'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parae'); ?> </p>
 
@@ -178,7 +205,7 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
 
                     <br /><br /><br />
@@ -187,17 +214,17 @@ get_header();
                 </div>
 
 
-            </li>
+            </div>
 
 
 
 
-            <li  id="six">
+            <div   class="tab-pane" id="six">
 
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titlef'); ?> </h3>
                     <p class="fleetp"> <?php the_field('paraf'); ?> </p>
 
@@ -215,23 +242,23 @@ get_header();
                 </div>
 
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgf'); ?>" class="fleetimg" alt="<?php the_field('titlef'); ?>" />
 
                     <br /><br /><br />
 
                 </div>
 
-            </li>
+            </div>
 
 
 
 
-            <li  id="seven">
+            <div   class="tab-pane" id="seven">
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titleg'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parag'); ?> </p>
 
@@ -245,20 +272,20 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgg'); ?>" class="fleetimg" alt="<?php the_field('titleg'); ?>" />
                     <br /><br /><br />
 
                 </div>
 
-            </li>
+            </div>
 
 
-            <li  id="eight">
+            <div   class="tab-pane" id="eight">
 
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titleh'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parah'); ?> </p>
 
@@ -272,20 +299,20 @@ get_header();
 
                 </div>
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgh'); ?>" class="fleetimg" alt="<?php the_field('titleh'); ?>" />
 
                     <br /><br /><br />
 
                 </div>
 
-            </li>
+            </div>
 
 
-            <li  id="nine">
+            <div   class="tab-pane" id="nine">
 
 
-                <div class="col-md-12 fleetinner tab-content">
+                <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"><?php the_field('titlei'); ?> </h3>
                     <p class="fleetp"> <?php the_field('parai'); ?> </p>
 
@@ -302,14 +329,14 @@ get_header();
 
 
 
-                <div class="col-md-12 fleetinner tab-content imagebg">
+                <div class="col-md-12 fleetinner  imagebg">
                     <br> <img src="<?php the_field('imgi'); ?>" class="fleetimg" alt="<?php the_field('titlei'); ?>" />
 
                     <br /><br /><br />
 
                 </div>
                 
-            </li>
+            </div>
 
 
 
@@ -321,7 +348,7 @@ get_header();
 
 
 
-        </ul></div>
+        </div></div>
 
 
 
