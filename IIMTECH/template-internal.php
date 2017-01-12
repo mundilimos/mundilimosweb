@@ -25,13 +25,13 @@ get_header();
         <div style="clear: both;"></div>
         <br>
 
+        <li class=""><a href="#twelve" data-toggle="tab" aria-expanded="false">STRETCH LIMO</a></li>
+        <li class=""><a href="#ten" data-toggle="tab" aria-expanded="false">PARTY BUS </a></li>
+        <li class=""><a href="#eleven" data-toggle="tab" aria-expanded="false">  MERCEDEZ-BENZ SPRINTER VAN </a></li>
 
         <li class=""><a href="#seven" data-toggle="tab" aria-expanded="false"> MINIBUS </a></li>
-        <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINI COACH </a></li>
+        <li class=""><a href="#eight" data-toggle="tab" aria-expanded="false">MINICOACH </a></li>
         <li class=""><a href="#nine" data-toggle="tab" aria-expanded="false">MOTOR COACH </a></li>
-        <li class=""><a href="#ten" data-toggle="tab" aria-expanded="false">PARTY BUS </a></li>
-        <li class=""><a href="#eleven" data-toggle="tab" aria-expanded="false">  SPRINTER VAN </a></li>
-        <li class=""><a href="#twelve" data-toggle="tab" aria-expanded="false">STRETCH LIMO</a></li>
 
     </ul>
 
