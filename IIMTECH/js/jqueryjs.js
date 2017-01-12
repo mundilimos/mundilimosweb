@@ -73,13 +73,16 @@ jQuery(document).ready(function($) {
 	}).call(this);
 
 
-
+/*
 
 	$('.slickow').slick({
 		nextArrow: '<i class="fa fa-play goright"></i>',
 		prevArrow: '<i class="fa fa-play goleft"></i>',
-// add the rest of your options here
-	});
+ 	});
+
+*/
+
+//removed slick slider
 
 
 });
