@@ -1208,7 +1208,7 @@ i.fa.fa-play.goright.slick-arrow {
     width: 100%;
     margin: auto;
     height: auto;
-    max-width: 400px;
+    max-width: 600px;
 }
 
 
@@ -1299,9 +1299,9 @@ div.slick-slider {
 
 .col-md-12.fleetinner.imagebg {
     background-image: url(/wp-content/themes/IIMTECH/images/gradient.jpg);
-    background-size: 602px;
+    background-size: 673px;
     background-repeat-y: no-repeat !important;
-    background-position-y: 151px;
+    background-position-y: 218px;
 }
 
 
