@@ -273,7 +273,7 @@ get_header();
                 </div>
 
                 <div class="col-md-12 fleetinner  imagebg">
-                    <br> <img src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
+                    <br> <img style="margin-top: 54px;" src="<?php the_field('imge'); ?>" class="fleetimg" alt="<?php the_field('titlee'); ?>" />
 
                     <br /><br /><br />
 
