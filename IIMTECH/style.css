@@ -1381,5 +1381,23 @@ div.slick-slider {
         font-size: 12px !important;
     }
 
-    
+
+    p.fleetp{
+
+        font-weight: bold !important;
+        font-size: 13px !important;
+        letter-spacing: 3px !important;
+
+    }
+
+
+
+    h3.fleeth3 {
+
+        font-weight: 600 !important;
+
+        font-size: 25px !important;
+    }
+
+
 }
