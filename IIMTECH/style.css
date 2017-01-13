@@ -22,7 +22,10 @@ body.post-template-default {
     color: #000 !important;
 }
 
-
+body.page-template-default {
+    background: #fff !important;
+    color: #000 !important;
+}
 
 
 
