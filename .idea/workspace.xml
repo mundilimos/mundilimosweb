@@ -57,9 +57,10 @@
         <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="275" column="54" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
+              <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
               <folding>
                 <element signature="e#8593#8618#0#HTML" expanded="true" />
+                <element signature="e#12542#12567#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -673,12 +674,12 @@
       <workItem from="1484100310093" duration="5250000" />
       <workItem from="1484112451088" duration="2634000" />
       <workItem from="1484179747086" duration="7479000" />
-      <workItem from="1484272508687" duration="2515000" />
+      <workItem from="1484272508687" duration="2618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106465000" />
+    <option name="totallyTimeSpent" value="106568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1360" height="694" extended-state="6" />
@@ -1113,9 +1114,10 @@
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-internal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="275" column="54" selection-start-line="275" selection-start-column="54" selection-end-line="275" selection-end-column="54" />
+          <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
           <folding>
             <element signature="e#8593#8618#0#HTML" expanded="true" />
+            <element signature="e#12542#12567#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
