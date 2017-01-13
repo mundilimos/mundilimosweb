@@ -774,14 +774,14 @@ body.page-template-template-internal {
     .col-md-12.fleetinner.imagebg {
         background-image: url(/wp-content/themes/IIMTECH/images/gradient.jpg) !important;
         background-size: 400px !important;
-        background-repeat-y: no-repeat !important;
+        background-repeat: no-repeat !important;
         background-position-y: 148px !important;
     }
 
 
     .nav-tabs>li>a {
          font-weight: 600 !important;
-        font-size: 11px !important;
+        font-size: 12px !important;
     }
 
     .nav-tabs{
