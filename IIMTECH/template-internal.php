@@ -65,9 +65,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('counta'); ?> </span>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"><span class="no-turns"> <?php the_field('counta'); ?> </span></span>
                     <br class="visible-xs"><br class="visible-xs">
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('counta2'); ?> </span>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"><span class="no-turns"> <?php the_field('counta2'); ?> </span></span>
 
               </div>
 
@@ -108,9 +108,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countb'); ?> </span>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns"><?php the_field('countb'); ?></span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countb2'); ?> </span>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns"><?php the_field('countb2'); ?> </span></span>
 
 </div>
 
@@ -142,9 +142,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <?php the_field('countc'); ?> </span>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns"><?php the_field('countc'); ?> </span></span>
                         <br class="visible-xs"><br class="visible-xs">
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <?php the_field('countc2'); ?> </span>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns"><?php the_field('countc2'); ?></span> </span>
 
 </div>
 
@@ -174,9 +174,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  6 </span>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  <span class="no-turns">6</span> </span>
                         <br class="visible-xs"> <br class="visible-xs">
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 6 </span>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">6 </span></span>
 
                         </div>
 
@@ -205,9 +205,9 @@ get_header();
                         The epitome of the chauffeured transportation industry. Our fleet of late-model, jet-black Escalades are dressed in three rows of hand-crafted Italian black leather, with both heated and cooled seats, large accommodating doors, and ample room for our clients.
                     </p>
                     <div class="passengerwrap">
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 6 </span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">6 </span></span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 6 </span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">6</span> </span>
                     </div>
                 </div>
                 <div class="col-md-12 fleetinner  imagebg">
@@ -234,9 +234,9 @@ get_header();
                         The definition of automotive design and technological perfection. This upermost selection is a timeless interpretation of the modern luxury car. With powerful and iconic proportions and state-of-the-art technology, it provides the ultimate transfer experience.
                     </p>
                     <div class="passengerwrap">
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 3 </span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">3</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 3 </span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">3</span> </span>
                     </div>
                 </div>
                 <div class="col-md-12 fleetinner  imagebg">
@@ -264,9 +264,9 @@ get_header();
                     <div class="passengerwrap">
 
 
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  12 </span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  <span class="no-turns">12</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 4 </span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">4</span> </span>
 
                     </div>
 
@@ -300,9 +300,9 @@ get_header();
                         deal for celebrations, this amazing selection comes equipped with built-in bars, fiber optic lighting throughout, comfortable seating, a large 60” wide-screen LED TV with DVD/MP3/CD player, and an impeccable audio system.
                     </p>
                     <div class="passengerwrap">
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 24 </span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">24</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 0 </span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">0</span> </span>
                     </div>
                 </div>
                 <div class="col-md-12 fleetinner  imagebg">
@@ -334,9 +334,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  14 </span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  <span class="no-turns">14</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee">  14 </span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee">  <span class="no-turns">14</span> </span>
                     </div>
 
 
@@ -364,9 +364,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  27</span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  <span class="no-turns">27</span></span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 37</span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">37</span></span>
                     </div>
 
 
@@ -395,9 +395,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 40</span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">40</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 50</span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"><span class="no-turns">50 </span> </span>
                     </div>
 
                 </div>
@@ -424,9 +424,9 @@ get_header();
 
 
 
-                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> 55 </span>
+                    <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">55</span> </span>
                         <br class="visible-xs"><br class="visible-xs">
-                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 65 </span>
+                    <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">65</span> </span>
 
                         </div>
                 </div>
@@ -457,9 +457,9 @@ get_header();
 
                     <div class="passengerwrap">
 
-                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  27</span>
+                        <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt">  <span class="no-turns">27</span></span>
                         <br class="visible-xs"><br class="visible-xs">
-                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> 37</span>
+                        <span class ="uppercase"> LUGGAGE CAPACITY </span> <span class="suitecasee"> <span class="no-turns">37</span></span>
                     </div>
 
 
