@@ -36,8 +36,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="1398" column="34" selection-start-line="1398" selection-start-column="34" selection-end-line="1398" selection-end-column="34" />
+            <state relative-caret-position="279">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -661,12 +661,12 @@
       <workItem from="1484100310093" duration="5250000" />
       <workItem from="1484112451088" duration="2634000" />
       <workItem from="1484179747086" duration="7479000" />
-      <workItem from="1484272508687" duration="1270000" />
+      <workItem from="1484272508687" duration="1544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105220000" />
+    <option name="totallyTimeSpent" value="105494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1360" height="694" extended-state="6" />
@@ -1099,8 +1099,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="1398" column="34" selection-start-line="1398" selection-start-column="34" selection-end-line="1398" selection-end-column="34" />
+        <state relative-caret-position="279">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
