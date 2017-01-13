@@ -763,6 +763,33 @@ body.page-template-template-internal {
         margin-top: 10%;
     }
 
+    .nav-tabs>li {
+        float: left;
+        margin-bottom: -1px;
+        width: 33%;
+        margin: auto;
+    }
+
+
+    .col-md-12.fleetinner.imagebg {
+        background-image: url(/wp-content/themes/IIMTECH/images/gradient.jpg) !important;
+        background-size: 400px !important;
+        background-repeat-y: no-repeat !important;
+        background-position-y: 148px !important;
+    }
+
+
+    .nav-tabs>li>a {
+         font-weight: 600 !important;
+        font-size: 11px !important;
+    }
+
+    .nav-tabs{
+
+        width: 100% !important;
+
+    }
+
     .col-md-6.leftchecks.checksblue.text-right {
         text-align: center;
     }
