@@ -1290,8 +1290,8 @@ span.personcountt {
     padding: 10px;
     width: 40px;
     display: inline-block;
-    border-radius: 27px;
-    margin-left: 7px;
+    margin-left: 16px;
+    transform: rotate(45deg);
     margin-right: 7px;
 }
 
@@ -1301,11 +1301,10 @@ span.suitecasee {
     padding: 10px;
     width: 40px;
     display: inline-block;
-    border-radius: 27px;
-    margin-left: 7px;
+    margin-left: 16px;
     margin-right: 7px;
+    transform: rotate(45deg);
 }
-
 
 span.uppercase {
     font-weight: 300;
@@ -1412,3 +1411,7 @@ div.slick-slider {
 
 
 
+span.no-turns {
+    transform: rotate(-45deg) !important;
+    display: inline-block;
+}
