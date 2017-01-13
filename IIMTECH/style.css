@@ -779,10 +779,7 @@ body.page-template-template-internal {
     }
 
 
-    .nav-tabs>li>a {
-         font-weight: 600 !important;
-        font-size: 12px !important;
-    }
+
 
     .nav-tabs{
 
@@ -1370,4 +1367,19 @@ div.slick-slider {
     border-bottom-color: none !important;
     text-align: center;
     display: inline-block;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+    .nav-tabs>li>a {
+        font-weight: 600 !important;
+        font-weight: bold !important;
+        font-size: 12px !important;
+    }
+
+    
 }
