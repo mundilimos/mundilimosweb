@@ -29,16 +29,77 @@
  </div>
  
  <!-- LOOP SETTINGS STARTS -->
-<?php  $the_query = new Wp_query( 'category_name=SERVICES&posts_per_page=12' ); ?>
+
+
+
+
+
+
+
+
+
+     <ul class="nav nav-tabs">
+         <!-- 'tabs-right' for right tabs -->
+         <li class="active"><a href="#" data-toggle="tab" aria-expanded="false">CORPORATE TRANSPORTATION</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">AIRPORT TRANSPORTATION</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="true">NIGHTLIFE</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">CITY TOURS</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> CEREMONIES</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> SEAPORT TRANSPORTATION</a></li>
+
+         <div style="clear: both;"></div>
+         <br>
+
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">CELEBRATIONS</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">BARS / RESTAURANTS</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">  SPORTING EVENTS</a></li>
+
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> PERFORMING ARTS EVENTS</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">PERFORMING ARTS EVENTS</a></li>
+         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">HOTELS / CASINOS</a></li>
+
+     </ul>
+
+
+
+
+     <div style="clear:both;"></div>
+
+
+
+
+
+
+
+
+    <div class="tab-content" style="padding-bottom: 30px;">
+
+
+
+     <?php  $the_query = new Wp_query( 'category_name=SERVICES&posts_per_page=12' ); ?>
 <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
 <!-- LOOP SETTINGS ENDS LOOP STARTS BELOW -->
-<div class="thebox col-md-6" style="position:relative;">
 
-<div class="theboxinner">
-<a href="<?php the_permalink(); ?> "> 
+    <div   class="tab-pane <?php if ( the_field('pos') == 1 ){ ?> active <?php } ?>" id="<?php echo the_field('pos') ?>">
+
+
+<h3 class="text-white text-center">  <?php echo the_field('hone'); ?>   </h3>
+<p class="centerp text-center">   <?php echo the_field('pone')?>  </p>
+
+
+        <div style="clear: both;"></div>
+
+    <div class="col-md-8">
+
 <?php if( has_post_thumbnail() ){ the_post_thumbnail(); } ?> 
-</a> 
-<h3 class="text-center"><a class="boxh3a" href="<?php the_permalink(); ?> "><?php the_title(); ?></a></h3> 
+ </div>
+
+
+
+
+
+<div class="col-md-4 servicesul">
+        <?php echo the_field('imgsrc') ?>
 </div>
 
 

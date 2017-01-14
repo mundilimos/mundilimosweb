@@ -1415,3 +1415,10 @@ span.no-turns {
     transform: rotate(-45deg) !important;
     display: inline-block;
 }
+
+
+
+body.page-template-template-internal footer {
+
+    min-height: auto !important;
+}
