@@ -65,7 +65,7 @@
 
 
 
-    <div class="tab-content" style="padding-bottom: 30px;">
+    <div class="tab-content blahtab" style="padding-bottom: 30px;">
 
 
 
@@ -73,7 +73,7 @@
 <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
 <!-- LOOP SETTINGS ENDS LOOP STARTS BELOW -->
 
-    <div   class="tab-pane blah" id="<?php echo the_field('pos') ?>">
+    <div   class="tab-pane" id="<?php echo the_field('pos') ?>">
 
 
 <h3 class="text-white text-center servicesp">  <?php echo the_field('hone'); ?>   </h3>

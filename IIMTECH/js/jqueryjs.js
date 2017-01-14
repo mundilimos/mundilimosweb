@@ -86,7 +86,7 @@ jQuery(document).ready(function($) {
 
 
 
-	$('div.blah #1').addClass('active');
+	$('div.blahtab #1').addClass('active');
 
 
 });
