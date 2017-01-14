@@ -1407,6 +1407,25 @@ div.slick-slider {
     }
 
 
+
+    #servicesnav ul.nav-tabs{
+
+        padding-left: inherit !important;
+
+    }
+
+    #servicesnav ul.nav-tabs li{
+
+        width: 50% !important;
+    }
+
+    #servicesnav ul.nav-tabs li a{
+
+        font-size: 0.8em !important;
+
+    }
+
+
 }
 
 
@@ -1464,3 +1483,4 @@ margin-bottom: 25px;
     margin-bottom: 8%;
     max-width: 100% !important;
 }
+
