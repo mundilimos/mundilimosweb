@@ -10,7 +10,11 @@
  
   ?>
  
- 
+
+<hr>
+
+<div style="clear: both;"></div>
+
  
  <div class="container">
  

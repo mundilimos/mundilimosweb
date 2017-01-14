@@ -1458,3 +1458,9 @@ margin-bottom: 25px;
 
 
  }
+
+
+.tab-pane .centerp {
+    margin-bottom: 8%;
+    max-width: 100% !important;
+}
