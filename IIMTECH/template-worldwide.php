@@ -40,23 +40,23 @@
 
      <ul class="nav nav-tabs">
          <!-- 'tabs-right' for right tabs -->
-         <li class="active"><a href="#" data-toggle="tab" aria-expanded="false">CORPORATE TRANSPORTATION</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">AIRPORT TRANSPORTATION</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="true">NIGHTLIFE</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">CITY TOURS</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> CEREMONIES</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> SEAPORT TRANSPORTATION</a></li>
+         <li class="active"><a href="#1" data-toggle="tab" aria-expanded="false">CORPORATE TRANSPORTATION</a></li>
+         <li class=""><a href="#2" data-toggle="tab" aria-expanded="false">AIRPORT TRANSPORTATION</a></li>
+         <li class=""><a href="#3" data-toggle="tab" aria-expanded="true">NIGHTLIFE</a></li>
+         <li class=""><a href="#4" data-toggle="tab" aria-expanded="false">CITY TOURS</a></li>
+         <li class=""><a href="#5" data-toggle="tab" aria-expanded="false"> CEREMONIES</a></li>
+         <li class=""><a href="#6" data-toggle="tab" aria-expanded="false"> SEAPORT TRANSPORTATION</a></li>
 
          <div style="clear: both;"></div>
          <br>
 
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">CELEBRATIONS</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">BARS / RESTAURANTS</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">  SPORTING EVENTS</a></li>
+         <li class=""><a href="#7" data-toggle="tab" aria-expanded="false">CELEBRATIONS</a></li>
+         <li class=""><a href="#8" data-toggle="tab" aria-expanded="false">BARS / RESTAURANTS</a></li>
+         <li class=""><a href="#9" data-toggle="tab" aria-expanded="false">  SPORTING EVENTS</a></li>
 
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false"> PERFORMING ARTS EVENTS</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">PERFORMING ARTS EVENTS</a></li>
-         <li class=""><a href="#" data-toggle="tab" aria-expanded="false">HOTELS / CASINOS</a></li>
+         <li class=""><a href="#10" data-toggle="tab" aria-expanded="false"> PERFORMING ARTS EVENTS</a></li>
+         <li class=""><a href="#11" data-toggle="tab" aria-expanded="false">PERFORMING ARTS EVENTS</a></li>
+         <li class=""><a href="#12" data-toggle="tab" aria-expanded="false">HOTELS / CASINOS</a></li>
 
      </ul>
 
@@ -80,7 +80,7 @@
 <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
 <!-- LOOP SETTINGS ENDS LOOP STARTS BELOW -->
 
-    <div   class="tab-pane <?php if ( the_field('pos') == 1 ){ ?> active <?php } ?>" id="<?php echo the_field('pos') ?>">
+    <div   class="tab-pane <?php if ( is_page('9071') ){ ?> active <?php } ?>" id="<?php echo the_field('pos') ?>">
 
 
 <h3 class="text-white text-center">  <?php echo the_field('hone'); ?>   </h3>
