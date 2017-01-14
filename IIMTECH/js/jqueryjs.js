@@ -85,6 +85,10 @@ jQuery(document).ready(function($) {
 //removed slick slider
 
 
+
+	$('div.blah #1').addClass('active');
+
+
 });
 
 
