@@ -60,7 +60,7 @@ if ( wp_is_mobile() ) { ?>
 		<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
 	</head>
-	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-bigbig.php")  || is_page_template("template-aboutus.php")   ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff; color:#000; <?php } ?>">
+	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-bigbig.php")  || is_page_template("template-aboutus.php")   || is_page_template("template-worldwide.php") ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff; color:#000; <?php } ?>">
 
 
 
@@ -141,8 +141,8 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-internal.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php") || is_page_template("template-internal.php") ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") ||   is_page_template("template-aboutus.php") ){ ?>
-			 biggy <?php }?>"  style="<?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?>  <?php if( is_page_template("template-internal.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Fleet.jpg); <?php } ?>   <?php if( is_page_template("template-bigbig.php") ){ ?> background-image: url( <?php the_field( 'bigbg' ) ?> ); <?php } ?>">
+	<section id="<?php if( is_page_template("template-homepage.php") || is_page_template("template-internal.php") || is_page_template("template-worldwide.php") || is_page_template("template-aboutus.php") || is_page_template("template-bigbig.php") ){ ?>bigbg<?php }?>" class="<?php if(! is_page_template("template-homepage.php") ||   is_page_template("template-aboutus.php") ){ ?>
+			 biggy <?php }?>"  style="<?php if( is_page_template("template-aboutus.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Aboutus.jpg); <?php } ?> <?php if( is_page_template("template-worldwide.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Subscribe.jpg); <?php } ?>  <?php if( is_page_template("template-internal.php") ){ ?> background-image: url(/wp-content/themes/IIMTECH/images/Fleet.jpg); <?php } ?>   <?php if( is_page_template("template-bigbig.php") ){ ?> background-image: url( <?php the_field( 'bigbg' ) ?> ); <?php } ?>">
 
 
 
@@ -248,7 +248,7 @@ if ( wp_is_mobile() ) { ?>
 
 		<?php } ?>
 
-		<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php") || is_page_template("template-internal.php") || is_page_template("template-bigbig.php")  ){ ?>
+		<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php") || is_page_template("template-worldwide.php") || is_page_template("template-internal.php") || is_page_template("template-bigbig.php")  ){ ?>
 
 
 			<a href="https://book.mylimobiz.com/v4/mundilimo" class="booking">  BOOK A RIDE </a>
