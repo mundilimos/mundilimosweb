@@ -394,7 +394,7 @@ section.section3 {
 
 #sectiondiscover{
     min-height: 1000px;
-    background-size: cover !important;
+    background-size: cover ;
     background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -766,6 +766,14 @@ body.page-template-template-internal {
 
 
 @media only screen and (max-width: 768px)  {
+
+
+    #sectiondiscover{
+         background-size: contain ;
+
+
+    }
+
 
     .slick-slide img {
         margin-top: 10%;

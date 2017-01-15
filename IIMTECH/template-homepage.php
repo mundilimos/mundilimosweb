@@ -286,7 +286,7 @@
     <br />
     <p class="centerp">
 
-        Held to the highest standards of safety, maintenance, and presentation, our extensive fleet features only the market’s latest model luxury vehicles, allowing us to offer the right selection to suit the specifics needs of our clients. You can choose from a variety of top class sedans, SUVs, stretch limousines, vans and coaches. All vehicles are black on black colored, with full leather interiors and tinted windows to ensure comfort and privacy. While being transferred by one of our professional chauffeurs, you are empowered to relax, enjoy the finest on-the-go amenities and take full advantage of the industry’s most advanced technologies that provides non-stop productivity for private and corporate travelers. Whether your transportation requirements are for airport transfer, corporate events or entertainment, Mundi Limousine delivers the perfect seat for any journey.
+        Held to the highest standards of safety, maintenance, and presentation, our extensive fleet features only the market’s latest model luxury vehicles, allowing us to offer the right selection to suit the specifics needs of our clients. You can choose from a variety of top class sedans, SUVs, stretch limousines, vans and coaches. All vehicles are black on black colored, with full leather interiors and tinted windows to ensure comfort and privacy. <span class="hidden-xs"> While being transferred by one of our professional chauffeurs, you are empowered to relax, enjoy the finest on-the-go amenities and take full advantage of the industry’s most advanced technologies that provides non-stop productivity for private and corporate travelers. Whether your transportation requirements are for airport transfer, corporate events or entertainment, Mundi Limousine delivers the perfect seat for any journey. </span>
     </p>
 </section>
 
@@ -295,7 +295,7 @@
 
 <section id="sectiondiscover">
 
-    <h2> SEDAN  &nbsp;•&nbsp;  SUV  &nbsp;•&nbsp;  STRETCH LIMOUSINE  &nbsp;•&nbsp;  VAN  &nbsp;•&nbsp;  COACH
+    <h2 class="hidden-xs"> SEDAN  &nbsp;•&nbsp;  SUV  &nbsp;•&nbsp;  STRETCH LIMOUSINE  &nbsp;•&nbsp;  VAN  &nbsp;•&nbsp;  COACH
 
     </h2>
 
@@ -328,7 +328,7 @@
                 <br />
                 <p class="text-center centerp" style="max-width: 900px; margin: auto;">
 
-                    Our services are designed to offer the prime experience in chauffeured ground transportation, delighting our clients – however corporate or private; large or small. We integrate industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success.
+                    Our services are designed to offer the prime experience in chauffeured ground transportation, delighting our clients – however corporate or private; large or small. <span class="hidden-xs"> We integrate industry leading technologies and human logistics solutions for you in ways others can only aspire. We anticipate your needs at every turn with the utmost display of carefulness, ethics and professionalism. Our confidence and your satisfaction are the sole indicators of our success. </span>
                 </p>
             </div>
         </div>
