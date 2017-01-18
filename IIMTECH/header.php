@@ -117,10 +117,10 @@ if ( wp_is_mobile() ) { ?>
 	if ( wp_is_mobile() ) { ?>
 	<header class="mobile" id="mobile-header"
 
-			<?php if (! is_page( '8' ) ) { ?>
+			<?php if ( is_page( '8' ) ) { ?> <?php }  else{ ?>
 
-		<?php if ( has_post_thumbnail() ) : ?> style="background-image: url( <?php the_post_thumbnail_url(); ?> )" <?php endif; ?> >
-	<?php }  ?>
+		<?php if ( has_post_thumbnail() ) : ?> style="background-image: url( <?php the_post_thumbnail_url(); ?> )" <?php endif; ?> <?php } ?> >
+
 
 		<div id="splash" class="mobile-contact-panel">
 			<ul>
