@@ -115,9 +115,9 @@ if ( wp_is_mobile() ) { ?>
 
 <?php
 	if ( wp_is_mobile() ) { ?>
-	<header class="mobile" id="mobile-header" <?php if(! is_home() ){ ?>
+	<header class="mobile" id="mobile-header"
 		<?php if ( has_post_thumbnail() ) : ?> style="background-image: url( <?php the_post_thumbnail_url(); ?> )" <?php endif; ?> >
-		<?php } ?>
+	
 
 		<div id="splash" class="mobile-contact-panel">
 			<ul>
@@ -130,9 +130,23 @@ if ( wp_is_mobile() ) { ?>
 				</li>
 			</ul>
 
+
+
+			<?php if ( is_home() ) { ?>
+
 				<h1 class="site-title text-center" style="font-size: 30px; text-transform:none !important;">
 					Worldwide Chauffeured <br>
 					Services </h1>
+			<?php } else{ ?>
+
+
+			<h1 class="site-title text-center" style="font-size: 30px; text-transform:none !important;">
+				<?php the_title(); ?>
+
+				   </h1>
+
+			<?php }  ?>
+
 		</div>
 	</header>
 
