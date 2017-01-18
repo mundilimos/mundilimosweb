@@ -135,7 +135,7 @@ if ( wp_is_mobile() ) { ?>
 
 
 
-			<?php if ( is_home() ) { ?>
+			<?php if ( is_page( 8 ) ) { ?>
 
 				<h1 class="site-title text-center" style="font-size: 30px; text-transform:none !important;">
 					Worldwide Chauffeured <br>
