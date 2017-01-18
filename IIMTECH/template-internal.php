@@ -297,7 +297,7 @@ get_header();
                 <div class="col-md-12 fleetinner ">
                     <h3 class="fleeth3"> PARTY BUS </h3>
                     <p class="fleetp">
-                        deal for celebrations, this amazing selection comes equipped with built-in bars, fiber optic lighting throughout, comfortable seating, a large 60” wide-screen LED TV with DVD/MP3/CD player, and an impeccable audio system.
+                        Ideal for celebrations, this amazing selection comes equipped with built-in bars, fiber optic lighting throughout, comfortable seating, a large 60” wide-screen LED TV with DVD/MP3/CD player, and an impeccable audio system.
                     </p>
                     <div class="passengerwrap">
                         <span class ="uppercase"> PASSENGER CAPACITY </span> <span class="personcountt"> <span class="no-turns">24</span> </span>

@@ -115,7 +115,10 @@ if ( wp_is_mobile() ) { ?>
 
 <?php
 	if ( wp_is_mobile() ) { ?>
-	<header class="mobile" id="mobile-header">
+	<header class="mobile" id="mobile-header" <?php if(! is_home() ){ ?>
+		<?php if ( has_post_thumbnail() ) : ?> style="background-image: url( <?php the_post_thumbnail_url(); ?> )" <?php endif; ?> >
+		<?php } ?>
+
 		<div id="splash" class="mobile-contact-panel">
 			<ul>
 				<li id="the-custom-logo">
