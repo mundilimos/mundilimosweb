@@ -293,7 +293,7 @@
 <br /><br />
 
 
-<section id="sectiondiscover">
+<section id="sectiondiscover" style=" background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg);">
 
     <h2>
 
@@ -306,7 +306,7 @@
 
 
     <a href="/fleet" class="booking">  DISCOVER MORE </a>
- 
+
 </section>
 
 
