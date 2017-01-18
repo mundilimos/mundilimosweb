@@ -117,7 +117,7 @@ if ( wp_is_mobile() ) { ?>
 	if ( wp_is_mobile() ) { ?>
 	<header class="mobile" id="mobile-header"
 
-			<?php if (! if_page( '8' ) ) { ?>
+			<?php if (! is_page( '8' ) ) { ?>
 
 		<?php if ( has_post_thumbnail() ) : ?> style="background-image: url( <?php the_post_thumbnail_url(); ?> )" <?php endif; ?> >
 	<?php }  ?>
