@@ -295,12 +295,18 @@
 
 <section id="sectiondiscover">
 
-    <h2 class="hidden-xs"> SEDAN  &nbsp;•&nbsp;  SUV  &nbsp;•&nbsp;  STRETCH LIMOUSINE  &nbsp;•&nbsp;  VAN  &nbsp;•&nbsp;  COACH
+    <h2>
 
+        <span class="hidden-xs">
+        SEDAN  &nbsp;•&nbsp;  SUV  &nbsp;•&nbsp;  STRETCH LIMOUSINE  &nbsp;•&nbsp;  VAN  &nbsp;•&nbsp;  COACH
+</span>
+        &nbsp;
     </h2>
 
-    <a href="/fleet" class="booking">  DISCOVER MORE </a>
 
+
+    <a href="/fleet" class="booking">  DISCOVER MORE </a>
+ 
 </section>
 
 
