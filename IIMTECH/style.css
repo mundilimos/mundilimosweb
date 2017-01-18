@@ -769,10 +769,19 @@ body.page-template-template-internal {
 
 
     #sectiondiscover{
-         background-size: contain ;
 
 
+        background: url(/wp-content/themes/IIMTECH/images/Fleet.jpg) !important;
+        background-size: contain !important;
+        background-repeat: no-repeat !important;
+        background-attachment: initial !important;
     }
+
+
+ 
+    section#sectiondiscover h2 {
+
+        padding-bottom: 74px !important; }
 
 
     .slick-slide img {
