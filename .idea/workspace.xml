@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/footer.php" afterPath="$PROJECT_DIR$/IIMTECH/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="773" column="36" selection-start-line="773" selection-start-column="36" selection-end-line="773" selection-end-column="36" />
+            <state relative-caret-position="277">
+              <caret line="782" column="26" selection-start-line="782" selection-start-column="26" selection-end-line="782" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -133,8 +133,8 @@
         <option value="$PROJECT_DIR$/IIMTECH/template-internal.php" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-homepage.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/footer.php" />
+        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
       </list>
     </option>
   </component>
@@ -705,12 +705,12 @@
       <workItem from="1484709249663" duration="2585000" />
       <workItem from="1484713991986" duration="137000" />
       <workItem from="1484790439130" duration="239000" />
-      <workItem from="1484885678543" duration="1251000" />
+      <workItem from="1484885678543" duration="1443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122144000" />
+    <option name="totallyTimeSpent" value="122336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1360" height="689" extended-state="6" />
@@ -1097,14 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="773" column="36" selection-start-line="773" selection-start-column="36" selection-end-line="773" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/template-worldwide.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1154,6 +1146,14 @@
           <folding>
             <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="782" column="26" selection-start-line="782" selection-start-column="26" selection-end-line="782" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
