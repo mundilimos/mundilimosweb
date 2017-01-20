@@ -14,7 +14,7 @@
 
 
 
-<footer id="footer" class="footer" style="background: #000 !important;">
+<footer id="footer" class="footer" style="background: #000;">
 
 
 
