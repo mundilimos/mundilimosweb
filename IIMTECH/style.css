@@ -768,6 +768,15 @@ body.page-template-template-internal {
 @media only screen and (max-width: 768px)  {
 
 
+
+    body.blog footer{
+
+        background: #000 !important;
+
+
+    }
+
+
     #sectiondiscover{
 
 
@@ -778,7 +787,7 @@ body.page-template-template-internal {
     }
 
 
- 
+
     section#sectiondiscover h2 {
 
         padding-bottom: 74px !important; }
