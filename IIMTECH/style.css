@@ -767,6 +767,15 @@ body.page-template-template-internal {
 
 @media only screen and (max-width: 768px)  {
 
+    section.globalinfo h2 {
+text-align: center !important;
+
+    }
+
+    section.globalinfo p {
+        text-align: center !important;
+
+    }
 
 
     body.blog footer{
@@ -1549,3 +1558,33 @@ h3.fleeth3 {
 .nav-tabs {
     border-bottom: none !important;
 }
+
+
+section.globalinfo h2 {
+    font-size: 1.8em;
+}
+
+section.globalinfo p {
+    font-size: 1.2em;
+}
+
+section.globalinfo {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+
+section.cityserved h2 {
+    font-size: 1.8em;
+}
+
+.cityserved p.text-center {
+    font-size: 1em;
+    line-height: 0;
+}
+
+section.cityserved h2 {
+    padding-top: 80px;
+}
+
