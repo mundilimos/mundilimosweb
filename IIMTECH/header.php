@@ -213,7 +213,7 @@ if ( wp_is_mobile() ) { ?>
 
 <div style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-aboutus.php")  || is_page_template("template-worldwide.php")   || is_page_template("template-bigbig.php") || is_page_template("template-internal.php") ){ ?>  <?php } else { ?> background-color:#000 !important; color:#fff  !important; <?php } ?>" >
 
-		<div class="container">
+		<div class="container navbar-fixed-top">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="col-md-4">
 				<div class="navbar-header">
