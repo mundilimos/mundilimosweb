@@ -59,6 +59,11 @@ if ( wp_is_mobile() ) { ?>
 
 		<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 
+
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+
 	</head>
 	<body <?php body_class(); ?> style="<?php if( is_page_template("template-homepage.php") || is_page_template("template-bigbig.php")  || is_page_template("template-aboutus.php")   || is_page_template("template-worldwide.php") ){ ?> background-color:#000 !important; color:#fff !important; <?php } else { ?> background-color:#fff; color:#000; <?php } ?>">
 
