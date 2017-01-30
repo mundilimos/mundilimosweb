@@ -1596,3 +1596,14 @@ section.select2section {
     background: transparent;
     color: #2ca6bd !important;
 }
+
+
+.select2-results__options {
+    color: #2ca6bd !important;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field {
+     color: #2ca6bd !important;
+    font-weight: bold;
+}
+
