@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294891f-4a9c-4125-94f5-21f6906a0b77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" afterPath="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IIMTECH/style.css" afterPath="$PROJECT_DIR$/IIMTECH/style.css" />
     </list>
     <ignored path="mundimain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template-ww.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IIMTECH/template-ww.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-580">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="530">
+              <caret line="1597" column="1" selection-start-line="1597" selection-start-column="1" selection-end-line="1597" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -46,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jqueryjs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jqueryjs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IIMTECH/js/jqueryjs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="449">
@@ -153,11 +153,11 @@
         <option value="$PROJECT_DIR$/IIMTECH/template-ww.php" />
         <option value="$PROJECT_DIR$/IIMTECH/template-wwi.php" />
         <option value="$PROJECT_DIR$/IIMTECH/headerww.php" />
-        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
         <option value="$PROJECT_DIR$/IIMTECH/header.php" />
         <option value="$PROJECT_DIR$/IIMTECH/test" />
         <option value="$PROJECT_DIR$/IIMTECH/footer.php" />
         <option value="$PROJECT_DIR$/IIMTECH/js/jqueryjs.js" />
+        <option value="$PROJECT_DIR$/IIMTECH/style.css" />
       </list>
     </option>
   </component>
@@ -730,12 +730,12 @@
       <workItem from="1484790439130" duration="239000" />
       <workItem from="1484885678543" duration="1791000" />
       <workItem from="1485032709071" duration="6047000" />
-      <workItem from="1485620086717" duration="5138000" />
+      <workItem from="1485620086717" duration="5724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133869000" />
+    <option name="totallyTimeSpent" value="134455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1067,14 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="780" column="21" selection-start-line="780" selection-start-column="21" selection-end-line="780" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IIMTECH/headerww.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1178,6 +1170,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IIMTECH/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="1597" column="1" selection-start-line="1597" selection-start-column="1" selection-end-line="1597" selection-end-column="1" />
           <folding />
         </state>
       </provider>

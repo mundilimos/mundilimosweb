@@ -1588,3 +1588,11 @@ section.cityserved h2 {
     padding-top: 80px;
 }
 
+
+
+section.select2section {
+    width: 60%;
+    margin: auto;
+    background: transparent;
+    color: #2ca6bd !important;
+}
