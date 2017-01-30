@@ -89,6 +89,8 @@ jQuery(document).ready(function($) {
 	$('div.blahtab #1').addClass('active');
 
 
+	$(".select2").select2();
+
 });
 
 
