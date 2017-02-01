@@ -1651,3 +1651,15 @@ section.wwcountries.container {
 
 }
 
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    color: #2ca6bd !important;
+ }
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #fff !important;
+
+}
+
+.container.navbar-fixed-top {
+    margin-top: 34px;
+}
